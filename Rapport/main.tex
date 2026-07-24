@@ -1,0 +1,201 @@
+% =============================================================================
+% Rapport de mission 4 : Analyse de la politique RSE et du Numérique Responsable
+% d'Iveco Group
+% =============================================================================
+\documentclass[12pt,a4paper]{article}
+
+% ---------------------------------------------------------------------------
+% Encodage et langue
+% ---------------------------------------------------------------------------
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[french]{babel}
+\usepackage{csquotes}
+\usepackage{lmodern}
+
+% ---------------------------------------------------------------------------
+% Mise en page
+% ---------------------------------------------------------------------------
+\usepackage[a4paper,left=2.5cm,right=2.5cm,top=2.5cm,bottom=2.5cm,headheight=15pt]{geometry}
+\usepackage{setspace}
+\setstretch{1.0}
+\usepackage{parskip}
+
+% ---------------------------------------------------------------------------
+% Graphiques, diagrammes et couleurs
+% ---------------------------------------------------------------------------
+\usepackage{tikz}
+\usetikzlibrary{positioning, shapes.geometric, arrows.meta, calc}
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.18, width=0.95\textwidth, height=0.45\textwidth}
+\definecolor{ivecoblue}{RGB}{0, 82, 147}
+\definecolor{ivecogreen}{RGB}{0, 154, 68}
+\definecolor{ivecoorange}{RGB}{230, 120, 0}
+\definecolor{ivecogray}{RGB}{128, 128, 128}
+
+% ---------------------------------------------------------------------------
+% Typographie et symboles
+% ---------------------------------------------------------------------------
+\usepackage{microtype}
+\usepackage{textcomp}
+\usepackage{amsmath}
+
+% ---------------------------------------------------------------------------
+% En-têtes et pieds de page
+% ---------------------------------------------------------------------------
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\chead{\small\textit{Analyse de la politique RSE et du Numérique Responsable~: Iveco Group}}
+\rfoot{\thepage}
+\renewcommand{\headrulewidth}{0.4pt}
+
+% ---------------------------------------------------------------------------
+% Tableaux, listes et graphiques
+% ---------------------------------------------------------------------------
+\usepackage{booktabs}
+\usepackage{tabularx}
+\usepackage{longtable}
+\usepackage{multirow}
+\usepackage{array}
+\usepackage{enumitem}
+\setlist[itemize]{label=\textbullet,nosep,leftmargin=*}
+\setlist[enumerate]{nosep,leftmargin=*}
+\usepackage{graphicx}
+\graphicspath{{images/}}
+
+% ---------------------------------------------------------------------------
+% Bibliographie (BibLaTeX + Biber)
+% ---------------------------------------------------------------------------
+\usepackage[style=numeric,backend=biber,defernumbers=true,maxbibnames=99,sorting=nyt]{biblatex}
+\addbibresource{bib/references.bib}
+
+% ---------------------------------------------------------------------------
+% Hyperliens (à charger en dernier)
+% ---------------------------------------------------------------------------
+\usepackage[hidelinks,unicode,breaklinks]{hyperref}
+\usepackage{xurl}
+
+% ---------------------------------------------------------------------------
+% Commandes utilitaires
+% ---------------------------------------------------------------------------
+\newcommand{\MONNOM}{Yannis GONOS}
+\newcommand{\MONECOLE}{3IL Nantes}
+\newcommand{\NOMTUTEUR}{Loris HERVIEUX}
+\newcommand{\MONENCADRANT}{Hervé BOISGONTIER}
+\newcommand{\TitreRapport}{Analyse de la politique RSE et du Numérique Responsable d'Iveco Group}
+
+% Commande pour signaler un terme présent dans le glossaire (première occurrence)
+\newcommand{\glos}[1]{#1\textsuperscript{*}}
+
+% Commande pour légender un graphique TikZ
+\newcommand{\chartcaption}[2]{\par\vspace{0.3em}\noindent\small\textbf{#1.} #2\par}
+
+% ---------------------------------------------------------------------------
+% Titre court pour les en-têtes
+% ---------------------------------------------------------------------------
+\title{\TitreRapport}
+\author{\MONNOM}
+\date{Juillet 2026}
+
+% =============================================================================
+% Début du document
+% =============================================================================
+\begin{document}
+
+% ---------------------------------------------------------------------------
+% Page de garde
+% ---------------------------------------------------------------------------
+\begin{titlepage}
+    \centering
+    \vspace*{0.5cm}
+
+    \begin{minipage}[c]{0.45\textwidth}
+        \includegraphics[width=0.85\linewidth]{logo_3il_ingenieurs}
+    \end{minipage}
+    \hfill
+    \begin{minipage}[c]{0.45\textwidth}
+        \raggedleft
+        \includegraphics[width=0.55\linewidth]{iveco_logo.jpg}
+    \end{minipage}
+
+    \vspace{1.5cm}
+    {\Large\textsc{\MONECOLE}}\\[0.3cm]
+    {\large Rapport de mission en entreprise~: Mission 4}\\[1.5cm]
+    \rule{\textwidth}{1.5pt}\\[0.5cm]
+    {\LARGE\bfseries\TitreRapport}\\[0.3cm]
+    \rule{\textwidth}{1.5pt}\\[1.5cm]
+    {\large\textbf{Entreprise~:} Iveco Group}\\[0.5cm]
+    {\large\textbf{Étudiant~:} \MONNOM}\\[0.4cm]
+    {\large\textbf{Encadrant entreprise~:} \NOMTUTEUR}\\[0.4cm]
+    {\large\textbf{Encadrant pédagogique~:} \MONENCADRANT}\\[1.5cm]
+    {\large Juillet 2026 - Septembre 2026}\\[2cm]
+    \vfill
+    {\small\textit{Document rédigé dans le cadre d'une mission d'apprentissage en école d'ingénieurs}}
+\end{titlepage}
+\stepcounter{page}
+
+% ---------------------------------------------------------------------------
+% Remerciements
+% ---------------------------------------------------------------------------
+\thispagestyle{empty}
+\section*{Remerciements}
+\addcontentsline{toc}{section}{Remerciements}
+
+Je tiens à remercier mon tuteur entreprise, \NOMTUTEUR, pour son accompagnement et sa disponibilité tout au long de cette mission. Je remercie également l'ensemble de l'équipe du site de Haute-Goulaine pour son accueil, son enthousiasme et la qualité des échanges autour des enjeux informatiques et RSE. Enfin, je remercie Iveco Group de m'avoir donné l'opportunité de réaliser cette mission au c{\oe}ur d'un environnement technique et humain stimulant.
+
+\paragraph*{Mention relative à l'intelligence artificielle}
+Les modèles d'intelligence artificielle suivants ont été utilisés comme aides à la correction orthographique, à la rédaction et à la recherche d'informations dans les documents fournis : SWE-1.7, GML 5.2, Gemini, un modèle personnel et Claude Opus 4.8.
+
+\newpage
+
+% ---------------------------------------------------------------------------
+% Table des matières
+% ---------------------------------------------------------------------------
+\tableofcontents
+\newpage
+
+% ---------------------------------------------------------------------------
+% Liste des sigles et acronymes
+% ---------------------------------------------------------------------------
+\input{sections/acronymes}
+\newpage
+
+% ---------------------------------------------------------------------------
+% Présentation de l'entreprise (3 pages max)
+% ---------------------------------------------------------------------------
+\input{sections/entreprise}
+
+% ---------------------------------------------------------------------------
+% Thème de la mission : objectifs et contexte
+% ---------------------------------------------------------------------------
+\input{sections/introduction}
+
+% ---------------------------------------------------------------------------
+% Développement : 10 pages maximum
+% ---------------------------------------------------------------------------
+\input{sections/gouvernance}
+\input{sections/social}
+\input{sections/numerique}
+\newpage
+
+% ---------------------------------------------------------------------------
+% Conclusion
+% ---------------------------------------------------------------------------
+\input{sections/conclusion}
+\newpage
+
+% ---------------------------------------------------------------------------
+% Glossaire
+% ---------------------------------------------------------------------------
+\input{sections/glossaire}
+\newpage
+
+% ---------------------------------------------------------------------------
+% Bibliographie
+% ---------------------------------------------------------------------------
+\nocite{un_global_compact,b4si_framework,ghg_protocol,volvo_green_it_2026,daimler_esg_2025,scania_it_green_2025}
+\printbibliography[keyword=interne,heading=subbibliography,title={Documents internes Iveco Group}]
+\printbibliography[keyword=externe,heading=subbibliography,title={Références normatives et cadres sectoriels}]
+
+\end{document}

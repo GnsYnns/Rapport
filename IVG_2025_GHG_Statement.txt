@@ -1,0 +1,389 @@
+CONTENTS
+Preface................................................................................................................................................................................................................................................................... 3 1. Reporting Scope................................................................................................................................................................................................................................................. 4 2. References ......................................................................................................................................................................................................................................................... 5 3. Energy Mix and GHG Emissions Inventory ........................................................................................................................................................................................................ 6 4. Calculation Methodology and Applied Emission Factors .................................................................................................................................................................................. 10
+4.1 GHG Scope 1 Emissions ........................................................................................................................................................................................................................... 10 4.2 GHG Scope 2 Emissions ........................................................................................................................................................................................................................... 11 4.3 GHG Scope 3 Emissions ........................................................................................................................................................................................................................... 12 5. Assurance Report............................................................................................................................................................................................................................................. 21
+2025 Iveco Group GHG Statement 2
+
+PREFACE
+This Greenhouse Gas (GHG) Statement provides an overview of the organisation's emissions profile, in line with recognised reporting standards and best practices. It reflects our ongoing commitment to transparency, environmental responsibility, and alignment with regulatory and voluntary frameworks addressing climate change. GHG emissions are accounted for in accordance with the Greenhouse Gas Protocol. Further details are provided in the References section. In the consolidation of the GHG emissions, Iveco Group adopts the operational control approach. Comprehensive information on the calculation methodology, including the principles applied and data sources used, can be found in the section References. This Statement has been subject to an external assurance engagement, conducted in accordance with the International Standard on Assurance Engagements (ISAE) 3410: Assurance Engagements on Greenhouse Gas Statements. The assurance applies solely to the 2025 reporting period (1 January ­ 31 December).
+2025 Iveco Group GHG Statement 3
+
+1. REPORTING SCOPE
+The Group's Scope 1 and 2 emissions data is presented according to two distinct reporting scopes:  Group-Wide: this scope encompasses all Iveco Group entities and sites, providing a comprehensive overview of the Organisation's environmental performance as a whole  Focus Area: this scope includes only production areas within manufacturing plants, identified as having the greatest impact on environmental performance, providing a targeted view of the scope with the greatest influence.
+The reporting period of the information covers the period from 1 January to 31 December for the years 2023, 2024, and 2025. As the Group Wide information was part of a scope extension prepared for the European Sustainability Reporting Standards (ESRS) implementation, data for 2023 is not available. The Group Scope 3 emissions data is presented according to the Group-Wide scope for 2024 and 2025.
+The reporting scope of the data presented is consistent with that of the 2025 Annual Report (refer to Chapter 1.1 General basis for the preparation of the Sustainability Statement (BP1, BP2); and Chapter 3. Climate Change (E1)). In addition, this document includes supplementary information and data from previous years. In March 2024, Iveco Group announced an agreement with the listed private equity investor Mutares SE & Co. KGaA to transfer the ownership of the Group's Fire Fighting Business Unit, namely of Magirus GmbH and its affiliates under the Brand MAGIRUS. The transfer was completed on 3 January 2025. Some figures for 2019 (the base year for some targets) and for 2024 were either restated (to reflect an adjustment or change in calculation methodology) or recalculated and reported separately as recast data (to reflect the exclusion of Iveco Group's former Fire Fighting Business Unit), to enable comparability with the 2025 reporting perimeter. Unless otherwise indicated, 'n/a' in tables stands for 'not applicable' and 'n.a.' stands for 'not available'.
+2025 Iveco Group GHG Statement 4
+
+2. REFERENCES
+Types of GHG included in the calculation are listed below: · CO2 · CH · N2O
+Regarding the methodologies and standards used for the calculation of GHG emissions, we report below the international, regional and national references, as well as the methodologies for calculating GHG emissions:
+· European Sustainability Reporting Standards (ESRS): reporting principles adopted by the European Commission pursuant to the Directive (EU) 2013/34/EU (European Sustainability Reporting Standards, hereinafter also "ESRS"), in particular Disclosure requirement E1-5 and E1-6 (international reference)
+· The Greenhouse Gas Protocol: a Corporate Accounting and Reporting Standard (Revised Edition), 2004 (international reference) · GHG Protocol Scope 2 Guidance: an amendment to the GHG Protocol Corporate Standard, 2015 (international reference) · GHG Protocol Scope 3 Calculation Guidance: an amendment to the GHG Protocol Corporate Standard (international reference)
+o GHG Protocol Scope 3 Guidance, "The Corporate Value Chain (Scope 3) Accounting and Reporting Standard", 2011 o GHG Protocol Scope 3 Guidance, "Technical Guidance for Calculating Scope 3 Emissions", 2013.
+2025 Iveco Group GHG Statement 5
+
+3. ENERGY MIX AND GHG EMISSIONS INVENTORY
+
+Energy Production Mix (Group-Wide)1
+Fuel consumption from crude oil and petroleum products (MWh)3 Fuel consumption from natural gas (MWh)
+
+2025
+
+2024
+
+2024
+
+2023
+
+(MWh)
+
+Recast2
+
+131,685
+
+118,560
+
+121,279
+
+n.a.
+
+568,798
+
+598,852
+
+605,402
+
+n.a.
+
+Consumption of purchased or acquired electricity, heat, steam, and cooling from fossil sources (MWh)
+
+29,335
+
+96,107
+
+97,121
+
+n.a.
+
+Total fossil energy consumption (MWh)
+
+729,818
+
+813,519
+
+823,802
+
+n.a.
+
+Share of fossil sources in total energy consumption (%)
+
+64.8
+
+69.6
+
+69.1
+
+n.a.
+
+Fuel consumption from renewable sources, including biomass4 (MWh)
+
+-
+
+-
+
+-
+
+n.a.
+
+Consumption of purchased or acquired electricity, heat, steam, and cooling from renewable sources (MWh)
+
+387,796
+
+347,761
+
+360,994
+
+n.a.
+
+Consumption of self-generated non-fuel renewable energy (MWh)
+
+8,296
+
+7,662
+
+7,662
+
+n.a.
+
+Total renewable energy consumption (MWh)
+
+396,092
+
+355,423
+
+368,656
+
+n.a.
+
+Share of renewable sources in total energy consumption (%)
+
+35.2
+
+30.4
+
+30.9
+
+n.a.
+
+Total energy consumption (MWh)
+
+1,125,910 1,168,942 1,192,458
+
+n.a.
+
+(1) Details on nuclear energy use are available in Section 3.5.1 of the Sustainability Statement. (2) The 2024 Recast column reports figures recalculated after excluding Iveco Group's former Fire Fighting Business Unit. (3) The 2024 figures were recalculated to reflect a more granular analysis of car fleet energy consumption. (4) Also comprising industrial and municipal waste of organic origin, biogas, renewable hydrogen, etc.
+
+2025 Iveco Group GHG Statement 6
+
+Energy Production Mix (Focus Area)5
+
+Fuel consumption from crude oil and petroleum products (MWh)
+
+(MWh)
+
+Fuel consumption from natural gas and consumption of purchased or acquired electricity, heat, steam, and cooling from fossil sources (MWh)
+
+Total fossil energy consumption (MWh)
+
+Share of fossil sources in total energy consumption (%)
+
+Fuel consumption from renewable sources, including biomass7 (MWh)
+
+Consumption of purchased or acquired electricity, heat, steam, and cooling from renewable sources (MWh)
+
+Consumption of self-generated non-fuel renewable energy (MWh)
+
+Total renewable energy consumption
+
+Share of renewable sources in total energy consumption (%)
+
+Total energy consumption (MWh)
+
+2025 38,731
+
+2024 Recast6
+39,465
+
+370,384 391,722
+
+409,115 55.6 -
+318,156 8,179
+326,335 44.4
+735,450
+
+431,187 55.6 -
+336,914 7,560
+344,474 44.4
+775,661
+
+2024
+40,400
+396,425
+436,825 55.0 -
+350,001 7,560
+357,561 45.0
+794,386
+
+2023
+37,173
+426,887
+464,060 55.0 242
+372,859 5,264
+378,365 45.0
+842,425
+
+(5) Details on nuclear energy use are available in Section 3.5.1 of the Sustainability Statement. (6) The 2024 Recast column reports figures recalculated after excluding Iveco Group's former Fire Fighting Business Unit. (7) Also comprising industrial and municipal waste of organic origin, biogas, renewable hydrogen, etc.
+
+2025 Iveco Group GHG Statement 7
+
+Scope 1 and 2 GHG emissions (Group-Wide)
+Gross Scope 1 GHG emissions Gross Scope 2 GHG emissions ­ location-based Gross Scope 2 GHG emissions ­ market-based Total GHG emissions (Scope 1 & 2) ­ location-based Total GHG emissions (Scope 1 & 2) ­ market-based
+Scope 1 and 2 GHG emissions (Focus Area)
+Gross Scope 1 GHG emissions9 Gross Scope 2 GHG emissions ­ location-based Gross Scope 2 GHG emissions ­ market-based Total GHG emissions (Scope 1 & 2) ­ location-based Total GHG emissions (Scope 1 & 2) ­ market-based
+
+(tons CO2eq)
+
+2025
+
+2024
+
+Recast8
+
+2024
+
+2023
+
+134,675
+
+133,486
+
+135,324
+
+n.a.
+
+101,417
+
+108,620
+
+110,435
+
+n.a.
+
+10,942
+
+38,380
+
+38,389
+
+n.a.
+
+236,092
+
+242,106
+
+245,759
+
+n.a.
+
+145,617
+
+171,866
+
+173,713
+
+n.a.
+
+(tons CO2eq)
+
+2025
+67,375 78,371 1,827 145,746 69,202
+
+2024 Recast8
+70,314 84,085 3,508 154,399 73,822
+
+2024
+71,215 85,775 3,508 156,990 74,723
+
+2023
+75,067 95,509 3,960 170,576 79,027
+
+(8) The 2024 Recast column reports figures recalculated after excluding Iveco Group's former Fire Fighting Business Unit. (9) Emissions from diesel, LPG, and the car fleet are excluded.
+
+2025 Iveco Group GHG Statement 8
+
+Scope 3 GHG emissions (Group-Wide)
+1 - Purchased goods and services 2 - Capital goods 3 - Fuel-and-energy-related activities (not included in Scopes 1 or 2) 4 - Upstream transportation and distribution 5 - Waste generated in operations 6 - Business travel 7 - Employee commuting 8 - Upstream leased assets 9 - Downstream transportation and distribution 10 - Processing of sold products 11 - Use of sold products10 12 - End-of-life treatment of sold products 13 - Downstream leased assets 14 ­ Franchises 15 - Investments Total GHG emissions (Scope 3)
+
+(tons CO2eq)
+
+(10) The 2024 figures were recalculated to reflect the implementation of a revised methodology for South America data.
+
+2025
+3,874,768 -
+33,757 158,621
+4,040 39,196
+46,069,631 363,280 n/a 50,543,293
+
+2024
+3,968,982 -
+35,136 162,528
+4,204 32,184
+52,330,813 415,386 n/a 56,949,233
+
+2025 Iveco Group GHG Statement 9
+
+4. CALCULATION METHODOLOGY AND APPLIED EMISSION FACTORS
+4.1 GHG Scope 1 Emissions
+Regardless of the reporting scope (Group-Wide or Focus Area), Scope 1 emissions are the emissions generated by Iveco Group's consumption of fossil fuels for internal use and operations, including heating buildings, operating Group equipment, and running generators. As per Greenhouse Gas Emissions Inventory procedures, the following sources were excluded from the Scope 1 emissions inventory when classified as de minimis, i.e., their value was less than or equal to the threshold of 3% of total CO2eq emissions (Scope 1 and Scope 2) within the Focus Area perimeter (applying location and market-based approach): organic-based technical gas fugitive emissions, for example those generated by fixed appliances or when recharging vehicles' on-board air-conditioning compressors using HFC or HCFH refrigerants emissions from internal transport operations carried out using vehicles that are either Group-owned or leased from third parties fire suppression equipment that uses, and can release, greenhouse gases (e.g., CO2eq, HFCs, F-gases) refrigerants direct methane (CH4) and nitrous oxide (N2O) emissions from fuel combustion. At Iveco Group, the only sources of greenhouse gas (GHG) emissions, besides those deriving from energy consumption, are associated with the use of hydrofluorocarbon (HFC) compounds with global warming potential (GWP). These are present in equipment for air-conditioning, cooling, fire suppression, and manufacturing. The potential emissions from these substances (CO2eq) are negligible compared with emissions from energy production: in fact, with an incidence of 0.2%, they fall outside the reporting scope. Fleet car emissions were estimated based on average fuel consumption data from a representative sample of vehicles.
+Some of the 2024 figures were recalculated ­ and reported separately as recast data ­ to reflect the exclusion of Iveco Group's former Fire Fighting Business Unit and enable comparability with the 2025 reporting perimeter. The 2019 base year figures (used for targets) were recalculated by adopting the same approach as for the 2024 figures to reflect the exclusion of the Group's former Fire Fighting Business Unit. Some of the 2024 figures were restated following a more detailed analysis of car fleet energy emissions. When reporting on the full Group-Wide scope, more than 90% of consumption data is based on direct measurements, while the remaining data (around 10%) was based on estimates, using comparable data from similar monitored sites as a reference and considering factors such as site size (m2).
+2025 Iveco Group GHG Statement 10
+
+4.1.1 Emission Factors Emissions have been calculated based on energy consumption data using emission factors derived from international sources, as outlined below. Natural gas, diesel, LPG, and cogeneration International Energy Agency (IEA) Emission Factors, 2023 edition were used for all reporting years.
+· For 2022: factors refer to reference year 2019. · For 2023 and 2024: factors refer to reference year 2021.
+4.2 GHG Scope 2 Emissions
+Regardless of the reporting scope (Group-Wide or Focus Area), Scope 2 emissions are indirect emissions associated with the purchase of energy (electricity, compressed air, and the electricity associated with the consumption of heating and cooling, combined heat and power (CHP), and district heating). For Scope 2 emissions accounting, Iveco Group applied the dual reporting system of the GHG Protocol Scope 2 Guidance, using both of its allocation methods across all Group plants:
+· the location-based method, which reflects the average emissions intensity of the grids on which energy consumption occurs · the market-based method, which reflects emissions from electricity that companies have actively chosen to purchase (or reflects their lack of choice).
+Using the location-based method, global CO2eq emissions from energy consumption were calculated using the specific emission coefficients (expressed in gCO2eq/kWh) provided by the International Energy Agency (IEA). According to Group policy, the coefficients are updated every 3 years.
+Using the market-based method, the CO2eq emissions from energy consumption were calculated using specific emission coefficients provided by the following sources: · the Association of Issuing Bodies (AIB) 2023 European Residual Mix ­ to calculate emissions from electricity consumption at European sites · IEA ­ to calculate emissions from: electricity consumption at extra-EU sites, global district heating, and cogeneration. · District heating for the Brescia, Ulm, Mannheim and Kassel sites was calculated using supplier-specific emission factors shared by the respective providers.
+The CO2eq emissions target set for the Focus Area refers to Scope 2 emissions calculated according to the market-based method.
+2025 Iveco Group GHG Statement 11
+
+Some of the 2024 figures were recalculated ­ and reported separately as recast data ­ to reflect the exclusion of Iveco Group's former Fire Fighting Business Unit and enable comparability with the 2025 reporting perimeter. The 2019 base year figures (used for targets) were recalculated by adopting the same approach as for the 2024 figures to reflect the exclusion of the Group's former Fire Fighting Business Unit. 4.2.1 Emission Factors Emissions have been calculated based on energy consumption data using emission factors derived from international sources, as outlined below. Electric energy International Energy Agency (IEA) Emission Factors, 2023 edition were used for all reporting years, factors refer to reference year 2021. Using the location-based method, global CO2eq emissions from energy consumption were calculated using the specific emission coefficients (expressed in gCO2eq/kWh) provided by the International Energy Agency (IEA). According to Group policy, the coefficients are updated every 3 years. Using the market-based method, the CO2eq emissions from energy consumption were calculated using specific emission coefficients provided by the following sources. Market-based approach:
+· AIB 2023 data combined with IEA 2023 edition (reference year 2021). Location-based approach:
+· IEA 2023 edition (reference year 2021). District heating emissions were calculated using supplierspecific factors shared by the respective providers.
+4.3 GHG Scope 3 Emissions
+4.3.1 Scope 3 Category 1 Emissions (from Purchased Goods and Services) In 2025, calculation methodology accuracy for Scope 3 Category 1 emissions was enhanced by introducing a hybrid approach that prioritises supplierspecific emission factors (EFs) and uses spendbased emission factors for the remaining categories. Category 1 COeq emissions were calculated using two complementary approaches: (i) supplierspecific calculations, where EFs were disclosed by the suppliers, and (ii) a residual spendbased method using updated EXIOBASE monetary EFs.
+2025 Iveco Group GHG Statement 12
+
+The formulas applied were: · supplierspecific approach: Emissions = quantity (tons) × EF (tCOeq/ton) · spendbased approach: Emissions = expenditure () × monetary EF (tCOeq/).
+The value of purchased goods and services corresponds to the 2025 Annual Purchase Value (APV), while monetary EFs were sourced from EXIOBASE version 3.9.6, a detailed multi-regional, environmentally extended input-output (EEIO) database covering various economic sectors and geographies. The revised methodology improved accuracy by combining two calculation streams, incorporating multiple dimensions. The spend-based approach was used to map purchased goods and services to the most appropriate EXIOBASE activity categories, applying regionspecific EFs by integrating the Country of Origin (COO) of purchased goods (i.e., the country where they were produced). This captures regional energy mixes, thereby reflecting the heterogeneity of Iveco Group's global procurement. Furthermore, the spend-based methodology increases granularity by assigning specific EFs based on the material description of each purchased good. This was accomplished by analysing the procurement database, mapping and associating each material description to a corresponding NACE code, and linking the latter to the relevant emission categories in EXIOBASE ­ resulting in a dual mapping approach that combines both material description and COO. The methodology was then further refined by adjusting the EXIOBASE 2022 base year EFs to 2025 by incorporating inflation-adjusted values, applying International Monetary Fund (IMF) inflation rates for each geographic region. In addition, EFs were adjusted to reflect projected decarbonisation trends in the Organisation's sourcing countries, leveraging insights from the IEA's World Energy Outlook 2023. This ensures that external factors influencing emissions are duly considered. The supplier-specific approach, on the other hand, was used to calculate a portion of emissions limited to a subset of 2025's steel purchases. This improves accuracy by moving beyond countrylevel averages to supplier/plantspecific values, better capturing process and technology differences and reflecting decarbonisation at the plants of Iveco Group's suppliers. This updated methodology produces more precise and tailored emission estimates by incorporating countryspecific manufacturing emissions and customised EFs based on the characteristics of purchased goods. Results combine spendbased calculations for the majority of purchases with supplierspecific calculations for a minority of steel emissions, reflecting steel's greater importance in the emissions profile and improving overall accuracy while maintaining full coverage. In 2025, the Group carried out a preliminary assessment of indirect material purchases to determine their relative contribution to Scope 3 Category 1 emissions. Although their impact was found to be limited ­ with their contribution accounting for less than 5% of the category's total emissions ­ the Group intends to keep monitoring this data and evaluate its inclusion in future reporting cycles.
+2025 Iveco Group GHG Statement 13
+
+4.3.2 Scope 3 Category 2 Emissions (from Capital Goods) The CO2 emissions from the Group's capital goods were negligible compared to the total Scope 3 emissions. 4.3.3 Scope 3 Category 3 Emissions (from Fuel- and Energy-Related Activities not Included in Scope 1 or 2) The activities included in category 3 are:
+A. upstream emissions of purchased fuels B. upstream emissions of purchased electricity C. transmission and distribution (T&D) losses. Total emissions were calculated as follows: CO2eq emissions (location-based) = CO2eq emissions (A) + CO2eq emissions (B) + CO2eq emissions (C).
+For activity A, the average-data method (see GHG Protocol, Technical Guidance for Calculating Scope 3 Emissions) was applied as follows: Upstream CO2eq emissions of purchased fuels =  (fuel consumed (e.g., kWh) × upstream fuel emission factor (kgCO2eq/kWh)) ­ where upstream fuel emission factors11 For activity B, the average-data method (see GHG Protocol, Technical Guidance for Calculating Scope 3 Emissions) was applied as follows: Upstream CO2eq emissions of purchased electricity =  (electricity consumed (e.g., kWh) × fuel-cycle factor (gCO2eq/kWh)) ­ where fuel-cycle factor12 For activity C, the average-data method (see GHG Protocol, Technical Guidance for Calculating Scope 3 Emissions) was applied as follows: CO2eq emissions from energy T&D losses =  (electricity consumed (kWh) × life cycle T&D emission factor (kgCO2eq/kWh)).
+
+(11) DEFRA emission factors (2025). (12) IEA emission factors (2023).
+
+2025 Iveco Group GHG Statement 14
+
+4.3.4 Scope 3 Category 4 Emissions (from Upstream Transportation and Distribution) This category includes inbound, outbound, and spare parts logistics services outsourced by the Group to third parties. The emissions within this category were measured based on the Greenhouse Gas Protocol (revised edition) for road transport, and on the IFEU Heidelberg method for sea and rail transport. The CO2 emissions calculation methodology for inbound transportation and distribution varied depending on the different transportation modes, as described below.
+· Road transport ­ To calculate the total CO2eq emissions from road transport, the following information was considered: number of shipments, utilisation capacity (taxable weight of shipment), and distance travelled (in kilometres) for each truck. The first two sets of data were downloaded from the Supply Chain Management (SCM) information system. The third set of data was obtained by measuring distances according to a Point Map. The calculation took into consideration a 24-ton average taxable weight for each truck and different region-specific emission factors (as per the Greenhouse Gas Protocol). Based on the above, the emissions were calculated as follows: ( (distance in km per truck) x taxable weight per shipment per truck x specific emission factors) / average taxable weight of each truck.
+· Rail transport ­ To calculate the emissions from rail transport, the Group considered the following: a 24-ton average taxable weight per container (since trains are loaded/unloaded from trucks) and the number of trains and containers per route (information received periodically from the logistics services providers). The CO2eq emissions were calculated as follows: CO2eq emissions per rail route per container13 x weight moved.
+· Sea transport ­ To calculate the emissions from sea transport, the Group considered the following data downloaded from the Supply Chain Management (SCM) information system: number of routes and weight transported during the reporting period. The CO2eq emissions were calculated as follows: CO2eq emissions per sea route per ton14 x weight moved.
+· Air transport ­ To calculate the emissions from air transport, the Group considered data received from its air service provider and checked by a dedicated internal team. The CO2eq emissions were calculated as follows: CO2eq emissions factor per air shipment x weight moved (tons)15.
+
+(13) Data obtained from EcoTransIT considering average taxable weight per container. (14) Data obtained from EcoTransIT. (15) Data obtained from EcoTransIT.
+
+2025 Iveco Group GHG Statement 15
+
+The CO2eq emissions calculation methodology for outbound and spare parts transportation and distribution varied depending on the different transportation modes, as described below.
+· Road transport (outbound) ­ To calculate the emissions from outbound road transport, the following data was considered: the list of sold vehicles invoiced during the reporting period; the distance travelled (in kilometres) per transport leg according to a Point Map; the average load factor specific to each product; and different regionspecific emission factors. The CO2eq emissions were calculated as follows:  (distance in km per transport leg / average load factor x specific emission factors).
+· Road transport (spare parts) ­ To calculate the total CO2eq emissions from the transportation of spare parts by road, the Group considered the following data downloaded from the Supply Chain Management (SCM) information system: total cubic metres per route (total CBM) and distance travelled (in kilometres) per route according to a Point Map. The calculation also considered a 70-CBM average truck saturation and different region-specific emission factors. The total CO2eq emissions were calculated as follows: (total CMB / average truck saturation) x distance x specific emission factors.
+· Rail transport ­ To calculate the emissions from rail transport, the Group considered the following: a 24-ton average taxable weight per container (since trains are loaded/unloaded from trucks) and the number of trains and containers per route (information received periodically from the logistics services providers). The CO2eq emissions were calculated as follows: CO2eq emissions per rail route per container16 x weight moved.
+· Sea transport ­ These emissions were measured using the same calculation methodology as for rail transport emissions, using data from logistics service providers on the number of ships per route. Depending on the route and the weight transported, CO2eq emissions were then quantified using the IFEU Heidelberg method (EcoTransIT).
+4.3.5 Scope 3 Category 5 Emissions (from Waste Generated in Operations) The CO2eq emissions from waste generated in operations were negligible, comprising less than 0.05% of total Scope 3 emissions.
+4.3.6 Scope 3 Category 6 Emissions (from Business Travel) The CO2eq emissions from employees' work related air travel, managed directly through Iveco Group's headquarters, were calculated according to the GHG Protocol. The CO2eq emissions from train travel (approximately 4,300 journeys in 2025) were estimated based on a representative sample route (Turin ­ Rome) through Ecopassenger.
+
+(16) Data obtained from EcoTransIT.
+
+2025 Iveco Group GHG Statement 16
+
+4.3.7 Scope 3 Category 7 Emissions (from Employee Commuting) The data within this category refers to 100% of Iveco Group employees. It was calculated for 5 sites in Italy (employing approximately 12,300 employees, representing approximately 35% of the global employee headcount), using the Employee Commuting Plan (Piano Spostamenti Casa-Lavoro) the average emission factors provided by ISPRA17 for each transport mode, and the average number of employees using each mode. Emissions for sites outside Italy were then estimated based on the average COeq emissions per employee calculated for the Italian sites.
+4.3.8 Scope 3 Category 8 Emissions (from Upstream Leased Assets) This category includes powered industrial vehicles at plants, on-site trailer tractors, ICT equipment, and leased cars. It should be noted that leased assets that use electricity fall under the Group's Scope 2 emissions, while those that use natural gas or fossil fuel fall under its Scope 1 emissions.
+4.3.9 Scope 3 Category 9 Emissions (from Downstream Transportation and Distribution) The CO2eq emissions associated with distribution to end-customers not included in Category 4 or 11 were negligible compared to the total Scope 3 emissions.
+4.3.10 Scope 3 Category 10 Emissions (from the Processing of Sold Products) The emissions within this category were calculated applying the average-data method18 using the formula: CO2eq emissions =  (mass of sold intermediate product (number of engines) × emission factor of processing of sold products (kgCO2eq/engine)). Most of Iveco Group's products are ready for use when they leave its production sites. A proportion of FPT engines were supplied to external customers that sell trucks, buses, and light commercial vehicles and were installed in their products. To determine the CO2eq emissions from the assembly of these engines, the specific CO2eq emission factors were calculated based on the energy consumption involved in their assembly at Iveco Group's plants, specifically at the Annonay plant (France) for buses, the Madrid plant (Spain) for trucks, and the Suzzara plant (Italy) for light commercial vehicles. Based on the assumption that the assembly process is similar for customers, the total emissions were calculated as follows:  (specific emission factors x number of engines sold). The CO2eq emissions from the processing of sold products were negligible, with an incidence of less than 0.05% of total Scope 3 emissions.
+
+(17) Istituto Superiore per la Protezione e la Ricerca Ambientale (Italian Institute for Environmental Protection and Research). (18) See GHG Protocol, Technical Guidance for Calculating Scope 3 Emissions.
+
+2025 Iveco Group GHG Statement 17
+
+4.3.11 Scope 3 Category 11 Emissions (from the Use of Sold Products) Iveco Group quantifies its CO2 emissions from the use of sold products19 by applying different calculation methodologies depending on geographic location. In Europe, a well-to-wheel approach was used that is the sum of tank-to-wheel and well-to-tank emissions. 2022 was chosen as the base year for the relevant target following the introduction of new regulatory requirements and the updating of the sales forecasts of the Group's Strategic Business Plan. The tank-to-wheel emissions were measured based on the assessment of the Organisation's entire model range manufactured in Europe. Since the tank-to-wheel emissions of other greenhouses gases (GHG) at Iveco Group are less than 5% of its CO2 emissions, and since biogenic CO2 emissions are negligible, they were not included in the calculations. Diesel-, methane-, electric-, and hydrogen-powered versions were analysed for the following products: light commercial vehicles; medium- and heavy-duty trucks; and coaches and urban/intercity buses. Production volumes were based on the Strategic Business Plan and the forecasts for 2030 of the individual Group brands. The average mileage by vehicle type was calculated according to the indications of the European Commission's latest proposal to amend EU CO2 standards for trucks and buses. The average mileage for light commercial vehicles, on the other hand, was calculated using the Organisation's telematics and warranty data. For trucks, fuel consumption and CO2 emissions were calculated using VECTO20, an official tool developed by the European Commission. For buses, they were calculated using an internal tool. For light commercial vehicles, they were calculated using the CO2 emissions data of Brand IVECO's fleet of Daily vehicles, type-approved as per the homologation tests of the Worldwide Harmonised Light Vehicles Test Procedure (WLTP test cycles). Iveco Group's well-to-tank emissions were measured based on information from accredited sources21, according to which a weighted percentage of CO2 emissions was assigned to each fuel type, taking into account fuel extraction, transport, refining, and distribution. Total annual CO2 emissions were calculated as the well-to-wheel emissions from vehicles sold during the year multiplied by a 10-year lifetime estimate, determined based on internal data.
+(19) See Scope 3 category 11 of the GHG Protocol. (20) Click here for more information on the Vehicle Energy Consumption Calculation Tool (VECTO). (21) U.S. Department of Agriculture's Foreign Agricultural Service (FAS); Infineum; Joint Research Centre (JRC); Centre for European Policy Studies (CEPS); International Energy Agency (IEA); European Biogas Association (EBA); Planète Énergies; U.S. Energy Information Administration (EIA); RTE; UN Environment Programme (UNEP); European Environment Agency (EEA); Agence de l'Environnement et de la Maîtrise de l'Énergie (ADEME); and Fuel Cells and Hydrogen Joint Undertaking (FCH JU).
+2025 Iveco Group GHG Statement 18
+
+In South America, CO2 emissions were also calculated according to a well-to-wheel approach, by location and by vehicle type. Tank-to-wheel emissions were calculated as CO2eq emissions =  (number of vehicles manufactured x average annual mileage (km/year) x gCO2/km), where mileage was based on historical maintenance agreements and CO2/km was based on recognised product tests and consumption efficiency analysis. Well-to-tank emissions were calculated using the same accredited sources and weighted fuel-type factors described above. Total annual CO2 emissions, on the other hand, were calculated by applying a 7- to 10-year lifetime estimate to the well-to-wheel emissions from vehicles manufactured during the year, with average consumption values and emission factors varying according to the fuel used (diesel, natural gas or biomethane). The above approach was implemented in South America for the first time in 2025, to ensure consistency with the methodology applied in Europe. As a result, the 2024 data was recalculated accordingly. Specialty vehicles were not included in any calculations. 4.3.12 Scope 3 Category 12 Emissions (from the End-of-Life Treatment of Sold Products) The CO2eq emissions from the end-of-life (EoL) treatment of vehicles were estimated by extrapolating sample-based results to the total volume of vehicles manufactured in Europe. Emissions were evaluated separately for three vehicle categories ­ light-duty vehicles (LDVs), heavy-duty vehicles (HDVs), and buses ­ using the following methodology:
+· sample-based estimation: the sample vehicles included for each vehicle category were selected based on the availability of respective life cycle assessment (LCA) studies; these samples were used to estimate emissions from processes such as dismantling, recycling, and disposal, considering material composition and EoL practices
+· extrapolation to the total volumes: the emissions per vehicle category, derived from the sample vehicles, were extrapolated to the total number of vehicles produced in that category
+· aggregation of results: total emissions were calculated as the sum of estimated emissions from light-duty vehicles, heavy-duty vehicles, and buses, ensuring comprehensive and consistent estimates across different vehicle types.
+2025 Iveco Group GHG Statement 19
+
+4.3.13 Scope 3 Category 13 Emissions (from Downstream Leased Assets) Iveco Group's emissions from downstream leased assets were included in category 11, and were measured using the latter's same calculation methodology and same emission factors. 4.3.14 Scope 3 Category 14 Emissions (from Franchises) The Group does not have franchises. 4.3.15 Scope 3 Category 15 Emissions (from Investments Emissions) Emissions from investments, if any, were considered negligible or included in other categories.
+2025 Iveco Group GHG Statement 20
+
+5. ASSURANCE REPORT
+
+2025 Iveco Group GHG Statement 21
+
+2025 Iveco Group GHG Statement 22
+
+

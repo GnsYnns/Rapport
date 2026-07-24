@@ -1,0 +1,100 @@
+\documentclass[12pt,a4paper]{article}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[french]{babel}
+\usepackage{geometry}
+\usepackage{enumitem}
+\setlist[itemize]{leftmargin=*,nosep}
+
+\title{Notes de discours --- Présentation orale Mission 4}
+\author{Yannis GONOS}
+\date{Iveco Group / 3IL Nantes}
+
+\begin{document}
+\maketitle
+
+\noindent\textit{Durée totale cible : 9 min 15 s + 45 s de marge = 10 min.}
+
+\section*{Introduction (45 s)}
+
+\begin{itemize}
+  \item Accroche : une entreprise industrielle qui emploie des dizaines de milliers de personnes est jugée aujourd'hui autant sur ses KPI de production que sur ses indicateurs extra-financiers.
+  \item Objectifs de la mission : comprendre comment la politique RSE d'Iveco Group est structurée, où elle est performante et quelle place le numérique responsable peut y occuper depuis le site de Haute-Goulaine.
+  \item Annonce du plan : rapide tour d'horizon de l'entreprise, puis trois parties --- gouvernance et climat, DEI/social, numérique responsable --- avant de conclure sur les perspectives.
+\end{itemize}
+
+\section*{Présentation entreprise (1 min)}
+
+\begin{itemize}
+  \item Iveco Group : acteur international des véhicules industriels, avec des marques de référence et un fort ancrage européen.
+  \item Site de Haute-Goulaine : équipe IT de \textbf{5} personnes en charge du développement logiciel interne.
+  \item Environnement : postes Windows 11 / WSL2, stack PHP/Symfony, bases MySQL/Informix, CI/CD et GitLab --- un contexte typique d'une unité agile intégrée au groupe.
+  \item On y reviendra en Partie 3, car c'est notre terrain d'action privilégié pour le numérique responsable.
+\end{itemize}
+
+\section*{Partie 1 --- Gouvernance et climat (2 min)}
+
+\begin{itemize}
+  \item La politique RSE repose sur quatre priorités : réduire l'empreinte carbone, adopter une approche cycle de vie, sécuriser les collaborateurs, et renforcer l'inclusion.
+  \item \textbf{Net zéro carbone d'ici 2040} : Iveco s'est engagé dix ans avant l'échéance de Paris. Objectifs intermédiaires : \textbf{-50\,\%} Scope 1 et 2 d'ici 2030 ; \textbf{-38\,\%} d'intensité Scope 3 d'ici 2030.
+  \item Le chiffre qui résume tout : \textbf{99,5\,\%} des émissions se situent en Scope 3, c'est-à-dire principalement pendant l'usage des véhicules vendus. Cela montre que le défi carbone du groupe, c'est la phase d'usage.
+  \item Le mix énergétique atteint \textbf{35,2\,\%} de renouvelables, en hausse grâce aux achats d'électricité verte.
+  \item Points forts ESG : S\&P Global, EcoVadis Gold, CDP Climat A. Point de vigilance : \textbf{CDP Forêts = C}, symptomatique d'une dépendance forte aux matériaux critiques et d'une traçabilité amont encore incomplète.
+  \item En gouvernance éthique, la Compliance Helpline a reçu 241 signalements en 2025 et la formation au Code de Conduite couvre environ 12 200 salariés.
+\end{itemize}
+
+\section*{Partie 2 --- DEI et social (1 min 45)}
+
+\begin{itemize}
+  \item La gouvernance DEI est structurée et s'appuie sur une certification EDGE. Les sujets handicap, diversité culturelle et égalité de rémunération sont pilotés au niveau groupe.
+  \item Trois chiffres à retenir :
+  \begin{itemize}[label=--]
+    \item \textbf{-51\,\%} de taux de blessures entre 2019 et 2025, déjà au-delà de l'objectif \textbf{-40\,\%} fixé pour 2026 ;
+    \item \textbf{30\,\%} de femmes dans l'effectif visé d'ici 2028 ;
+    \item \textbf{150 000} bénéficiaires touchés par les actions communautaires, encadrées par le référentiel B4SI.
+  \end{itemize}
+  \item Bilan : des résultats solides, mais des trajectoires DEI à maintenir sur la durée, notamment en diversité de genre et dans l'inclusion du handicap.
+\end{itemize}
+
+\section*{Partie 3 --- Numérique responsable (3 min)}
+
+\subsection*{Constat (1 min)}
+
+\begin{itemize}
+  \item Point d'entrée : le poste de l'apprenti, avec WSL, CI/CD, revues de code et environnement virtualisé. Des atouts existants.
+  \item La politique de confidentialité intègre déjà le \textit{Privacy by Design} ; on peut renforcer cette démarche par des \textbf{PIA} systématisées sur les nouveaux projets IT.
+  \item Iveco dispose de briques numériques solides : Web Academy, IMDS, ESGeo.
+  \item \textbf{Mais} : à ce jour, aucun document ne formalise un programme \textit{Green IT} appliqué à l'informatique interne : postes, serveurs, cycle de vie du matériel, éco-conception logicielle.
+\end{itemize}
+
+\subsection*{Contexte sectoriel (45 s)}
+
+\begin{itemize}
+  \item Volvo structure un programme \textit{Green by Design} autour du cloud et du matériel circulaire.
+  \item Scania mesure l'impact de ses applications en \textit{vCPU hours} et allonge la durée de vie de son matériel.
+  \item Daimler a réduit de \textbf{43\,\%} ses Scope 1 et 2 depuis 2021.
+  \item Iveco a les briques, mais ne communique pas encore sur un programme Green IT interne ; c'est justement notre opportunité.
+\end{itemize}
+
+\subsection*{Recommandations (1 min 15)}
+
+\begin{itemize}
+  \item Recommandation 1 --- \textbf{éco-conception logicielle} : checklist Green IT dans les revues de code, optimisation des requêtes, extinction automatique des environnements non productifs. KPI : \textbf{-15\,\%} de consommation CPU/mémoire des serveurs de développement d'ici fin 2027.
+  \item Recommandation 2 --- \textbf{cycle de vie du matériel} : privilégier le réemploi/reconditionnement et allonger la durée d'usage. KPI : \textbf{30\,\%} de parc test/reconditionné d'ici 2028.
+  \item Recommandation 3 --- \textbf{achats responsables} : introduire EPEAT, TCO Certified et rapports de durabilité fournisseurs. KPI : \textbf{100\,\%} des nouveaux postes labellisés d'ici 2026.
+  \item Ces objectifs sont réalistes pour une équipe de cinq personnes, à condition de mesurer une base de référence et de prioriser deux ou trois leviers.
+\end{itemize}
+
+\section*{Conclusion (45 s)}
+
+\begin{itemize}
+  \item Gouvernance RSE mûre, avec un défi structurant : le Scope 3, c'est-à-dire l'usage des véhicules vendus.
+  \item Résultats sociaux solides, mais trajectoires DEI à maintenir.
+  \item Le numérique responsable est le \textbf{levier d'action le plus personnel} : mesurer, prioriser et piloter avec 2--3 KPI concrets.
+  \item Message final : au-delà du constat, une feuille de route opérationnelle pour l'équipe IT de Haute-Goulaine, alignée sur la stratégie RSE du groupe.
+\end{itemize}
+
+\vfill
+\noindent\textit{Conseil d'animation : parler sans lire, faire le lien entre le chiffre affiché et sa signification, et anticiper les 45 secondes de marge pour les questions.}
+
+\end{document}

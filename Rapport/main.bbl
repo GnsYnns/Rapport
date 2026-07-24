@@ -1,0 +1,452 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global/global}
+    \entry{b4si_framework}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=8049acc2cc1e8d065c92342f3a6a8d83}{%
+           family={{Corporate Citizenship}},
+           familyi={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{8049acc2cc1e8d065c92342f3a6a8d83}
+      \strng{fullhash}{8049acc2cc1e8d065c92342f3a6a8d83}
+      \strng{fullhashraw}{8049acc2cc1e8d065c92342f3a6a8d83}
+      \strng{bibnamehash}{8049acc2cc1e8d065c92342f3a6a8d83}
+      \strng{authorbibnamehash}{8049acc2cc1e8d065c92342f3a6a8d83}
+      \strng{authornamehash}{8049acc2cc1e8d065c92342f3a6a8d83}
+      \strng{authorfullhash}{8049acc2cc1e8d065c92342f3a6a8d83}
+      \strng{authorfullhashraw}{8049acc2cc1e8d065c92342f3a6a8d83}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Cadre d'évaluation externe des impacts sociétaux}
+      \field{title}{Business for Societal Impact (B4SI) Framework}
+      \field{year}{2025}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://b4si.net
+      \endverb
+      \verb{url}
+      \verb https://b4si.net
+      \endverb
+      \keyw{externe}
+    \endentry
+    \entry{daimler_esg_2025}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=d7ec3a3528ac447089711ddf960b194a}{%
+           family={{Daimler Truck AG}},
+           familyi={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{d7ec3a3528ac447089711ddf960b194a}
+      \strng{fullhash}{d7ec3a3528ac447089711ddf960b194a}
+      \strng{fullhashraw}{d7ec3a3528ac447089711ddf960b194a}
+      \strng{bibnamehash}{d7ec3a3528ac447089711ddf960b194a}
+      \strng{authorbibnamehash}{d7ec3a3528ac447089711ddf960b194a}
+      \strng{authornamehash}{d7ec3a3528ac447089711ddf960b194a}
+      \strng{authorfullhash}{d7ec3a3528ac447089711ddf960b194a}
+      \strng{authorfullhashraw}{d7ec3a3528ac447089711ddf960b194a}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Données ESG 2025 et réduction des émissions des sites de production}
+      \field{title}{ESG Factbook for Full Year 2025}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.daimlertruck.com/fileadmin/user_upload/documents/sustainability/Daimler_Truck_ESG_Factbook_FY_2025.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.daimlertruck.com/fileadmin/user_upload/documents/sustainability/Daimler_Truck_ESG_Factbook_FY_2025.pdf
+      \endverb
+      \keyw{externe}
+    \endentry
+    \entry{ghg_protocol}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=e1ee8a31dd3809c2b1c4722e55330a45}{%
+           family={{GHG Protocol}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{e1ee8a31dd3809c2b1c4722e55330a45}
+      \strng{fullhash}{e1ee8a31dd3809c2b1c4722e55330a45}
+      \strng{fullhashraw}{e1ee8a31dd3809c2b1c4722e55330a45}
+      \strng{bibnamehash}{e1ee8a31dd3809c2b1c4722e55330a45}
+      \strng{authorbibnamehash}{e1ee8a31dd3809c2b1c4722e55330a45}
+      \strng{authornamehash}{e1ee8a31dd3809c2b1c4722e55330a45}
+      \strng{authorfullhash}{e1ee8a31dd3809c2b1c4722e55330a45}
+      \strng{authorfullhashraw}{e1ee8a31dd3809c2b1c4722e55330a45}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{Revised Edition}
+      \field{note}{Référence méthodologique pour l'inventaire GES}
+      \field{title}{A Corporate Accounting and Reporting Standard}
+      \field{year}{2004}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://ghgprotocol.org
+      \endverb
+      \verb{url}
+      \verb https://ghgprotocol.org
+      \endverb
+      \keyw{externe}
+    \endentry
+    \entry{iveco_annual_2025}{report}{}{}
+      \name{author}{1}{}{%
+        {{hash=03a54038e7f99f9e424f16873c87c3b9}{%
+           family={{Iveco Group}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{03a54038e7f99f9e424f16873c87c3b9}
+      \strng{fullhash}{03a54038e7f99f9e424f16873c87c3b9}
+      \strng{fullhashraw}{03a54038e7f99f9e424f16873c87c3b9}
+      \strng{bibnamehash}{03a54038e7f99f9e424f16873c87c3b9}
+      \strng{authorbibnamehash}{03a54038e7f99f9e424f16873c87c3b9}
+      \strng{authornamehash}{03a54038e7f99f9e424f16873c87c3b9}
+      \strng{authorfullhash}{03a54038e7f99f9e424f16873c87c3b9}
+      \strng{authorfullhashraw}{03a54038e7f99f9e424f16873c87c3b9}
+      \field{extraname}{1}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{PDF interne, 10-K / Sustainability Statement}
+      \field{title}{2025 Annual Report : Sustainability Statement}
+      \field{type}{Rapport annuel}
+      \field{year}{2025}
+      \keyw{interne}
+    \endentry
+    \entry{iveco_ghg_2025}{report}{}{}
+      \name{author}{1}{}{%
+        {{hash=03a54038e7f99f9e424f16873c87c3b9}{%
+           family={{Iveco Group}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{03a54038e7f99f9e424f16873c87c3b9}
+      \strng{fullhash}{03a54038e7f99f9e424f16873c87c3b9}
+      \strng{fullhashraw}{03a54038e7f99f9e424f16873c87c3b9}
+      \strng{bibnamehash}{03a54038e7f99f9e424f16873c87c3b9}
+      \strng{authorbibnamehash}{03a54038e7f99f9e424f16873c87c3b9}
+      \strng{authornamehash}{03a54038e7f99f9e424f16873c87c3b9}
+      \strng{authorfullhash}{03a54038e7f99f9e424f16873c87c3b9}
+      \strng{authorfullhashraw}{03a54038e7f99f9e424f16873c87c3b9}
+      \field{extraname}{2}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{PDF interne, assurance ISAE 3410}
+      \field{title}{2025 GHG Statement}
+      \field{type}{Déclaration des émissions de gaz à effet de serre}
+      \field{year}{2025}
+      \keyw{interne}
+    \endentry
+    \entry{iveco_community_2025}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=03a54038e7f99f9e424f16873c87c3b9}{%
+           family={{Iveco Group}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{03a54038e7f99f9e424f16873c87c3b9}
+      \strng{fullhash}{03a54038e7f99f9e424f16873c87c3b9}
+      \strng{fullhashraw}{03a54038e7f99f9e424f16873c87c3b9}
+      \strng{bibnamehash}{03a54038e7f99f9e424f16873c87c3b9}
+      \strng{authorbibnamehash}{03a54038e7f99f9e424f16873c87c3b9}
+      \strng{authornamehash}{03a54038e7f99f9e424f16873c87c3b9}
+      \strng{authorfullhash}{03a54038e7f99f9e424f16873c87c3b9}
+      \strng{authorfullhashraw}{03a54038e7f99f9e424f16873c87c3b9}
+      \field{extraname}{3}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{PDF interne, assurance B4SI}
+      \field{title}{Community Empowerment in Action 2025}
+      \field{year}{2025}
+      \keyw{interne}
+    \endentry
+    \entry{iveco_compliance_helpline_2025}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=03a54038e7f99f9e424f16873c87c3b9}{%
+           family={{Iveco Group}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{03a54038e7f99f9e424f16873c87c3b9}
+      \strng{fullhash}{03a54038e7f99f9e424f16873c87c3b9}
+      \strng{fullhashraw}{03a54038e7f99f9e424f16873c87c3b9}
+      \strng{bibnamehash}{03a54038e7f99f9e424f16873c87c3b9}
+      \strng{authorbibnamehash}{03a54038e7f99f9e424f16873c87c3b9}
+      \strng{authornamehash}{03a54038e7f99f9e424f16873c87c3b9}
+      \strng{authorfullhash}{03a54038e7f99f9e424f16873c87c3b9}
+      \strng{authorfullhashraw}{03a54038e7f99f9e424f16873c87c3b9}
+      \field{extraname}{4}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Document interne SharePoint}
+      \field{title}{Compliance Helpline : Procédure et catégories d'allégations}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.ivecogroupcompliancehelpline.com
+      \endverb
+      \verb{url}
+      \verb https://www.ivecogroupcompliancehelpline.com
+      \endverb
+      \keyw{interne}
+    \endentry
+    \entry{iveco_privacy_2025}{report}{}{}
+      \name{author}{1}{}{%
+        {{hash=03a54038e7f99f9e424f16873c87c3b9}{%
+           family={{Iveco Group}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{03a54038e7f99f9e424f16873c87c3b9}
+      \strng{fullhash}{03a54038e7f99f9e424f16873c87c3b9}
+      \strng{fullhashraw}{03a54038e7f99f9e424f16873c87c3b9}
+      \strng{bibnamehash}{03a54038e7f99f9e424f16873c87c3b9}
+      \strng{authorbibnamehash}{03a54038e7f99f9e424f16873c87c3b9}
+      \strng{authornamehash}{03a54038e7f99f9e424f16873c87c3b9}
+      \strng{authorfullhash}{03a54038e7f99f9e424f16873c87c3b9}
+      \strng{authorfullhashraw}{03a54038e7f99f9e424f16873c87c3b9}
+      \field{extraname}{5}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{PDF interne, v2.0, décembre 2025}
+      \field{title}{Data Privacy Policy : French Version}
+      \field{type}{Politique de confidentialité}
+      \field{year}{2025}
+      \keyw{interne}
+    \endentry
+    \entry{iveco_dei_2025}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=03a54038e7f99f9e424f16873c87c3b9}{%
+           family={{Iveco Group}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{03a54038e7f99f9e424f16873c87c3b9}
+      \strng{fullhash}{03a54038e7f99f9e424f16873c87c3b9}
+      \strng{fullhashraw}{03a54038e7f99f9e424f16873c87c3b9}
+      \strng{bibnamehash}{03a54038e7f99f9e424f16873c87c3b9}
+      \strng{authorbibnamehash}{03a54038e7f99f9e424f16873c87c3b9}
+      \strng{authornamehash}{03a54038e7f99f9e424f16873c87c3b9}
+      \strng{authorfullhash}{03a54038e7f99f9e424f16873c87c3b9}
+      \strng{authorfullhashraw}{03a54038e7f99f9e424f16873c87c3b9}
+      \field{extraname}{6}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Document interne}
+      \field{title}{Diversité, Égalité des chances et Inclusion}
+      \field{year}{2025}
+      \keyw{interne}
+    \endentry
+    \entry{iveco_durabilite_2025}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=03a54038e7f99f9e424f16873c87c3b9}{%
+           family={{Iveco Group}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{03a54038e7f99f9e424f16873c87c3b9}
+      \strng{fullhash}{03a54038e7f99f9e424f16873c87c3b9}
+      \strng{fullhashraw}{03a54038e7f99f9e424f16873c87c3b9}
+      \strng{bibnamehash}{03a54038e7f99f9e424f16873c87c3b9}
+      \strng{authorbibnamehash}{03a54038e7f99f9e424f16873c87c3b9}
+      \strng{authornamehash}{03a54038e7f99f9e424f16873c87c3b9}
+      \strng{authorfullhash}{03a54038e7f99f9e424f16873c87c3b9}
+      \strng{authorfullhashraw}{03a54038e7f99f9e424f16873c87c3b9}
+      \field{extraname}{7}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Document interne}
+      \field{title}{Durabilité : Politique et engagements}
+      \field{year}{2025}
+      \keyw{interne}
+    \endentry
+    \entry{iveco_local_corp_2025}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=03a54038e7f99f9e424f16873c87c3b9}{%
+           family={{Iveco Group}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{03a54038e7f99f9e424f16873c87c3b9}
+      \strng{fullhash}{03a54038e7f99f9e424f16873c87c3b9}
+      \strng{fullhashraw}{03a54038e7f99f9e424f16873c87c3b9}
+      \strng{bibnamehash}{03a54038e7f99f9e424f16873c87c3b9}
+      \strng{authorbibnamehash}{03a54038e7f99f9e424f16873c87c3b9}
+      \strng{authornamehash}{03a54038e7f99f9e424f16873c87c3b9}
+      \strng{authorfullhash}{03a54038e7f99f9e424f16873c87c3b9}
+      \strng{authorfullhashraw}{03a54038e7f99f9e424f16873c87c3b9}
+      \field{extraname}{8}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{PDF interne}
+      \field{title}{Local Community Initiatives : Corporate Budget Procedure}
+      \field{year}{2025}
+      \keyw{interne}
+    \endentry
+    \entry{iveco_local_subs_2025}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=03a54038e7f99f9e424f16873c87c3b9}{%
+           family={{Iveco Group}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{03a54038e7f99f9e424f16873c87c3b9}
+      \strng{fullhash}{03a54038e7f99f9e424f16873c87c3b9}
+      \strng{fullhashraw}{03a54038e7f99f9e424f16873c87c3b9}
+      \strng{bibnamehash}{03a54038e7f99f9e424f16873c87c3b9}
+      \strng{authorbibnamehash}{03a54038e7f99f9e424f16873c87c3b9}
+      \strng{authornamehash}{03a54038e7f99f9e424f16873c87c3b9}
+      \strng{authorfullhash}{03a54038e7f99f9e424f16873c87c3b9}
+      \strng{authorfullhashraw}{03a54038e7f99f9e424f16873c87c3b9}
+      \field{extraname}{9}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{PDF interne}
+      \field{title}{Local Community Initiatives : Subsidiaries Procedure}
+      \field{year}{2025}
+      \keyw{interne}
+    \endentry
+    \entry{iveco_sustainability_inaction_2025}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=03a54038e7f99f9e424f16873c87c3b9}{%
+           family={{Iveco Group}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{03a54038e7f99f9e424f16873c87c3b9}
+      \strng{fullhash}{03a54038e7f99f9e424f16873c87c3b9}
+      \strng{fullhashraw}{03a54038e7f99f9e424f16873c87c3b9}
+      \strng{bibnamehash}{03a54038e7f99f9e424f16873c87c3b9}
+      \strng{authorbibnamehash}{03a54038e7f99f9e424f16873c87c3b9}
+      \strng{authornamehash}{03a54038e7f99f9e424f16873c87c3b9}
+      \strng{authorfullhash}{03a54038e7f99f9e424f16873c87c3b9}
+      \strng{authorfullhashraw}{03a54038e7f99f9e424f16873c87c3b9}
+      \field{extraname}{10}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{PDF interne}
+      \field{title}{Sustainability in Action 2025}
+      \field{year}{2025}
+      \keyw{interne}
+    \endentry
+    \entry{scania_it_green_2025}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=412658cdbe9c873d39346f8d35945c25}{%
+           family={{Scania Group}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{412658cdbe9c873d39346f8d35945c25}
+      \strng{fullhash}{412658cdbe9c873d39346f8d35945c25}
+      \strng{fullhashraw}{412658cdbe9c873d39346f8d35945c25}
+      \strng{bibnamehash}{412658cdbe9c873d39346f8d35945c25}
+      \strng{authorbibnamehash}{412658cdbe9c873d39346f8d35945c25}
+      \strng{authornamehash}{412658cdbe9c873d39346f8d35945c25}
+      \strng{authorfullhash}{412658cdbe9c873d39346f8d35945c25}
+      \strng{authorfullhashraw}{412658cdbe9c873d39346f8d35945c25}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Article sur le programme Green IT de Scania et le réemploi du matériel informatique}
+      \field{title}{Scania IT's green mission : giving old hardware new life}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.scania.com/group/en/home/newsroom/news/2025/scania-it-s-green-mission-giving-old-hardware-new-life.html
+      \endverb
+      \verb{url}
+      \verb https://www.scania.com/group/en/home/newsroom/news/2025/scania-it-s-green-mission-giving-old-hardware-new-life.html
+      \endverb
+      \keyw{externe}
+    \endentry
+    \entry{un_global_compact}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=905b5000a35c940eafb268ce1ca8bb90}{%
+           family={{United Nations Global Compact}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{905b5000a35c940eafb268ce1ca8bb90}
+      \strng{fullhash}{905b5000a35c940eafb268ce1ca8bb90}
+      \strng{fullhashraw}{905b5000a35c940eafb268ce1ca8bb90}
+      \strng{bibnamehash}{905b5000a35c940eafb268ce1ca8bb90}
+      \strng{authorbibnamehash}{905b5000a35c940eafb268ce1ca8bb90}
+      \strng{authornamehash}{905b5000a35c940eafb268ce1ca8bb90}
+      \strng{authorfullhash}{905b5000a35c940eafb268ce1ca8bb90}
+      \strng{authorfullhashraw}{905b5000a35c940eafb268ce1ca8bb90}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Référence internationale en matière de responsabilité sociale}
+      \field{title}{UN Global Compact : Ten Principles}
+      \field{year}{2024}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.unglobalcompact.org
+      \endverb
+      \verb{url}
+      \verb https://www.unglobalcompact.org
+      \endverb
+      \keyw{externe}
+    \endentry
+    \entry{volvo_green_it_2026}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=7b7d49ef2642e24d62999f5f81abedc5}{%
+           family={{Volvo Group}},
+           familyi={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{7b7d49ef2642e24d62999f5f81abedc5}
+      \strng{fullhash}{7b7d49ef2642e24d62999f5f81abedc5}
+      \strng{fullhashraw}{7b7d49ef2642e24d62999f5f81abedc5}
+      \strng{bibnamehash}{7b7d49ef2642e24d62999f5f81abedc5}
+      \strng{authorbibnamehash}{7b7d49ef2642e24d62999f5f81abedc5}
+      \strng{authornamehash}{7b7d49ef2642e24d62999f5f81abedc5}
+      \strng{authorfullhash}{7b7d49ef2642e24d62999f5f81abedc5}
+      \strng{authorfullhashraw}{7b7d49ef2642e24d62999f5f81abedc5}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Article sur la démarche Green by Design du groupe Volvo}
+      \field{title}{Green by Design : intégrer le numérique durable au développement logiciel}
+      \field{year}{2026}
+      \verb{urlraw}
+      \verb https://www.volvogroup.com/en/careers/working-at-volvo-group/diversity-inclusion-stories/techer/techer-stories/green-by-design.html
+      \endverb
+      \verb{url}
+      \verb https://www.volvogroup.com/en/careers/working-at-volvo-group/diversity-inclusion-stories/techer/techer-stories/green-by-design.html
+      \endverb
+      \keyw{externe}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

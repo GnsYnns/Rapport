@@ -1,0 +1,234 @@
+\documentclass[aspectratio=169,french,12pt]{beamer}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{babel}
+\usepackage{graphicx}
+\usepackage{xcolor}
+
+% Couleurs Iveco
+\definecolor{ivecoblue}{RGB}{0,85,150}
+\definecolor{ivecoorange}{RGB}{230,120,20}
+\definecolor{ivecogreen}{RGB}{120,180,60}
+
+\usetheme{Madrid}
+\usecolortheme{seahorse}
+\setbeamercolor{structure}{fg=ivecoblue}
+\setbeamercolor{frametitle}{bg=ivecoblue,fg=white}
+\setbeamercolor{title}{fg=white,bg=ivecoblue}
+\setbeamercolor{block title}{bg=ivecoblue!80!black,fg=white}
+\setbeamercolor{block body}{bg=ivecoblue!10,fg=black}
+\setbeamercolor{alerted text}{fg=ivecoorange}
+
+\setbeamertemplate{navigation symbols}{}
+
+% Fil d'Ariane = framesubtitle, pagination = footline
+\setbeamertemplate{footline}{%
+  \leavevmode%
+  \hbox{%
+    \begin{beamercolorbox}[wd=.7\paperwidth,ht=2.25ex,dp=1ex,left,leftskip=3mm]{author in head/foot}%
+      \usebeamerfont{author in head/foot}\tiny\insertsection%
+    \end{beamercolorbox}%
+    \begin{beamercolorbox}[wd=.3\paperwidth,ht=2.25ex,dp=1ex,right,rightskip=3mm]{title in head/foot}%
+      \usebeamerfont{title in head/foot}\tiny\insertframenumber/\inserttotalframenumber%
+    \end{beamercolorbox}%
+  }%
+}
+
+\title[Numérique responsable chez Iveco]{Analyse de la politique RSE et du Numérique Responsable d'Iveco Group}
+\subtitle{Présentation orale -- Mission 4}
+\author{Yannis GONOS}
+\institute{Iveco Group -- Site de Haute-Goulaine \\ 3IL Nantes}
+\date{\today}
+\titlegraphic{%
+  \includegraphics[height=1.2cm]{../../Rapport/images/iveco_logo.jpg}%
+  \hspace{1cm}%
+  \includegraphics[height=1.2cm]{../../Rapport/images/logo_3il_ingenieurs.png}%
+}
+
+\begin{document}
+
+\begin{frame}
+  \titlepage
+\end{frame}
+
+\section{Introduction}
+
+\begin{frame}{Plan}{Introduction -- 45\,s}
+\tableofcontents[hideallsubsections]
+\end{frame}
+
+\section{Présentation entreprise}
+
+\begin{frame}{Iveco Group en 60 secondes}{Présentation entreprise -- 1\,min}
+\begin{columns}[T]
+  \begin{column}{0.60\textwidth}
+    \begin{itemize}
+      \item Groupe international de véhicules industriels, présent en Europe et en Amérique
+      \item Site de Haute-Goulaine : équipe IT de \textbf{5} personnes en développement logiciel
+      \item Stack : Windows 11 / WSL2, PHP/Symfony, MySQL/Informix, GitLab, CI/CD
+    \end{itemize}
+  \end{column}
+  \begin{column}{0.35\textwidth}
+    \centering
+    \includegraphics[width=.85\textwidth]{../../Rapport/images/iveco_logo.jpg}
+  \end{column}
+\end{columns}
+\end{frame}
+
+\section{1. Gouvernance et climat}
+
+\begin{frame}{1. Gouvernance et climat}{1. Gouvernance et climat -- 2\,min}
+\begin{block}{Question centrale}
+Comment Iveco structure-t-il sa stratégie RSE et ses engagements carbone ?
+\end{block}
+\vfill
+\begin{itemize}
+  \item Priorités : empreinte carbone, cycle de vie, santé-sécurité, inclusion
+  \item Gouvernance : Conseil, \textbf{SLT}, comités dédiés (EEHS, énergie, durabilité)
+\end{itemize}
+\end{frame}
+
+\begin{frame}{Empreinte carbone et engagements}{1. Gouvernance et climat -- 2\,min}
+\begin{columns}[T]
+  \begin{column}{0.48\textwidth}
+    \begin{block}{Scope 3 domine}
+      \centering
+      \huge \textbf{99,5\,\%}\normalsize\\[0.2cm]
+      des émissions totales
+    \end{block}
+    \begin{itemize}
+      \item Net zéro carbone d'ici \textbf{2040}
+      \item Scope 1 \& 2 : \textbf{-50\,\%} d'ici 2030
+      \item Scope 3 : \textbf{-38\,\%} d'intensité d'ici 2030
+    \end{itemize}
+  \end{column}
+  \begin{column}{0.48\textwidth}
+    \begin{alertblock}{Point de vigilance}
+      CDP Forêts = \textbf{C} : dépendance aux matériaux critiques et traçabilité amont à renforcer.
+    \end{alertblock}
+    \begin{block}{Mix énergétique 2025}
+      \textbf{35,2\,\%} d'énergies renouvelables
+    \end{block}
+  \end{column}
+\end{columns}
+\end{frame}
+
+\section{2. DEI et social}
+
+\begin{frame}{2. DEI et social}{2. DEI et social -- 1\,min\,45}
+\begin{block}{Question centrale}
+Quelles sont les avancées sociales et les points de vigilance ?
+\end{block}
+\vfill
+\begin{itemize}
+  \item Gouvernance DEI structurée et certification \textbf{EDGE}
+  \item Handicap, diversité culturelle et santé-sécurité pilotés au niveau groupe
+\end{itemize}
+\end{frame}
+
+\begin{frame}{Performance sociale en 3 chiffres}{2. DEI et social -- 1\,min\,45}
+\begin{columns}[T]
+  \begin{column}{0.32\textwidth}
+    \begin{block}{Santé-sécurité}
+      \centering
+      \huge \textbf{-51\,\%}\normalsize\\[0.2cm]
+      taux de blessures\\vs cible \textbf{-40\,\%}
+    \end{block}
+  \end{column}
+  \begin{column}{0.32\textwidth}
+    \begin{block}{Égalité}
+      \centering
+      \huge \textbf{30\,\%}\normalsize\\[0.2cm]
+      de femmes visé d'ici 2028
+    \end{block}
+  \end{column}
+  \begin{column}{0.32\textwidth}
+    \begin{block}{Communautés}
+      \centering
+      \huge \textbf{150\,000}\normalsize\\[0.2cm]
+      bénéficiaires via \textbf{B4SI}
+    \end{block}
+  \end{column}
+\end{columns}
+\end{frame}
+
+\section{3. Numérique responsable}
+
+\begin{frame}{3. Numérique responsable}{3. Numérique responsable -- 3\,min}
+\begin{block}{Question centrale}
+L'IT de Haute-Goulaine est-elle alignée sur la stratégie RSE du groupe ?
+\end{block}
+\vfill
+\begin{itemize}
+  \item Point d'entrée : poste de l'apprenti, pile Windows/WSL, CI/CD
+  \item C'est la partie la plus personnelle et la plus opérationnelle
+\end{itemize}
+\end{frame}
+
+\begin{frame}{Constat : des atouts, pas encore un programme}{3. Numérique responsable -- 3\,min}
+\begin{columns}[T]
+  \begin{column}{0.55\textwidth}
+    \begin{itemize}
+      \item \textbf{Privacy by Design} intégré ; \textbf{PIA} à systématiser
+      \item Briques numériques solides : Web Academy, IMDS, ESGeo
+      \item Atouts locaux : virtualisation WSL, CI/CD, revues de code
+      \item \alert{\textbf{Mais} : aucun programme \textit{Green IT} interne documenté}
+    \end{itemize}
+  \end{column}
+  \begin{column}{0.42\textwidth}
+    \begin{alertblock}{Message clé}
+      Le constat central : la direction IT groupe ne documente pas encore de politique Green IT appliquée aux postes, serveurs et cycle de vie du matériel.
+    \end{alertblock}
+  \end{column}
+\end{columns}
+\end{frame}
+
+\begin{frame}{Où en sont les concurrents ?}{3. Numérique responsable -- 3\,min}
+\begin{columns}[T]
+  \begin{column}{0.48\textwidth}
+    \begin{block}{Volvo Group}
+      Programme \textit{Green by Design} : cloud, matériel circulaire, empreinte numérique des salariés
+    \end{block}
+    \begin{block}{Scania}
+      Mesure de l'impact applications (\textit{vCPU.h}), réemploi du matériel
+    \end{block}
+  \end{column}
+  \begin{column}{0.48\textwidth}
+    \begin{block}{Daimler Truck}
+      \textbf{-43\,\%} d'émissions Scope 1 \& 2 depuis 2021
+    \end{block}
+    \begin{alertblock}{Positionnement Iveco}
+      Briques solides mais pas encore de programme Green IT interne publié
+    \end{alertblock}
+  \end{column}
+\end{columns}
+\end{frame}
+
+\begin{frame}{3 recommandations phares pour Haute-Goulaine}{3. Numérique responsable -- 3\,min}
+\begin{enumerate}
+  \item \textbf{Éco-conception logicielle} : checklist Green IT, optimisation des requêtes, extinction automatique des environnements non productifs
+  \item \textbf{Cycle de vie du matériel} : atteindre \textbf{30\,\%} de parc test/reconditionné d'ici 2028
+  \item \textbf{Achats responsables} : \textbf{100\,\%} des nouveaux postes labellisés d'ici 2026
+\end{enumerate}
+\vspace{0.3cm}
+\begin{block}{KPI transverse}
+  Réduire de \textbf{15\,\%} la consommation moyenne CPU/mémoire des serveurs de développement d'ici fin 2027.
+\end{block}
+\end{frame}
+
+\section{Conclusion}
+
+\begin{frame}{Conclusion}{Conclusion -- 45\,s}
+\begin{itemize}
+  \item \textbf{Gouvernance RSE mûre} : Scope 3 est le défi structurant
+  \item \textbf{Résultats sociaux solides} : trajectoires DEI à poursuivre
+  \item \textbf{Le numérique responsable est le levier d'action} : mesurer, prioriser, piloter avec 2--3 KPI réalistes
+\end{itemize}
+\vfill
+\begin{center}
+  \Large Merci de votre attention\\[0.3cm]
+  \large Questions ?
+\end{center}
+\end{frame}
+
+\end{document}

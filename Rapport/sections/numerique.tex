@@ -1,0 +1,115 @@
+\section{Numérique responsable et recommandations}
+
+\paragraph{Contexte sectoriel}
+
+Dans le secteur, Volvo a structuré un programme \textit{Green by Design} autour du cloud, du matériel circulaire et de l'empreinte numérique des salariés \cite{volvo_green_it_2026}. Daimler Truck a réduit de 43\,\% ses émissions Scope 1 et 2 depuis 2021 et déploie des solutions numériques pour la logistique et la maintenance \cite{daimler_esg_2025}. Scania mesure l'impact de ses applications (notamment en \textit{vCPU hours}) et allonge la durée de vie du matériel par le réemploi \cite{scania_it_green_2025}. Iveco dispose de briques solides (Web Academy, ESGeo, IMDS) mais ne documente pas encore de programme Green IT interne comparable.
+
+\subsection{Maturation actuelle du numérique responsable chez Iveco Group}
+
+La politique de confidentialité impose l'intégration de la protection des données dès la conception des projets (\textit{Privacy by Design}\footnote{Protection de la vie privée dès la conception.}) et repose sur sept principes : légalité, qualité des données, limitation des finalités et de la conservation, sécurité, protection dès la conception, responsabilité \cite{iveco_privacy_2025}. La systématisation d'une \glos{PIA} pour tout nouveau projet IT permettrait d'évaluer les risques et de documenter les mesures d'atténuation. Toute faute donne lieu à enquête et sanctions, tandis que la formation des collaborateurs demeure un levier opérationnel.
+
+Le groupe mobilise déjà le numérique pour améliorer la durabilité opérationnelle : la \textit{Web Academy}, les classes virtuelles (VCR) et les modules \textit{Web-Based Training} (WBT) limitent les déplacements et montent en compétence les concessionnaires \cite{iveco_annual_2025}; le système \textbf{IMDS} recense la composition des composants et appuie la conformité REACH/ELV \cite{iveco_sustainability_inaction_2025}; la plateforme \textbf{ESGeo} centralise le suivi des KPI environnementaux et sociaux \cite{iveco_annual_2025}.
+
+\paragraph{Clients et concessionnaires~: parties prenantes du numérique responsable}
+
+Les clients et le réseau de concessionnaires sont des parties prenantes indirectes mais essentielles. Les formations à distance (Web Academy, VCR, WBT) réduisent les déplacements des techniciens et améliorent la réparabilité \cite{iveco_annual_2025}, tandis que les retours d'usage et les données de maintenance alimentent le développement des applications de Haute-Goulaine, créant une boucle d'amélioration continue entre IT et réseau commercial. Cette dynamique place le numérique au cœur de la réduction des émissions Scope~3.
+
+En revanche, aucun document des ressources ne décrit un programme dédié de \textit{\glos{Green IT}}\footnote{\textit{Green IT} : numérique éco-responsable.} appliqué à l'informatique interne (postes de travail, serveurs, centres de données, cycle de vie du matériel, éco-conception logicielle). Le numérique responsable reste principalement abordé sous l'angle de la conformité et de la protection des données. C'est précisément l'espace sur lequel portent les recommandations ci-après, en cohérence avec la stratégie RSE globale du groupe.
+
+\subsection{Lien avec l'environnement informatique du site de Haute-Goulaine}
+
+Le site de Haute-Goulaine illustre un contexte IT typique d'une unité de développement logiciel intégrée au groupe : postes sous Windows 11 Enterprise avec \glos{WSL} 2 pour assurer la cohérence entre environnements de développement et serveurs de production, langages web (PHP/Symfony), bases de données (MySQL, Informix), outils collaboratifs (GitLab, Trello) et intégration continue (\glos{CI/CD}).
+
+\begin{figure}[htbp]
+\centering
+\begin{tikzpicture}[
+    node distance=0.7cm and 1.2cm,
+    every node/.style={draw, rectangle, rounded corners, align=center, fill=gray!10, font=\small},
+    arrow/.style={-{Stealth[length=2mm]}, thick}
+]
+\node (win) {Windows 11 Enterprise};
+\node[below=of win] (wsl) {WSL 2 / Ubuntu};
+\node[below left=of wsl] (php) {PhpStorm\\PHP / Symfony};
+\node[below=of wsl] (dbe) {DBeaver\\MySQL, Informix};
+\node[below right=of wsl] (gl) {GitLab / Git\\CI/CD};
+\node[below=of dbe] (trello) {Trello\\Kanban};
+\draw[arrow] (win) -- (wsl);
+\draw[arrow] (wsl) -- (php);
+\draw[arrow] (wsl) -- (dbe);
+\draw[arrow] (wsl) -- (gl);
+\draw[arrow] (wsl) -- (trello);
+\end{tikzpicture}
+\caption{Architecture technique du poste de travail de l'apprenti sur le site de Haute-Goulaine. La pile Windows/WSL permet de reproduire l'environnement de production tout en limitant le recours à des machines virtuelles lourdes.}
+\label{fig:archi}
+\end{figure}
+
+Cet environnement comporte plusieurs leviers naturels de numérique responsable :
+
+\begin{itemize}
+    \item La virtualisation légère via WSL permet de mutualiser les ressources et d'éviter l'usage de machines virtuelles lourdes.
+    \item Le recours massif à l'intégration continue (CI/CD) et aux revues de code facilite l'optimisation des algorithmes et la suppression du code mort.
+    \item Les formations à distance (VCR/WBT) réduisent les déplacements professionnels, en cohérence avec les objectifs Scope 3 du groupe \cite{iveco_annual_2025}.
+    \item L'organisation en méthode \textit{Kanban} (Trello) favorise le flux tiré et limite les tâches en cours, ce qui réduit les ressources informatiques consommées en parallèle.
+\end{itemize}
+
+Ces atouts ne sont toutefois pas exploités systématiquement sous l'angle de l'empreinte environnementale. Aucun indicateur spécifique n'est publié aujourd'hui sur la consommation énergétique du parc informatique du site ou sur l'empreinte carbone des applications développées. Il apparaît donc pertinent de formaliser un plan d'action \textit{Green IT} local, aligné sur les quatre priorités RSE du groupe.
+
+\subsection{Recommandations pour l'équipe IT de Haute-Goulaine}
+
+Les recommandations ci-dessous sont volontairement chiffrées et réalistes compte tenu d'une équipe de cinq personnes. Elles s'appuient sur les bonnes pratiques du numérique responsable et sur les documents internes déjà mobilisés (politique de confidentialité, procédures de bénévolat d'entreprise, plateformes de formation).
+
+\subsubsection*{Éco-conception logicielle et optimisation des ressources}
+
+\begin{itemize}
+    \item Intégrer une liste de vérification \textit{Green IT} dans le cycle de vie des développements (revues de code, critères d'acceptation des demandes de fusion).
+    \item Optimiser les requêtes bases de données et les traitements batch, en mesurant la charge CPU/mémoire des serveurs de développement et de recette.
+    \item Supprimer les environnements non utilisés la nuit et le week-end, et documenter la procédure d'extinction automatique.
+\end{itemize}
+
+\textbf{KPI~:} réduire de \textbf{15\,\%} la consommation moyenne CPU/mémoire des serveurs de développement d'ici fin 2027, par rapport à une base de référence établie au premier trimestre 2026.
+
+\subsubsection*{Cycle de vie du matériel informatique}
+
+\begin{itemize}
+    \item Privilégier le réemploi et le reconditionnement pour les postes de test et les serveurs de développement, en partenariat avec la direction informatique groupe.
+    \item Allonger la durée d'usage utile des PC grâce à des mises à niveau (RAM/SSD) plutôt qu'au remplacement systématique.
+    \item Garantir un taux de recyclage de 100\,\% pour le matériel en fin de vie via les filières agréées (WEEE).
+\end{itemize}
+
+\textbf{KPI~:} atteindre \textbf{30\,\%} de matériel reconditionné dans le parc test/développement d'ici 2028, tout en maintenant la compatibilité avec les exigences de sécurité.
+
+\subsubsection*{Achats IT responsables}
+
+\begin{itemize}
+    \item Introduire des critères environnementaux (labels EPEAT, TCO Certified, rapport de durabilité fournisseur) dans les marchés PC et périphériques.
+    \item Évaluer les fournisseurs sur la réparabilité, la durabilité et la traçabilité des matériaux critiques.
+\end{itemize}
+
+\textbf{KPI~:} \textbf{100\,\%} des nouveaux postes de travail achetés d'ici 2026 disposent d'un label environnemental reconnu.
+
+\subsubsection*{Maîtrise de l'énergie et de la donnée}
+
+\begin{itemize}
+    \item Déployer la mise en veille automatique des postes et des serveurs non productifs.
+    \item Mettre en place une mesure mensuelle de la consommation électrique de la salle serveurs (ou des instances infonuagiques) et communiquer un indicateur simple à l'équipe.
+    \item Aligner les politiques de rétention des logs et des environnements de test avec les principes de minimisation des données du RGPD \cite{iveco_privacy_2025}.
+\end{itemize}
+
+\textbf{KPI~:} réduire de \textbf{20\,\%} la consommation électrique des environnements non productifs (postes et serveurs) d'ici fin 2027.
+
+\subsubsection*{Sensibilisation, compétences et engagement citoyen}
+
+\begin{itemize}
+    \item Organiser une sensibilisation annuelle \textit{Green IT} pour tous les développeurs (bonnes pratiques de code, optimisation requêtes, économies d'énergie).
+    \item Mobiliser le dispositif de bénévolat d'entreprise et de compétences pour accompagner des associations sur des besoins numériques (création de site web, automatisation), comme le prévoient déjà les procédures groupe \cite{iveco_local_corp_2025, iveco_local_subs_2025}.
+\end{itemize}
+
+\textbf{KPI~:} consacrer \textbf{1 jour/an/développeur} à des actions de volontariat numérique d'ici 2027 et obtenir un taux de participation de 100\,\% à la formation Green IT annuelle.
+
+\subsubsection*{Gouvernance du numérique responsable}
+
+La mise en place de ces recommandations doit s'appuyer sur un pilote unique au sein de l'équipe, idéalement en lien avec la comité DEI et le référent sécurité/durabilité du site. Un tableau de bord simple, mis à jour trimestriellement, permettra de suivre les KPI proposés et de rendre compte à la direction informatique. Cette démarche s'inscrit directement dans l'objectif groupe de réduction Scope 1 \& 2 (-50\,\% d'ici 2030) et dans la politique de confidentialité, en particulier le principe de minimisation et de limitation de la conservation \cite{iveco_privacy_2025}.
+
+\subsection*{Avis et regard critique}
+
+Le diagnostic confirme qu'Iveco Group a anticipé le numérique responsable en amont (Privacy by Design, dématérialisation de la formation, traçabilité des matériaux), mais qu'il n'a pas encore structuré de programme Green IT dédié à son informatique interne. La comparaison sectorielle montre que des concurrents comme Scania, Volvo Group et Daimler Truck avancent plus explicitement sur le sujet, en mesurant l'impact carbone des applications ou en valorisant le réemploi du matériel. Pour l'équipe de Haute-Goulaine, la faisabilité des KPI proposés dépend d'une base de référence claire, d'un pilotage minimal et d'une implication des concessionnaires. Elle apparaît réaliste compte tenu de la taille de l'équipe, à condition de ne pas disperser les efforts sur tous les leviers en même temps.

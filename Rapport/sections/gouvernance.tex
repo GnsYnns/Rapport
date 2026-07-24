@@ -1,0 +1,147 @@
+\section{Gouvernance et engagements globaux}
+
+\subsection{Stratégie et cibles climatiques}
+
+Iveco Group structure sa politique RSE autour de quatre priorités opérationnelles : réduire l'empreinte carbone, adopter une approche cycle de vie, améliorer la santé-sécurité et renforcer l'inclusion. Cette ambition s'inscrit dans le \textit{Strategic Business Plan}, vise le \textit{net zero carbon} d'ici 2040 et fixe deux cibles intermédiaires : \textbf{-50\,\%} de Scope 1 et 2 d'ici 2030 (base 2019) et \textbf{-38\,\%} d'intensité Scope 3 d'ici 2030 (base 2022, périmètre Europe) \cite{iveco_annual_2025,iveco_durabilite_2025}. Le \textit{GHG Statement} 2025 fournit l'inventaire détaillé (Tableau~\ref{tab:ghg}).
+
+\begin{table}[ht]
+\centering
+\caption[Empreinte carbone d'Iveco Group en 2025]{Empreinte carbone d'Iveco Group en 2025 (source~: \cite{iveco_ghg_2025})}
+\label{tab:ghg}
+\footnotesize
+\begin{tabular}{@{}lr@{}}
+\toprule
+\textbf{Poste d'émission} & \textbf{Volume 2025 (tCO$_2$eq)} \\
+\midrule
+Scope 1 (directes) & 134\,675 \\
+Scope 2 (location-based) & 101\,417 \\
+Scope 2 (market-based) & 10\,942 \\
+Scope 3 (indirectes, chaîne de valeur) & 50\,543\,293 \\
+\bottomrule
+\end{tabular}
+
+\medskip
+\textit{Note :} les mesures \textit{location-based} et \textit{market-based} du Scope~2 sont alternatives et non cumulables. Le Scope~3 représente environ 99,5~\% des émissions totales avec le périmètre location-based (236\,092\,tCO$_2$eq de Scope~1~+~2).
+\end{table}
+
+\begin{figure}[htbp]
+\centering
+\begin{tikzpicture}
+\begin{axis}[
+    xbar,
+    width=0.85\textwidth,
+    height=0.35\textwidth,
+    xmode=log,
+    log basis x=10,
+    xmin=10000, xmax=100000000,
+    symbolic y coords={Scope 1, Scope 2, Scope 3},
+    ytick=data,
+    xlabel={Émissions 2025 (tCO$_2$éq, échelle logarithmique)},
+    bar width=14pt,
+    enlarge y limits=0.2,
+    nodes near coords,
+    point meta=explicit symbolic,
+    every node near coord/.append style={font=\tiny, anchor=west},
+]
+\addplot[fill=ivecoblue] coordinates {(134675,Scope 1) [0.27\,\%]};
+\addplot[fill=ivecogreen] coordinates {(101417,Scope 2) [0.20\,\%]};
+\addplot[fill=ivecoorange] coordinates {(50543293,Scope 3) [99.53\,\%]};
+\end{axis}
+\end{tikzpicture}
+\caption{Empreinte carbone d'Iveco Group en 2025~: répartition des émissions Scope 1, 2 et 3 en échelle logarithmique. Le Scope 3 domine avec 99,5\,\% du total, ce qui met en évidence la prédominance de la phase d'usage des véhicules vendus.}
+\label{fig:ghg}
+\end{figure}
+
+La consommation énergétique totale du groupe s'élève à \textbf{1\,125\,910\,MWh} en 2025, dont \textbf{35,2\,\%} d'énergies renouvelables (contre 64,8\,\% de sources fossiles) \cite{iveco_ghg_2025}. Cette progression traduit la montée en puissance des achats d'électricité verte et des investissements en efficacité énergétique.
+
+Sur le plan analytique, le rapport Scope~3 / Scope~1+2 (plus de 99\,\%) illustre que l'essentiel du défi décarbonation réside dans la phase d'usage des véhicules vendus, hors du contrôle direct d'Iveco Group. La cible Scope~3 étant exprimée en intensité (par véhicule-kilomètre) et non en valeur absolue, elle dépend fortement des volumes de production et du mix énergétique des clients, ce qui appelle un pilotage robuste et transparent.
+
+\begin{figure}[htbp]
+\centering
+\begin{tikzpicture}
+\begin{axis}[
+    xbar,
+    width=0.75\textwidth,
+    height=0.2\textwidth,
+    xmin=0, xmax=100,
+    xlabel={Part de la consommation énergétique (\%)},
+    ytick=data,
+    symbolic y coords={Renouvelable, Fossile},
+    bar width=16pt,
+    nodes near coords,
+    nodes near coords align={horizontal},
+    enlarge y limits=0.25,
+]
+\addplot[fill=ivecogreen] coordinates {(35.2,Renouvelable)};
+\addplot[fill=ivecoorange] coordinates {(64.8,Fossile)};
+\end{axis}
+\end{tikzpicture}
+\caption{Mix énergétique d'Iveco Group en 2025. Les énergies renouvelables atteignent 35,2\,\%, en hausse grâce aux achats d'électricité verte et aux investissements en efficacité.}
+\label{fig:energie}
+\end{figure}
+
+\subsection{Gouvernance et alignement stratégique}
+
+La responsabilité ultime de la stratégie de décarbonation incombe au \textbf{Conseil d'administration}, assisté par le \textbf{comité ESG}, qui en suit l'exécution, guide la gestion des risques climatiques et examine les actions d'efficacité énergétique \cite{iveco_annual_2025}. Au niveau opérationnel, la \textbf{Senior Leadership Team (SLT)} définit la stratégie de durabilité ; l'équipe \textbf{Energy} coordonne la gestion des ressources énergétiques et l'équipe \textbf{EEHS} (Energy, Environment, Health and Safety) supervise les questions de santé et sécurité.
+
+Par ailleurs, le processus de déclaration RSE repose sur une démarche de \textbf{double matérialité} alignée sur la directive \glos{CSRD} et les \glos{ESRS}. La plateforme \textbf{ESGeo} centralise les données de durabilité, les contrôles de processus (PLC) et les vérifications des indicateurs, afin d'en garantir la fiabilité \cite{iveco_annual_2025}.
+
+\begin{figure}[htbp]
+\centering
+\begin{tikzpicture}[
+    node distance=0.6cm and 1.2cm,
+    every node/.style={draw, rectangle, rounded corners, align=center, fill=gray!10, font=\small},
+    arrow/.style={-{Stealth[length=2mm]}, thick}
+]
+\node (ca) {Conseil d'administration};
+\node[below=of ca] (esg) {Comité ESG};
+\node[below=of esg] (slt) {Senior Leadership Team\\(SLT)};
+\node[below left=of slt] (energy) {Équipe\\Energy};
+\node[below right=of slt] (eehs) {Équipe\\EEHS};
+\draw[arrow] (ca) -- (esg);
+\draw[arrow] (esg) -- (slt);
+\draw[arrow] (slt) -- (energy);
+\draw[arrow] (slt) -- (eehs);
+\end{tikzpicture}
+\caption{Architecture de gouvernance RSE d'Iveco Group. Les instances stratégiques pilotent les enjeux climatiques, environnementaux et sociaux, de la définition des cibles jusqu'à leur mise en œuvre opérationnelle.}
+\label{fig:gouvernance}
+\end{figure}
+
+\subsection{Labels et évaluations ESG}
+
+Le Tableau~\ref{tab:esg} regroupe les principales reconnaissances ESG obtenues en 2025.
+
+\begin{table}[ht]
+\centering
+\caption[Synthèse des évaluations ESG d'Iveco Group en 2025]{Synthèse des évaluations ESG d'Iveco Group en 2025 (source~: \cite{iveco_sustainability_inaction_2025})}
+\label{tab:esg}
+\footnotesize
+\begin{tabularx}{\textwidth}{@{}lX@{}}
+\toprule
+\textbf{Agence / Label} & \textbf{Notation / Résultat} \\
+\midrule
+S\&P Global CSA & 79/100~; top 5\,\% du secteur~; intégré au \textit{Sustainability Yearbook 2026} \\
+EcoVadis & Médaille d'or~; 97\textsuperscript{e} centile mondial (top 5\,\%) \\
+CDP & \textbf{A} (climat), \textbf{A-} (eau), \textbf{C} (forêts) \\
+ISS ESG & Notation d'entreprise \textbf{B-} \\
+Indices & ECPI Euro ESG Equity Index, Integrated Governance Index (IGI) \\
+\bottomrule
+\end{tabularx}
+\end{table}
+
+Ces résultats confirment la crédibilité externe de la démarche RSE. Les excellents scores S\&P Global et EcoVadis attestent de la maturité des processus, tandis que le \glos{CDP} climat (A) et eau (A-) valident la qualité de la donnée environnementale. Le score plus faible du CDP Forêts (C) constitue un point d'attention, à mettre en regard avec la forte dépendance du groupe aux matériaux d'approvisionnement.
+
+\paragraph{Parties prenantes institutionnelles}
+Les administrations et organismes publics jouent un rôle déterminant dans la mise en œuvre de la politique RSE. Les normes internationales (ISO 45001), les mécanismes de reporting réglementaire (CSRD/ESRS) et les autorités de contrôle (RGPD, inspections du travail) fixent le cadre dans lequel Iveco Group doit démontrer la fiabilité de ses indicateurs et la conformité de ses processus. La certification externe, le scoring ESG (CDP, EcoVadis, S\&P Global) et les audits de l'assurance ISAE 3410 du \textit{GHG Statement} traduisent cette supervision institutionnelle.
+
+\subsection{Approvisionnement et matériaux critiques}
+
+La dépendance aux matières premières critiques (acier, aluminium, cuivre, batteries lithium-ion, terres rares, semi-conducteurs) se reflète dans le score CDP Forêts (C). La conformité REACH/ELV et le système IMDS répondent partiellement à ces enjeux, mais ne couvrent pas systématiquement le devoir de vigilance amont. Cette problématique vaut aussi pour le matériel informatique : les achats IT doivent privilégier des fournisseurs certifiés (EPEAT, TCO Certified) et exiger une traçabilité des matériaux.
+
+\subsection{Éthique, conformité et gestion des risques}
+
+La gouvernance éthique repose sur le \textbf{Code de Conduite} et des politiques dédiées (conflits d'intérêts, corruption, antitrust, commerce international, confidentialité). En 2025, environ \textbf{12\,200 salariés} ont suivi la formation au Code de Conduite \cite{iveco_annual_2025}. La \textbf{Compliance Helpline} (accessible 24/7) a reçu \textbf{241 signalements}, dont \textbf{23} matériels remontés au Comité d'audit \cite{iveco_annual_2025}. Les catégories couvertes sont la comptabilité, la conduite commerciale, les pratiques d'emploi, les relations externes et le HSE \cite{iveco_compliance_helpline_2025}. La \textbf{Politique Droits Humains} s'applique aux salariés, dirigeants, fournisseurs, distributeurs et partenaires, sous la supervision de la SLT et du Conseil d'administration \cite{iveco_annual_2025}.
+
+\subsection*{Avis et regard critique}
+
+La gouvernance RSE d'Iveco Group affiche une maturité avérée~: les instances sont clairement identifiées, la double matérialité est alignée sur la réglementation européenne et les reconnaissances ESG sont solides. Cependant, le score CDP Forêts (C) et l'absence de traçabilité amont complète sur les matériaux critiques révèlent une vulnérabilité structurelle. Sur le plan du numérique responsable, le défi consiste à traduire ces engagements groupe en exigences concrètes pour les achats informatiques et les applications internes, ce qui n'est pas documenté dans les ressources fournies.

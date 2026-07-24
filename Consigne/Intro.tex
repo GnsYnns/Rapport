@@ -1,0 +1,60 @@
+% PRÉSENTATION DE L'ENTREPRISE
+\section{Présentation de l'entreprise}
+
+\subsection{L'entreprise, ses activités et ses produits : Iveco France et le site de Haute-Goulaine}
+
+\subsubsection{Le positionnement d'Iveco France}
+
+Iveco (Industrial Vehicles Corporation) est un constructeur automobile majeur, leader mondial dans la conception, la production et la commercialisation d'une large gamme de véhicules industriels, utilitaires et de transport de personnes. Sur le territoire national, Iveco France structure son réseau autour de directions régionales, de concessions et de points de service afin de garantir une couverture optimale et un support de proximité pour l'ensemble de ses clients professionnels.
+
+\subsubsection{La singularité et l'autonomie opérationnelle du site de Haute-Goulaine}
+
+D'un point de vue purement administratif, mon alternance est rattachée au siège social d'Iveco France, situé à Guyancourt (Yvelines). C'est au sein de ce siège que sont centralisées les fonctions régaliennes du groupe (ressources humaines, direction financière, services juridiques) ainsi que la gouvernance globale de la direction informatique (IT\footnote{Information Technology : Technologies de l'Information}).
+
+Cependant, mon activité opérationnelle quotidienne se déroule sur le site indépendant de Haute-Goulaine (Loire-Atlantique). Ce site occupe une place tout à fait singulière et stratégique dans l'organisation de l'entreprise. Loin d'être une simple antenne commerciale, le pôle de Haute-Goulaine fait office de centre d'ingénierie et de développement logiciel totalement autonome.
+
+La mission principale de ce site est de concevoir, de maintenir et de faire évoluer un écosystème de solutions logicielles (outils métiers spécifiques, applications de gestion, tableaux de bord de pilotage) à destination exclusive des concessionnaires partenaires d'Iveco sur le territoire français. Ce positionnement centré sur le réseau national implique que l'activité technique de notre site n'intègre pas de relations directes avec l'international au quotidien, se focalisant sur la réactivité et l'adaptation aux besoins du marché français.
+
+\subsection{L'équipe et le service de l'apprenti}
+
+L'équipe technique et de gestion de projet présente sur le site de Haute-Goulaine est une structure à taille humaine. Ce format restreint s'avère être un atout majeur, car il favorise l'agilité, la communication directe et une forte réactivité face aux demandes du réseau de concessions.
+
+L'équipe est composée de cinq personnes, organisées selon la structure suivante :
+
+\begin{itemize}[label=\textbullet]
+    \item \textbf{Un Responsable de site (N+2) :} Il cumule les fonctions d'Administrateur Système et Réseau local et de Chef de Projet. Il assure le lien entre les besoins métiers des concessions et la planification technique, tout en garantissant le maintien en condition opérationnelle de l'infrastructure physique du site.
+    \item \textbf{Un Lead Developer :} Référent technique de l'équipe, il supervise l'architecture logicielle, valide la qualité du code et assure le rôle essentiel de tuteur pour ma formation en entreprise.
+    \item \textbf{Trois Développeurs :} Cette cellule de production logicielle est composée de trois alternants ingénieurs (dont moi-même). Nos missions englobent la réalisation des nouveaux développements (fonctionnalités, refontes), l'écriture des tests, ainsi que le support technique de niveau 2 et 3 en cas d'incidents complexes escaladés par les utilisateurs.
+\end{itemize}
+
+\subsection{Le rôle de l'apprenti et son environnement informatique}
+
+\subsubsection{Mon rôle au sein du service}
+
+En tant qu'apprenti développeur au cours de cette mission de 8 semaines, je suis pleinement intégré au cycle de vie des applications du site. Mon rôle consiste à prendre en charge des tickets de développement (correctifs ou évolutifs), à interfaçer nos applications avec les bases de données existantes, et à participer activement au déploiement des solutions.
+
+\subsubsection{L'architecture du poste de travail : La synergie Windows / WSL}
+
+Pour mener à bien mes tâches de développement, mon poste de travail et mon environnement informatique quotidien font l'objet d'une configuration logicielle hybride spécifique, pensée pour allier contraintes de sécurité d'entreprise et flexibilité de développement :
+
+\begin{itemize}[label=\textbullet]
+    \item \textbf{Matériel :} Un PC portable d'entreprise configuré aux standards de sécurité d'Iveco, connecté au réseau local filaire de Haute-Goulaine et aux périphériques partagés du site (imprimantes, serveurs de fichiers de dev).
+    \item \textbf{Système d'Exploitation (OS\footnote{Operating System : Système d'Exploitation}) :} L'environnement de base du poste est \textbf{Windows 11 Enterprise}, requis pour la compatibilité avec les outils collaboratifs du groupe. Néanmoins, pour les besoins stricts du développement informatique et pour garantir une reproduction fidèle des environnements serveurs cibles, l'utilisation de \textbf{WSL 2\footnote{Windows Subsystem for Linux : Sous-système Windows pour Linux} (Windows Subsystem for Linux)} est systématique.
+\end{itemize}
+
+\begin{quote}
+\textbf{Analyse technique de l'environnement :} WSL 2 permet de faire tourner une distribution Linux complète (Ubuntu) de manière totalement transparente et simultanée sur le PC, sans la lourdeur d'une machine virtuelle traditionnelle. En tant que développeur, j'exécute mes scripts, mes runtimes et mes commandes Docker directement dans l'environnement Linux. Cela élimine le syndrome du \enquote{ça fonctionne sur ma machine mais pas sur le serveur}, puisque mon environnement de dev local utilise le même noyau Linux que nos serveurs de production.
+\end{quote}
+
+\subsubsection{La stack d'outils de développement et de gestion}
+
+Autour de ce noyau Windows/WSL, mon environnement applicatif s'articule autour de plusieurs outils spécialisés :
+
+\begin{itemize}[label=\textbullet]
+    \item \textbf{IDE\footnote{Integrated Development Environment : Environnement de Développement Intégré} (Environnement de développement) : JetBrains PhpStorm.} Le choix de cet IDE haut de gamme indique que la majorité de notre stack logicielle historique et moderne repose sur le langage PHP (notamment avec des frameworks comme Symfony). PhpStorm est installé côté Windows mais communique directement avec le système de fichiers de WSL pour éditer le code.
+    \item \textbf{Gestion des bases de données : DBeaver.} Cet outil multi-plateforme me permet de me connecter, de requêter et d'administrer visuellement les différentes bases de données de test et de réplication (MySQL, IBM Informix).
+    \item \textbf{Gestion de version (Versioning) et CI/CD\footnote{Continuous Integration / Continuous Deployment : Intégration Continue / Déploiement Continu} : GitLab.} L'ensemble de notre code source est hébergé sur un serveur GitLab interne. Nous l'utilisons pour le versionnage (Git\footnote{Système de gestion de versions décentralisé}), les revues de code (Merge Requests\footnote{Demandes de fusion : processus de revue de code avant intégration}) et le déclenchement des pipelines automatisées de tests et de déploiement (CI/CD).
+    \item \textbf{Gestion des tâches : Trello\footnote{Outil de gestion de projet en ligne utilisant la méthode Kanban}.} L'organisation du travail de l'équipe technique s'appuie sur la méthode Kanban\footnote{Méthode de gestion de flux de travail visuelle par cartes} via Trello. Chaque tâche, fonctionnalité ou correction d'incident y est matérialisée sous forme de ticket virtuel permettant de suivre visuellement son état d'avancement (\enquote{À faire, En cours, En test, Validé}).
+\end{itemize}
+
+\newpage

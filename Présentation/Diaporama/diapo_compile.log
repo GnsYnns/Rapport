@@ -1,0 +1,2870 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex.fmt)
+ restricted \write18 enabled.
+entering extended mode
+(diapo.tex
+LaTeX2e <2026-06-01>
+L3 programming layer <2026-06-18>
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamer.cls
+Document Class: beamer 2026/01/22 v3.77 A class for typesetting presentations
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasemode
+s.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasedeco
+de.sty))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaseopti
+ons.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty))
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg
+))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.
+sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfut
+il-common.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfut
+il-latex.def)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrc
+s.code.tex
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.te
+x)))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys
+.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfke
+ys.code.tex
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfke
+yslibraryfiltered.code.tex)))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.co
+de.tex
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathuti
+l.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathpar
+ser.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfun
+ctions.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfun
+ctions.basic.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfun
+ctions.trigonometric.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfun
+ctions.random.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfun
+ctions.comparison.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfun
+ctions.base.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfun
+ctions.round.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfun
+ctions.misc.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfun
+ctions.integerarithmetics.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcal
+c.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathflo
+at.code.tex)))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcor
+e.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics
+.cfg)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.d
+ef)))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsy
+s.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf
+sys.code.tex
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf
+.cfg)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf
+sys-pdftex.def
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf
+sys-common-pdf.def)))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf
+syssoftpath.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf
+sysprotocol.code.tex))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cf
+g)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.lt
+x))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+ore.code.tex
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.cod
+e.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+orepoints.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+orepathconstruct.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+orepathusage.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+orescopes.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+oregraphicstate.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+oretransformations.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+orequick.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+oreobjects.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+orepathprocessing.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+orearrows.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+oreshade.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+oreimage.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+oreexternal.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+orelayers.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+oretransparency.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+orepatterns.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+orerdf.code.tex)))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\xxcolor
+.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.s
+ty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefi
+nekeys.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape
+.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcm
+ds.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr
+.sty)))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gett
+itlestring.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.s
+ty)))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc
+.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+) (C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintca
+lc.sty))
+
+Package hyperref Message: Stopped early.
+
+)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunf
+ilecheck.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniqu
+ecounter.sty)))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaserequ
+ires.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasecomp
+atibility.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasefont
+.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/sansmathaccent\sansma
+thaccent.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlfile.
+sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlfile-
+hook.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlogo.s
+ty)))))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasetran
+slator.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator
+.sty))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasemisc
+.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasetwos
+creens.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaseover
+lay.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasetitl
+e.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasesect
+ion.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasefram
+e.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaseverb
+atim.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasefram
+esize.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasefram
+ecomponents.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasecolo
+r.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasenote
+s.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasetoc.
+sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasetemp
+lates.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaseauxt
+emplates.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaseboxe
+s.sty)))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaseloca
+lstructure.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/tools\enumerate.sty))
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasenavi
+gation.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasenavi
+gationsymbols.tex))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasetheo
+rems.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+For additional information on amsmath, use the `?' option.
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/amscls\amsthm.sty))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasethem
+es.sty))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerthemedef
+ault.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerfontthem
+edefault.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamercolorthe
+medefault.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerinnerthe
+medefault.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerouterthe
+medefault.sty)))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/fr\bab
+el-french.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/babel-french\french
+.ldf
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/babel-french\french
+3.ldf)))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/carlisle\scalefnt.sty
+)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.s
+ty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype-p
+dftex.def)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.c
+fg))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerthemeMad
+rid.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamercolorthe
+mewhale.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamercolorthe
+meorchid.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerinnerthe
+merounded.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerouterthe
+meinfolines.sty))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamercolorthe
+meseahorse.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-p
+dftex.def)
+No file diapo.aux.
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.
+mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf
+-base.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys
+.cfg))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator
+-basic-dictionary-English.dict)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator
+-basic-dictionary-French.dict)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator
+-bibliography-dictionary-English.dict)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator
+-bibliography-dictionary-French.dict)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator
+-environment-dictionary-English.dict)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator
+-environment-dictionary-French.dict)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator
+-months-dictionary-English.dict)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator
+-months-dictionary-French.dict)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator
+-numbers-dictionary-English.dict)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator
+-numbers-dictionary-French.dict)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator
+-theorem-dictionary-English.dict)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator
+-theorem-dictionary-French.dict)
+No file diapo.nav.
+libpng error: Not a PNG file
+
+!pdfTeX error: pdflatex.exe (file ../../Rapport/images/iveco_logo.png): libpng:
+ internal error
+ ==> Fatal error occurred, no output PDF file produced!
+pdflatex: major issue: So far, you have not checked for MiKTeX updates.
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex.fmt)
+ restricted \write18 enabled.
+entering extended mode
+(diapo.tex
+LaTeX2e <2026-06-01>
+L3 programming layer <2026-06-18>
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamer.cls
+Document Class: beamer 2026/01/22 v3.77 A class for typesetting presentations
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasemode
+s.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasedeco
+de.sty))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaseopti
+ons.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty))
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg
+))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.
+sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfut
+il-common.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfut
+il-latex.def)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrc
+s.code.tex
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.te
+x)))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys
+.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfke
+ys.code.tex
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfke
+yslibraryfiltered.code.tex)))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.co
+de.tex
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathuti
+l.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathpar
+ser.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfun
+ctions.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfun
+ctions.basic.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfun
+ctions.trigonometric.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfun
+ctions.random.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfun
+ctions.comparison.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfun
+ctions.base.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfun
+ctions.round.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfun
+ctions.misc.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfun
+ctions.integerarithmetics.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcal
+c.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathflo
+at.code.tex)))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcor
+e.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics
+.cfg)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.d
+ef)))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsy
+s.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf
+sys.code.tex
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf
+.cfg)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf
+sys-pdftex.def
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf
+sys-common-pdf.def)))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf
+syssoftpath.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf
+sysprotocol.code.tex))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cf
+g)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.lt
+x))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+ore.code.tex
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.cod
+e.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+orepoints.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+orepathconstruct.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+orepathusage.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+orescopes.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+oregraphicstate.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+oretransformations.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+orequick.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+oreobjects.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+orepathprocessing.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+orearrows.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+oreshade.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+oreimage.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+oreexternal.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+orelayers.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+oretransparency.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+orepatterns.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+orerdf.code.tex)))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\xxcolor
+.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.s
+ty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefi
+nekeys.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape
+.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcm
+ds.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr
+.sty)))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gett
+itlestring.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.s
+ty)))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc
+.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+) (C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintca
+lc.sty))
+
+Package hyperref Message: Stopped early.
+
+)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunf
+ilecheck.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniqu
+ecounter.sty)))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaserequ
+ires.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasecomp
+atibility.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasefont
+.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/sansmathaccent\sansma
+thaccent.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlfile.
+sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlfile-
+hook.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlogo.s
+ty)))))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasetran
+slator.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator
+.sty))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasemisc
+.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasetwos
+creens.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaseover
+lay.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasetitl
+e.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasesect
+ion.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasefram
+e.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaseverb
+atim.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasefram
+esize.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasefram
+ecomponents.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasecolo
+r.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasenote
+s.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasetoc.
+sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasetemp
+lates.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaseauxt
+emplates.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaseboxe
+s.sty)))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaseloca
+lstructure.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/tools\enumerate.sty))
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasenavi
+gation.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasenavi
+gationsymbols.tex))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasetheo
+rems.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+For additional information on amsmath, use the `?' option.
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/amscls\amsthm.sty))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasethem
+es.sty))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerthemedef
+ault.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerfontthem
+edefault.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamercolorthe
+medefault.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerinnerthe
+medefault.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerouterthe
+medefault.sty)))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/fr\bab
+el-french.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/babel-french\french
+.ldf
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/babel-french\french
+3.ldf)))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/carlisle\scalefnt.sty
+)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.s
+ty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype-p
+dftex.def)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.c
+fg))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerthemeMad
+rid.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamercolorthe
+mewhale.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamercolorthe
+meorchid.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerinnerthe
+merounded.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerouterthe
+meinfolines.sty))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamercolorthe
+meseahorse.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-p
+dftex.def) (diapo.aux)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.
+mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf
+-base.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys
+.cfg)) (diapo.out) (diapo.out)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator
+-basic-dictionary-English.dict)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator
+-basic-dictionary-French.dict)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator
+-bibliography-dictionary-English.dict)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator
+-bibliography-dictionary-French.dict)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator
+-environment-dictionary-English.dict)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator
+-environment-dictionary-French.dict)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator
+-months-dictionary-English.dict)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator
+-months-dictionary-French.dict)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator
+-numbers-dictionary-English.dict)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator
+-numbers-dictionary-French.dict)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator
+-theorem-dictionary-English.dict)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator
+-theorem-dictionary-French.dict)
+No file diapo.nav.
+[1{C:/Users/y.gonos/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <../../Ra
+pport/images/iveco_logo.jpg> <../../Rapport/images/logo_3il_ingenieurs.png>]
+No file diapo.toc.
+[2] [3] [4] [5
+! pdfTeX error (font expansion): auto expansion is only possible with scalable 
+fonts.
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.115 \end{frame}
+                 
+!  ==> Fatal error occurred, no output PDF file produced!
+Transcript written on diapo.log.
+pdflatex: major issue: So far, you have not checked for MiKTeX updates.
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex.fmt)
+ restricted \write18 enabled.
+entering extended mode
+(diapo.tex
+LaTeX2e <2026-06-01>
+L3 programming layer <2026-06-18>
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamer.cls
+Document Class: beamer 2026/01/22 v3.77 A class for typesetting presentations
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasemode
+s.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasedeco
+de.sty))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaseopti
+ons.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty))
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg
+))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.
+sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfut
+il-common.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfut
+il-latex.def)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrc
+s.code.tex
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.te
+x)))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys
+.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfke
+ys.code.tex
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfke
+yslibraryfiltered.code.tex)))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.co
+de.tex
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathuti
+l.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathpar
+ser.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfun
+ctions.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfun
+ctions.basic.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfun
+ctions.trigonometric.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfun
+ctions.random.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfun
+ctions.comparison.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfun
+ctions.base.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfun
+ctions.round.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfun
+ctions.misc.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfun
+ctions.integerarithmetics.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcal
+c.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathflo
+at.code.tex)))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcor
+e.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics
+.cfg)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.d
+ef)))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsy
+s.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf
+sys.code.tex
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf
+.cfg)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf
+sys-pdftex.def
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf
+sys-common-pdf.def)))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf
+syssoftpath.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf
+sysprotocol.code.tex))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cf
+g)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.lt
+x))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+ore.code.tex
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.cod
+e.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+orepoints.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+orepathconstruct.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+orepathusage.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+orescopes.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+oregraphicstate.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+oretransformations.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+orequick.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+oreobjects.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+orepathprocessing.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+orearrows.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+oreshade.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+oreimage.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+oreexternal.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+orelayers.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+oretransparency.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+orepatterns.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+orerdf.code.tex)))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\xxcolor
+.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.s
+ty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefi
+nekeys.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape
+.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcm
+ds.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr
+.sty)))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gett
+itlestring.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.s
+ty)))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc
+.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+) (C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintca
+lc.sty))
+
+Package hyperref Message: Stopped early.
+
+)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunf
+ilecheck.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniqu
+ecounter.sty)))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaserequ
+ires.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasecomp
+atibility.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasefont
+.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/sansmathaccent\sansma
+thaccent.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlfile.
+sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlfile-
+hook.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlogo.s
+ty)))))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasetran
+slator.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator
+.sty))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasemisc
+.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasetwos
+creens.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaseover
+lay.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasetitl
+e.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasesect
+ion.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasefram
+e.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaseverb
+atim.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasefram
+esize.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasefram
+ecomponents.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasecolo
+r.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasenote
+s.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasetoc.
+sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasetemp
+lates.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaseauxt
+emplates.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaseboxe
+s.sty)))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaseloca
+lstructure.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/tools\enumerate.sty))
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasenavi
+gation.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasenavi
+gationsymbols.tex))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasetheo
+rems.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+For additional information on amsmath, use the `?' option.
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/amscls\amsthm.sty))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasethem
+es.sty))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerthemedef
+ault.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerfontthem
+edefault.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamercolorthe
+medefault.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerinnerthe
+medefault.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerouterthe
+medefault.sty)))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/fr\bab
+el-french.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/babel-french\french
+.ldf
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/babel-french\french
+3.ldf)))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/carlisle\scalefnt.sty
+)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerthemeMad
+rid.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamercolorthe
+mewhale.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamercolorthe
+meorchid.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerinnerthe
+merounded.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerouterthe
+meinfolines.sty))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamercolorthe
+meseahorse.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-p
+dftex.def) (diapo.aux)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.
+mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf
+-base.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys
+.cfg)) (diapo.out) (diapo.out)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator
+-basic-dictionary-English.dict)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator
+-basic-dictionary-French.dict)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator
+-bibliography-dictionary-English.dict)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator
+-bibliography-dictionary-French.dict)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator
+-environment-dictionary-English.dict)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator
+-environment-dictionary-French.dict)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator
+-months-dictionary-English.dict)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator
+-months-dictionary-French.dict)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator
+-numbers-dictionary-English.dict)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator
+-numbers-dictionary-French.dict)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator
+-theorem-dictionary-English.dict)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator
+-theorem-dictionary-French.dict)
+No file diapo.nav.
+[1{C:/Users/y.gonos/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <../../Ra
+pport/images/iveco_logo.jpg> <../../Rapport/images/logo_3il_ingenieurs.png>]
+No file diapo.toc.
+[2] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12] (diapo.aux)Trying to make PK font ecsi1200 at 600 DPI...
+The METAFONT mode is: ljfour
+Creating ecsi1200.pk...
+Running miktex-mf.exe...
+This is METAFONT, Version 2.71828182 (MiKTeX 26.5)
+
+
+
+
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\ecsi12
+
+00.mf
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exbase
+
+.mf)
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\ecsi.m
+
+f
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exroma
+
+n.mf
+
+ Ok
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exacce
+
+ss.mf
+
+ Ok)
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\expseu
+
+do.mf
+
+ Ok)
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exruwe
+
+st.mf
+
+ Ok [192] [193] [194] [195] [196] [197] [198] [199] [200] [201] [202] [203]
+
+[204] [205] [206] [207] [208] [209] [210] [211] [212] [213] [214] [215]
+
+[216] [217] [218] [219] [220] [221] [222] [223])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrlwe
+
+st.mf
+
+ Ok [224] [225] [226] [227] [228] [229] [230] [231] [232] [233] [234] [235]
+
+[236] [237] [238] [239] [240] [241] [242] [243] [244] [245] [246] [247]
+
+[248] [249] [250] [251] [252] [253] [254] [255])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exruea
+
+st.mf
+
+ Ok [128] [129] [130] [131] [132] [133] [134] [135] [136] [137] [138] [139]
+
+[140] [141] [142] [143] [144] [145] [146] [147] [148] [149] [150] [151]
+
+[152] [153] [154] [155] [156] [157])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrlea
+
+st.mf
+
+ Ok [158] [160] [161] [162] [163] [164] [165] [166] [167] [168] [169] [170]
+
+[171] [172] [173] [174] [175] [176] [177] [178] [179] [180] [181] [182]
+
+[183] [184] [185] [186] [187] [188])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exbrac
+
+es.mf
+
+ Ok [94] [126] [23] [40] [41] [60] [124] [62] [91] [93] [92] [123] [125]
+
+[95] [127] [32])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\expunc
+
+t.mf
+
+ Ok [14] [15] [19] [20] [13] [18] [33] [39] [42] [43] [44] [46] [47] [58]
+
+[59] [61] [96] [189] [17] [45] [16] [21] [22])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exacce
+
+nt.mf
+
+ Ok [0] [1] [2] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exsign
+
+.mf
+
+ Ok [24] [34] [35] [36] [37] [64] [191] [159])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrlig
+
+.mf
+
+ Ok [25] [26] [28] [27] [29] [30] [31])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exromp
+
+.mf
+
+ Ok [38] [63] [190])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrule
+
+tt.mf
+
+ Ok [65] [66] [67] [68] [69] [70] [71] [72] [73] [74] [75] [76] [77] [78]
+
+[79] [80] [81] [82] [83] [84] [85] [86] [87] [88] [89] [90])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrlle
+
+tt.mf
+
+ Ok [97] [98] [99] [100] [101] [102] [103] [104] [105] [106] [107] [108]
+
+[109] [110] [111] [112] [113] [114] [115] [116] [117] [118] [119] [120]
+
+[121] [122])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrdig
+
+it.mf
+
+ Ok [48] [49] [50] [51] [52] [53] [54] [55] [56] [57])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrlig
+
+tb.mf
+
+ Ok) ) ) )
+
+Font metrics written on ecsi1200.tfm.
+
+Output written on ecsi1200.600gf (256 characters, 54120 bytes).
+
+Transcript written on ecsi1200.log.
+
+This is GFtoPK, Version 2.4 (MiKTeX 26.5)
+Running miktex-gftopk.exe...
+
+'METAFONT output 2026.07.24:1647'
+
+54120 bytes packed to 29580 bytes.
+
+Installing C:\Users\y.gonos\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsi1200.pk...
+miktex-makepk: major issue: So far, you have not checked for MiKTeX updates.
+
+
+Package rerunfilecheck Warning: File `diapo.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+ ) <C:\Users\y.gonos\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ec
+si1200.pk>Trying to make PK font ecsx2488 at 600 DPI...
+This is METAFONT, Version 2.71828182 (MiKTeX 26.5)
+The METAFONT mode is: ljfour
+
+Creating ecsx2488.pk...
+
+Running miktex-mf.exe...
+
+
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\ecsx24
+
+88.mf
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exbase
+
+.mf)
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\ecsx.m
+
+f
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exroma
+
+n.mf
+
+ Ok
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exacce
+
+ss.mf
+
+ Ok)
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\expseu
+
+do.mf
+
+ Ok)
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exruwe
+
+st.mf
+
+ Ok [192] [193] [194] [195] [196] [197] [198] [199] [200] [201] [202] [203]
+
+[204] [205] [206] [207] [208] [209] [210] [211] [212] [213] [214] [215]
+
+[216] [217] [218] [219] [220] [221] [222] [223])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrlwe
+
+st.mf
+
+ Ok [224] [225] [226] [227] [228] [229] [230] [231] [232] [233] [234] [235]
+
+[236] [237] [238] [239] [240] [241] [242] [243] [244] [245] [246] [247]
+
+[248] [249] [250] [251] [252] [253] [254] [255])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exruea
+
+st.mf
+
+ Ok [128] [129] [130] [131] [132] [133] [134] [135] [136] [137] [138] [139]
+
+[140] [141] [142] [143] [144] [145] [146] [147] [148] [149] [150] [151]
+
+[152] [153] [154] [155] [156] [157])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrlea
+
+st.mf
+
+ Ok [158] [160] [161] [162] [163] [164] [165] [166] [167] [168] [169] [170]
+
+[171] [172] [173] [174] [175] [176] [177] [178] [179] [180] [181] [182]
+
+[183] [184] [185] [186] [187] [188])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exbrac
+
+es.mf
+
+ Ok [94] [126] [23] [40] [41] [60] [124] [62] [91] [93] [92] [123] [125]
+
+[95] [127] [32])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\expunc
+
+t.mf
+
+ Ok [14] [15] [19] [20] [13] [18] [33] [39] [42] [43] [44] [46] [47] [58]
+
+[59] [61] [96] [189] [17] [45] [16] [21] [22])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exacce
+
+nt.mf
+
+ Ok [0] [1] [2] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exsign
+
+.mf
+
+ Ok [24] [34] [35] [36] [37] [64] [191] [159])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrlig
+
+.mf
+
+ Ok [25] [26] [28] [27] [29] [30] [31])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exromp
+
+.mf
+
+ Ok [38] [63] [190])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrule
+
+tt.mf
+
+ Ok [65] [66] [67] [68] [69] [70] [71] [72] [73] [74] [75] [76] [77] [78]
+
+[79] [80] [81] [82] [83] [84] [85] [86] [87] [88] [89] [90])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrlle
+
+tt.mf
+
+ Ok [97] [98] [99] [100] [101] [102] [103] [104] [105] [106] [107] [108]
+
+[109] [110] [111] [112] [113] [114] [115] [116] [117] [118] [119] [120]
+
+[121] [122])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrdig
+
+it.mf
+
+ Ok [48] [49] [50] [51] [52] [53] [54] [55] [56] [57])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrlig
+
+tb.mf
+
+ Ok) ) ) )
+
+(some charht values had to be adjusted by as much as 0.15675pt)
+
+Font metrics written on ecsx2488.tfm.
+
+Output written on ecsx2488.600gf (256 characters, 114160 bytes).
+
+Transcript written on ecsx2488.log.
+
+This is GFtoPK, Version 2.4 (MiKTeX 26.5)
+Running miktex-gftopk.exe...
+
+'METAFONT output 2026.07.24:1647'
+
+114160 bytes packed to 64032 bytes.
+
+Installing C:\Users\y.gonos\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx2488.pk...
+miktex-makepk: major issue: So far, you have not checked for MiKTeX updates.
+ <C:\Users\y.gonos\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/d
+pi600\ecsx2488.pk>Trying to make PK font ecss1440 at 600 DPI...
+This is METAFONT, Version 2.71828182 (MiKTeX 26.5)
+The METAFONT mode is: ljfour
+Creating ecss1440.pk...
+Running miktex-mf.exe...
+
+
+
+
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\ecss14
+
+40.mf
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exbase
+
+.mf)
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\ecss.m
+
+f
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exroma
+
+n.mf
+
+ Ok
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exacce
+
+ss.mf
+
+ Ok)
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\expseu
+
+do.mf
+
+ Ok)
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exruwe
+
+st.mf
+
+ Ok [192] [193] [194] [195] [196] [197] [198] [199] [200] [201] [202] [203]
+
+[204] [205] [206] [207] [208] [209] [210] [211] [212] [213] [214] [215]
+
+[216] [217] [218] [219] [220] [221] [222] [223])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrlwe
+
+st.mf
+
+ Ok [224] [225] [226] [227] [228] [229] [230] [231] [232] [233] [234] [235]
+
+[236] [237] [238] [239] [240] [241] [242] [243] [244] [245] [246] [247]
+
+[248] [249] [250] [251] [252] [253] [254] [255])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exruea
+
+st.mf
+
+ Ok [128] [129] [130] [131] [132] [133] [134] [135] [136] [137] [138] [139]
+
+[140] [141] [142] [143] [144] [145] [146] [147] [148] [149] [150] [151]
+
+[152] [153] [154] [155] [156] [157])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrlea
+
+st.mf
+
+ Ok [158] [160] [161] [162] [163] [164] [165] [166] [167] [168] [169] [170]
+
+[171] [172] [173] [174] [175] [176] [177] [178] [179] [180] [181] [182]
+
+[183] [184] [185] [186] [187] [188])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exbrac
+
+es.mf
+
+ Ok [94] [126] [23] [40] [41] [60] [124] [62] [91] [93] [92] [123] [125]
+
+[95] [127] [32])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\expunc
+
+t.mf
+
+ Ok [14] [15] [19] [20] [13] [18] [33] [39] [42] [43] [44] [46] [47] [58]
+
+[59] [61] [96] [189] [17] [45] [16] [21] [22])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exacce
+
+nt.mf
+
+ Ok [0] [1] [2] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exsign
+
+.mf
+
+ Ok [24] [34] [35] [36] [37] [64] [191] [159])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrlig
+
+.mf
+
+ Ok [25] [26] [28] [27] [29] [30] [31])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exromp
+
+.mf
+
+ Ok [38] [63] [190])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrule
+
+tt.mf
+
+ Ok [65] [66] [67] [68] [69] [70] [71] [72] [73] [74] [75] [76] [77] [78]
+
+[79] [80] [81] [82] [83] [84] [85] [86] [87] [88] [89] [90])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrlle
+
+tt.mf
+
+ Ok [97] [98] [99] [100] [101] [102] [103] [104] [105] [106] [107] [108]
+
+[109] [110] [111] [112] [113] [114] [115] [116] [117] [118] [119] [120]
+
+[121] [122])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrdig
+
+it.mf
+
+ Ok [48] [49] [50] [51] [52] [53] [54] [55] [56] [57])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrlig
+
+tb.mf
+
+ Ok) ) ) )
+
+(some charht values had to be adjusted by as much as 0.07431pt)
+
+Font metrics written on ecss1440.tfm.
+
+Output written on ecss1440.600gf (256 characters, 63360 bytes).
+
+Transcript written on ecss1440.log.
+
+This is GFtoPK, Version 2.4 (MiKTeX 26.5)
+Running miktex-gftopk.exe...
+
+'METAFONT output 2026.07.24:1647'
+
+63360 bytes packed to 28348 bytes.
+
+Installing C:\Users\y.gonos\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecss1440.pk...
+miktex-makepk: major issue: So far, you have not checked for MiKTeX updates.
+ <C:\Users\y.gonos\AppData\Local\MiKTeX\fonts/pk/ljfour/jknap
+pen/ec/dpi600\ecss1440.pk>Trying to make PK font ecsx1200 at 600 DPI...
+This is METAFONT, Version 2.71828182 (MiKTeX 26.5)
+
+
+
+
+
+The METAFONT mode is: ljfour
+Creating ecsx1200.pk...
+Running miktex-mf.exe...
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\ecsx12
+
+00.mf
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exbase
+
+.mf)
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\ecsx.m
+
+f
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exroma
+
+n.mf
+
+ Ok
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exacce
+
+ss.mf
+
+ Ok)
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\expseu
+
+do.mf
+
+ Ok)
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exruwe
+
+st.mf
+
+ Ok [192] [193] [194] [195] [196] [197] [198] [199] [200] [201] [202] [203]
+
+[204] [205] [206] [207] [208] [209] [210] [211] [212] [213] [214] [215]
+
+[216] [217] [218] [219] [220] [221] [222] [223])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrlwe
+
+st.mf
+
+ Ok [224] [225] [226] [227] [228] [229] [230] [231] [232] [233] [234] [235]
+
+[236] [237] [238] [239] [240] [241] [242] [243] [244] [245] [246] [247]
+
+[248] [249] [250] [251] [252] [253] [254] [255])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exruea
+
+st.mf
+
+ Ok [128] [129] [130] [131] [132] [133] [134] [135] [136] [137] [138] [139]
+
+[140] [141] [142] [143] [144] [145] [146] [147] [148] [149] [150] [151]
+
+[152] [153] [154] [155] [156] [157])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrlea
+
+st.mf
+
+ Ok [158] [160] [161] [162] [163] [164] [165] [166] [167] [168] [169] [170]
+
+[171] [172] [173] [174] [175] [176] [177] [178] [179] [180] [181] [182]
+
+[183] [184] [185] [186] [187] [188])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exbrac
+
+es.mf
+
+ Ok [94] [126] [23] [40] [41] [60] [124] [62] [91] [93] [92] [123] [125]
+
+[95] [127] [32])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\expunc
+
+t.mf
+
+ Ok [14] [15] [19] [20] [13] [18] [33] [39] [42] [43] [44] [46] [47] [58]
+
+[59] [61] [96] [189] [17] [45] [16] [21] [22])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exacce
+
+nt.mf
+
+ Ok [0] [1] [2] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exsign
+
+.mf
+
+ Ok [24] [34] [35] [36] [37] [64] [191] [159])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrlig
+
+.mf
+
+ Ok [25] [26] [28] [27] [29] [30] [31])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exromp
+
+.mf
+
+ Ok [38] [63] [190])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrule
+
+tt.mf
+
+ Ok [65] [66] [67] [68] [69] [70] [71] [72] [73] [74] [75] [76] [77] [78]
+
+[79] [80] [81] [82] [83] [84] [85] [86] [87] [88] [89] [90])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrlle
+
+tt.mf
+
+ Ok [97] [98] [99] [100] [101] [102] [103] [104] [105] [106] [107] [108]
+
+[109] [110] [111] [112] [113] [114] [115] [116] [117] [118] [119] [120]
+
+[121] [122])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrdig
+
+it.mf
+
+ Ok [48] [49] [50] [51] [52] [53] [54] [55] [56] [57])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrlig
+
+tb.mf
+
+ Ok) ) ) )
+
+(some charht values had to be adjusted by as much as 0.07016pt)
+
+Font metrics written on ecsx1200.tfm.
+
+Output written on ecsx1200.600gf (256 characters, 54960 bytes).
+
+Transcript written on ecsx1200.log.
+
+Running miktex-gftopk.exe...
+This is GFtoPK, Version 2.4 (MiKTeX 26.5)
+
+'METAFONT output 2026.07.24:1647'
+
+54960 bytes packed to 27340 bytes.
+
+Installing C:\Users\y.gonos\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx1200.pk...
+miktex-makepk: major issue: So far, you have not checked for MiKTeX updates.
+ <C:\Users\y.gonos\AppData\Local\MiKTeX\fonts/pk/ljfo
+This is METAFONT, Version 2.71828182 (MiKTeX 26.5)
+
+
+
+
+
+ur/jknappen/ec/dpi600\ecsx1200.pk>Trying to make PK font ecss1000 at 600 DPI...
+The METAFONT mode is: ljfour
+Creating ecss1000.pk...
+Running miktex-mf.exe...
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\ecss10
+
+00.mf
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exbase
+
+.mf)
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\ecss.m
+
+f
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exroma
+
+n.mf
+
+ Ok
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exacce
+
+ss.mf
+
+ Ok)
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\expseu
+
+do.mf
+
+ Ok)
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exruwe
+
+st.mf
+
+ Ok [192] [193] [194] [195] [196] [197] [198] [199] [200] [201] [202] [203]
+
+[204] [205] [206] [207] [208] [209] [210] [211] [212] [213] [214] [215]
+
+[216] [217] [218] [219] [220] [221] [222] [223])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrlwe
+
+st.mf
+
+ Ok [224] [225] [226] [227] [228] [229] [230] [231] [232] [233] [234] [235]
+
+[236] [237] [238] [239] [240] [241] [242] [243] [244] [245] [246] [247]
+
+[248] [249] [250] [251] [252] [253] [254] [255])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exruea
+
+st.mf
+
+ Ok [128] [129] [130] [131] [132] [133] [134] [135] [136] [137] [138] [139]
+
+[140] [141] [142] [143] [144] [145] [146] [147] [148] [149] [150] [151]
+
+[152] [153] [154] [155] [156] [157])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrlea
+
+st.mf
+
+ Ok [158] [160] [161] [162] [163] [164] [165] [166] [167] [168] [169] [170]
+
+[171] [172] [173] [174] [175] [176] [177] [178] [179] [180] [181] [182]
+
+[183] [184] [185] [186] [187] [188])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exbrac
+
+es.mf
+
+ Ok [94] [126] [23] [40] [41] [60] [124] [62] [91] [93] [92] [123] [125]
+
+[95] [127] [32])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\expunc
+
+t.mf
+
+ Ok [14] [15] [19] [20] [13] [18] [33] [39] [42] [43] [44] [46] [47] [58]
+
+[59] [61] [96] [189] [17] [45] [16] [21] [22])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exacce
+
+nt.mf
+
+ Ok [0] [1] [2] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exsign
+
+.mf
+
+ Ok [24] [34] [35] [36] [37] [64] [191] [159])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrlig
+
+.mf
+
+ Ok [25] [26] [28] [27] [29] [30] [31])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exromp
+
+.mf
+
+ Ok [38] [63] [190])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrule
+
+tt.mf
+
+ Ok [65] [66] [67] [68] [69] [70] [71] [72] [73] [74] [75] [76] [77] [78]
+
+[79] [80] [81] [82] [83] [84] [85] [86] [87] [88] [89] [90])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrlle
+
+tt.mf
+
+ Ok [97] [98] [99] [100] [101] [102] [103] [104] [105] [106] [107] [108]
+
+[109] [110] [111] [112] [113] [114] [115] [116] [117] [118] [119] [120]
+
+[121] [122])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrdig
+
+it.mf
+
+ Ok [48] [49] [50] [51] [52] [53] [54] [55] [56] [57])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrlig
+
+tb.mf
+
+ Ok) ) ) )
+
+Font metrics written on ecss1000.tfm.
+
+Output written on ecss1000.600gf (256 characters, 46224 bytes).
+
+Transcript written on ecss1000.log.
+
+This is GFtoPK, Version 2.4 (MiKTeX 26.5)
+Running miktex-gftopk.exe...
+
+'METAFONT output 2026.07.24:1647'
+
+46224 bytes packed to 19932 bytes.
+
+Installing C:\Users\y.gonos\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecss1000.pk...
+miktex-makepk: major issue: So far, you have not checked for MiKTeX updates.
+ <C:\Users\y.gonos\AppData\Local\MiKTeX\fonts
+/pk/ljfour/jknappen/ec/dpi600\ecss1000.pk>Trying to make PK font ecss0600 at 600 DPI...
+This is METAFONT, Version 2.71828182 (MiKTeX 26.5)
+The METAFONT mode is: ljfour
+Creating ecss0600.pk...
+Running miktex-mf.exe...
+
+
+
+
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\ecss06
+
+00.mf
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exbase
+
+.mf)
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\ecss.m
+
+f
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exroma
+
+n.mf
+
+ Ok
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exacce
+
+ss.mf
+
+ Ok)
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\expseu
+
+do.mf
+
+ Ok)
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exruwe
+
+st.mf
+
+ Ok [192] [193] [194] [195] [196] [197] [198] [199] [200] [201] [202] [203]
+
+[204] [205] [206] [207] [208] [209] [210] [211] [212] [213] [214] [215]
+
+[216] [217] [218] [219] [220] [221] [222] [223])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrlwe
+
+st.mf
+
+ Ok [224] [225] [226] [227] [228] [229] [230] [231] [232] [233] [234] [235]
+
+[236] [237] [238] [239] [240] [241] [242] [243] [244] [245] [246] [247]
+
+[248] [249] [250] [251] [252] [253] [254] [255])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exruea
+
+st.mf
+
+ Ok [128] [129] [130] [131] [132] [133] [134] [135] [136] [137] [138] [139]
+
+[140] [141] [142] [143] [144] [145] [146] [147] [148] [149] [150] [151]
+
+[152] [153] [154] [155] [156] [157])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrlea
+
+st.mf
+
+ Ok [158] [160] [161] [162] [163] [164] [165] [166] [167] [168] [169] [170]
+
+[171] [172] [173] [174] [175] [176] [177] [178] [179] [180] [181] [182]
+
+[183] [184] [185] [186] [187] [188])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exbrac
+
+es.mf
+
+ Ok [94] [126] [23] [40] [41] [60] [124] [62] [91] [93] [92] [123] [125]
+
+[95] [127] [32])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\expunc
+
+t.mf
+
+ Ok [14] [15] [19] [20] [13] [18] [33] [39] [42] [43] [44] [46] [47] [58]
+
+[59] [61] [96] [189] [17] [45] [16] [21] [22])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exacce
+
+nt.mf
+
+ Ok [0] [1] [2] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exsign
+
+.mf
+
+ Ok [24] [34] [35] [36] [37] [64] [191] [159])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrlig
+
+.mf
+
+ Ok [25] [26] [28] [27] [29] [30] [31])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exromp
+
+.mf
+
+ Ok [38] [63] [190])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrule
+
+tt.mf
+
+ Ok [65] [66] [67] [68] [69] [70] [71] [72] [73] [74] [75] [76] [77] [78]
+
+[79] [80] [81] [82] [83] [84] [85] [86] [87] [88] [89] [90])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrlle
+
+tt.mf
+
+ Ok [97] [98] [99] [100] [101] [102] [103] [104] [105] [106] [107] [108]
+
+[109] [110] [111] [112] [113] [114] [115] [116] [117] [118] [119] [120]
+
+[121] [122])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrdig
+
+it.mf
+
+ Ok [48] [49] [50] [51] [52] [53] [54] [55] [56] [57])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrlig
+
+tb.mf
+
+ Ok) ) ) )
+
+Font metrics written on ecss0600.tfm.
+
+Output written on ecss0600.600gf (256 characters, 29384 bytes).
+
+Transcript written on ecss0600.log.
+
+This is GFtoPK, Version 2.4 (MiKTeX 26.5)
+
+Running miktex-gftopk.exe...
+'METAFONT output 2026.07.24:1647'
+
+29384 bytes packed to 12340 bytes.
+
+Installing C:\Users\y.gonos\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecss0600.pk...
+miktex-makepk: major issue: So far, you have not checked for MiKTeX updates.
+ <C:\Users\y.gonos\AppData\Local\MiKT
+eX\fonts/pk/ljfour/jknappen/ec/dpi600\ecss0600.pk>Trying to make PK font ecss0800 at 600 DPI...
+This is METAFONT, Version 2.71828182 (MiKTeX 26.5)
+The METAFONT mode is: ljfour
+Creating ecss0800.pk...
+
+Running miktex-mf.exe...
+
+
+
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\ecss08
+
+00.mf
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exbase
+
+.mf)
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\ecss.m
+
+f
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exroma
+
+n.mf
+
+ Ok
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exacce
+
+ss.mf
+
+ Ok)
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\expseu
+
+do.mf
+
+ Ok)
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exruwe
+
+st.mf
+
+ Ok [192] [193] [194] [195] [196] [197] [198] [199] [200] [201] [202] [203]
+
+[204] [205] [206] [207] [208] [209] [210] [211] [212] [213] [214] [215]
+
+[216] [217] [218] [219] [220] [221] [222] [223])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrlwe
+
+st.mf
+
+ Ok [224] [225] [226] [227] [228] [229] [230] [231] [232] [233] [234] [235]
+
+[236] [237] [238] [239] [240] [241] [242] [243] [244] [245] [246] [247]
+
+[248] [249] [250] [251] [252] [253] [254] [255])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exruea
+
+st.mf
+
+ Ok [128] [129] [130] [131] [132] [133] [134] [135] [136] [137] [138] [139]
+
+[140] [141] [142] [143] [144] [145] [146] [147] [148] [149] [150] [151]
+
+[152] [153] [154] [155] [156] [157])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrlea
+
+st.mf
+
+ Ok [158] [160] [161] [162] [163] [164] [165] [166] [167] [168] [169] [170]
+
+[171] [172] [173] [174] [175] [176] [177] [178] [179] [180] [181] [182]
+
+[183] [184] [185] [186] [187] [188])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exbrac
+
+es.mf
+
+ Ok [94] [126] [23] [40] [41] [60] [124] [62] [91] [93] [92] [123] [125]
+
+[95] [127] [32])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\expunc
+
+t.mf
+
+ Ok [14] [15] [19] [20] [13] [18] [33] [39] [42] [43] [44] [46] [47] [58]
+
+[59] [61] [96] [189] [17] [45] [16] [21] [22])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exacce
+
+nt.mf
+
+ Ok [0] [1] [2] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exsign
+
+.mf
+
+ Ok [24] [34] [35] [36] [37] [64] [191] [159])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrlig
+
+.mf
+
+ Ok [25] [26] [28] [27] [29] [30] [31])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exromp
+
+.mf
+
+ Ok [38] [63] [190])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrule
+
+tt.mf
+
+ Ok [65] [66] [67] [68] [69] [70] [71] [72] [73] [74] [75] [76] [77] [78]
+
+[79] [80] [81] [82] [83] [84] [85] [86] [87] [88] [89] [90])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrlle
+
+tt.mf
+
+ Ok [97] [98] [99] [100] [101] [102] [103] [104] [105] [106] [107] [108]
+
+[109] [110] [111] [112] [113] [114] [115] [116] [117] [118] [119] [120]
+
+[121] [122])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrdig
+
+it.mf
+
+ Ok [48] [49] [50] [51] [52] [53] [54] [55] [56] [57])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrlig
+
+tb.mf
+
+ Ok) ) ) )
+
+Font metrics written on ecss0800.tfm.
+
+Output written on ecss0800.600gf (256 characters, 37660 bytes).
+
+Transcript written on ecss0800.log.
+
+This is GFtoPK, Version 2.4 (MiKTeX 26.5)
+Running miktex-gftopk.exe...
+
+'METAFONT output 2026.07.24:1647'
+
+37660 bytes packed to 15956 bytes.
+
+Installing C:\Users\y.gonos\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecss0800.pk...
+miktex-makepk: major issue: So far, you have not checked for MiKTeX updates.
+ <C:\Users\y.gonos\AppData\Lo
+This is METAFONT, Version 2.71828182 (MiKTeX 26.5)
+cal\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecss0800.pk>Trying to make PK font ecss1200 at 600 DPI...
+
+
+
+
+
+The METAFONT mode is: ljfour
+Creating ecss1200.pk...
+Running miktex-mf.exe...
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\ecss12
+
+00.mf
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exbase
+
+.mf)
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\ecss.m
+
+f
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exroma
+
+n.mf
+
+ Ok
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exacce
+
+ss.mf
+
+ Ok)
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\expseu
+
+do.mf
+
+ Ok)
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exruwe
+
+st.mf
+
+ Ok [192] [193] [194] [195] [196] [197] [198] [199] [200] [201] [202] [203]
+
+[204] [205] [206] [207] [208] [209] [210] [211] [212] [213] [214] [215]
+
+[216] [217] [218] [219] [220] [221] [222] [223])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrlwe
+
+st.mf
+
+ Ok [224] [225] [226] [227] [228] [229] [230] [231] [232] [233] [234] [235]
+
+[236] [237] [238] [239] [240] [241] [242] [243] [244] [245] [246] [247]
+
+[248] [249] [250] [251] [252] [253] [254] [255])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exruea
+
+st.mf
+
+ Ok [128] [129] [130] [131] [132] [133] [134] [135] [136] [137] [138] [139]
+
+[140] [141] [142] [143] [144] [145] [146] [147] [148] [149] [150] [151]
+
+[152] [153] [154] [155] [156] [157])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrlea
+
+st.mf
+
+ Ok [158] [160] [161] [162] [163] [164] [165] [166] [167] [168] [169] [170]
+
+[171] [172] [173] [174] [175] [176] [177] [178] [179] [180] [181] [182]
+
+[183] [184] [185] [186] [187] [188])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exbrac
+
+es.mf
+
+ Ok [94] [126] [23] [40] [41] [60] [124] [62] [91] [93] [92] [123] [125]
+
+[95] [127] [32])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\expunc
+
+t.mf
+
+ Ok [14] [15] [19] [20] [13] [18] [33] [39] [42] [43] [44] [46] [47] [58]
+
+[59] [61] [96] [189] [17] [45] [16] [21] [22])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exacce
+
+nt.mf
+
+ Ok [0] [1] [2] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exsign
+
+.mf
+
+ Ok [24] [34] [35] [36] [37] [64] [191] [159])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrlig
+
+.mf
+
+ Ok [25] [26] [28] [27] [29] [30] [31])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exromp
+
+.mf
+
+ Ok [38] [63] [190])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrule
+
+tt.mf
+
+ Ok [65] [66] [67] [68] [69] [70] [71] [72] [73] [74] [75] [76] [77] [78]
+
+[79] [80] [81] [82] [83] [84] [85] [86] [87] [88] [89] [90])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrlle
+
+tt.mf
+
+ Ok [97] [98] [99] [100] [101] [102] [103] [104] [105] [106] [107] [108]
+
+[109] [110] [111] [112] [113] [114] [115] [116] [117] [118] [119] [120]
+
+[121] [122])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrdig
+
+it.mf
+
+ Ok [48] [49] [50] [51] [52] [53] [54] [55] [56] [57])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrlig
+
+tb.mf
+
+ Ok) ) ) )
+
+Font metrics written on ecss1200.tfm.
+
+Output written on ecss1200.600gf (256 characters, 54172 bytes).
+
+Transcript written on ecss1200.log.
+
+This is GFtoPK, Version 2.4 (MiKTeX 26.5)
+Running miktex-gftopk.exe...
+
+'METAFONT output 2026.07.24:1648'
+
+54172 bytes packed to 23684 bytes.
+
+Installing C:\Users\y.gonos\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecss1200.pk...
+miktex-makepk: major issue: So far, you have not checked for MiKTeX updates.
+ <C:\Users\y.gonos\Ap
+pData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecss1200.pk>Trying to make PK font ecss1728 at 600 DPI...
+The METAFONT mode is: ljfour
+Creating ecss1728.pk...
+Running miktex-mf.exe...
+This is METAFONT, Version 2.71828182 (MiKTeX 26.5)
+
+
+
+
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\ecss17
+
+28.mf
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exbase
+
+.mf)
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\ecss.m
+
+f
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exroma
+
+n.mf
+
+ Ok
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exacce
+
+ss.mf
+
+ Ok)
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\expseu
+
+do.mf
+
+ Ok)
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exruwe
+
+st.mf
+
+ Ok [192] [193] [194] [195] [196] [197] [198] [199] [200] [201] [202] [203]
+
+[204] [205] [206] [207] [208] [209] [210] [211] [212] [213] [214] [215]
+
+[216] [217] [218] [219] [220] [221] [222] [223])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrlwe
+
+st.mf
+
+ Ok [224] [225] [226] [227] [228] [229] [230] [231] [232] [233] [234] [235]
+
+[236] [237] [238] [239] [240] [241] [242] [243] [244] [245] [246] [247]
+
+[248] [249] [250] [251] [252] [253] [254] [255])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exruea
+
+st.mf
+
+ Ok [128] [129] [130] [131] [132] [133] [134] [135] [136] [137] [138] [139]
+
+[140] [141] [142] [143] [144] [145] [146] [147] [148] [149] [150] [151]
+
+[152] [153] [154] [155] [156] [157])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrlea
+
+st.mf
+
+ Ok [158] [160] [161] [162] [163] [164] [165] [166] [167] [168] [169] [170]
+
+[171] [172] [173] [174] [175] [176] [177] [178] [179] [180] [181] [182]
+
+[183] [184] [185] [186] [187] [188])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exbrac
+
+es.mf
+
+ Ok [94] [126] [23] [40] [41] [60] [124] [62] [91] [93] [92] [123] [125]
+
+[95] [127] [32])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\expunc
+
+t.mf
+
+ Ok [14] [15] [19] [20] [13] [18] [33] [39] [42] [43] [44] [46] [47] [58]
+
+[59] [61] [96] [189] [17] [45] [16] [21] [22])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exacce
+
+nt.mf
+
+ Ok [0] [1] [2] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exsign
+
+.mf
+
+ Ok [24] [34] [35] [36] [37] [64] [191] [159])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrlig
+
+.mf
+
+ Ok [25] [26] [28] [27] [29] [30] [31])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exromp
+
+.mf
+
+ Ok [38] [63] [190])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrule
+
+tt.mf
+
+ Ok [65] [66] [67] [68] [69] [70] [71] [72] [73] [74] [75] [76] [77] [78]
+
+[79] [80] [81] [82] [83] [84] [85] [86] [87] [88] [89] [90])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrlle
+
+tt.mf
+
+ Ok [97] [98] [99] [100] [101] [102] [103] [104] [105] [106] [107] [108]
+
+[109] [110] [111] [112] [113] [114] [115] [116] [117] [118] [119] [120]
+
+[121] [122])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrdig
+
+it.mf
+
+ Ok [48] [49] [50] [51] [52] [53] [54] [55] [56] [57])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrlig
+
+tb.mf
+
+ Ok) ) ) )
+
+(some charht values had to be adjusted by as much as 0.07538pt)
+
+Font metrics written on ecss1728.tfm.
+
+Output written on ecss1728.600gf (256 characters, 74860 bytes).
+
+Transcript written on ecss1728.log.
+
+This is GFtoPK, Version 2.4 (MiKTeX 26.5)
+Running miktex-gftopk.exe...
+
+'METAFONT output 2026.07.24:1648'
+
+74860 bytes packed to 34876 bytes.
+
+Installing C:\Users\y.gonos\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecss1728.pk...
+miktex-makepk: major issue: So far, you have not checked for MiKTeX updates.
+ <C:\Users\y.
+pdflatex: major issue: So far, you have not checked for MiKTeX updates.
+gonos\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecss1728.pk>
+Output written on diapo.pdf (12 pages, 234327 bytes).
+Transcript written on diapo.log.
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex.fmt)
+ restricted \write18 enabled.
+entering extended mode
+(diapo.tex
+LaTeX2e <2026-06-01>
+L3 programming layer <2026-06-18>
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamer.cls
+Document Class: beamer 2026/01/22 v3.77 A class for typesetting presentations
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasemode
+s.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasedeco
+de.sty))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaseopti
+ons.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty))
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg
+))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.
+sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfut
+il-common.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfut
+il-latex.def)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrc
+s.code.tex
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.te
+x)))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys
+.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfke
+ys.code.tex
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfke
+yslibraryfiltered.code.tex)))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.co
+de.tex
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathuti
+l.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathpar
+ser.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfun
+ctions.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfun
+ctions.basic.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfun
+ctions.trigonometric.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfun
+ctions.random.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfun
+ctions.comparison.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfun
+ctions.base.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfun
+ctions.round.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfun
+ctions.misc.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfun
+ctions.integerarithmetics.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcal
+c.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathflo
+at.code.tex)))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcor
+e.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics
+.cfg)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.d
+ef)))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsy
+s.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf
+sys.code.tex
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf
+.cfg)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf
+sys-pdftex.def
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf
+sys-common-pdf.def)))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf
+syssoftpath.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf
+sysprotocol.code.tex))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cf
+g)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.lt
+x))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+ore.code.tex
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.cod
+e.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+orepoints.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+orepathconstruct.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+orepathusage.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+orescopes.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+oregraphicstate.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+oretransformations.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+orequick.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+oreobjects.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+orepathprocessing.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+orearrows.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+oreshade.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+oreimage.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+oreexternal.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+orelayers.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+oretransparency.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+orepatterns.code.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+orerdf.code.tex)))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\xxcolor
+.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.s
+ty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefi
+nekeys.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape
+.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcm
+ds.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr
+.sty)))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gett
+itlestring.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.s
+ty)))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc
+.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+) (C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintca
+lc.sty))
+
+Package hyperref Message: Stopped early.
+
+)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunf
+ilecheck.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniqu
+ecounter.sty)))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaserequ
+ires.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasecomp
+atibility.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasefont
+.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/sansmathaccent\sansma
+thaccent.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlfile.
+sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlfile-
+hook.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlogo.s
+ty)))))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasetran
+slator.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator
+.sty))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasemisc
+.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasetwos
+creens.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaseover
+lay.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasetitl
+e.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasesect
+ion.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasefram
+e.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaseverb
+atim.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasefram
+esize.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasefram
+ecomponents.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasecolo
+r.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasenote
+s.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasetoc.
+sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasetemp
+lates.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaseauxt
+emplates.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaseboxe
+s.sty)))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaseloca
+lstructure.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/tools\enumerate.sty))
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasenavi
+gation.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasenavi
+gationsymbols.tex))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasetheo
+rems.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+For additional information on amsmath, use the `?' option.
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/amscls\amsthm.sty))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasethem
+es.sty))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerthemedef
+ault.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerfontthem
+edefault.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamercolorthe
+medefault.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerinnerthe
+medefault.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerouterthe
+medefault.sty)))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/fr\bab
+el-french.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/babel-french\french
+.ldf
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/babel-french\french
+3.ldf)))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/carlisle\scalefnt.sty
+)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerthemeMad
+rid.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamercolorthe
+mewhale.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamercolorthe
+meorchid.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerinnerthe
+merounded.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerouterthe
+meinfolines.sty))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamercolorthe
+meseahorse.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-p
+dftex.def) (diapo.aux)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.
+mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf
+-base.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys
+.cfg)) (diapo.out) (diapo.out)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator
+-basic-dictionary-English.dict)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator
+-basic-dictionary-French.dict)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator
+-bibliography-dictionary-English.dict)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator
+-bibliography-dictionary-French.dict)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator
+-environment-dictionary-English.dict)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator
+-environment-dictionary-French.dict)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator
+-months-dictionary-English.dict)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator
+-months-dictionary-French.dict)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator
+-numbers-dictionary-English.dict)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator
+-numbers-dictionary-French.dict)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator
+-theorem-dictionary-English.dict)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator
+-theorem-dictionary-French.dict) (diapo.nav) [1{C:/Users/y.gonos/AppData/Local/
+MiKTeX/fonts/map/pdftex/pdftex.map} <../../Rapport/images/iveco_logo.jpg> <../.
+./Rapport/images/logo_3il_ingenieurs.png>] (diapo.toc) [2] [3] [4] [5] [6]
+[7] [8] [9] [10] [11] [12] (diapo.aux) ) <C:\Users\y.gonos\AppData\Local\MiKTeX
+\fonts/pk/ljfour/jknappen/ec/dpi600\ecsi1200.pk> <C:\Users\y.gonos\AppData\Loca
+l\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx2488.pk> <C:\Users\y.gonos\AppD
+ata\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecss1440.pk> <C:\Users\y.go
+nos\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx1200.pk> <C:\Us
+ers\y.gonos\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecss1000.pk
+> <C:\Users\y.gonos\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecs
+s0600.pk> <C:\Users\y.gonos\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dp
+i600\ecss0800.pk> <C:\Users\y.gonos\AppData\Local\MiKTeX\fonts/pk/ljfour/jknapp
+en/ec/dpi600\ecss1200.pk> <C:\Users\y.gonos\AppData\Local\MiKTeX\fonts/pk/ljfou
+r/jknappen/ec/dpi600\ecss1728.pk>
+Output written on diapo.pdf (12 pages, 239371 bytes).
+Transcript written on diapo.log.
+pdflatex: major issue: So far, you have not checked for MiKTeX updates.

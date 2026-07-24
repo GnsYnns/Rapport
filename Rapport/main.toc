@@ -1,0 +1,30 @@
+\babel@toc {french}{}\relax 
+\contentsline {section}{Remerciements}{2}{section*.1}%
+\contentsline {section}{Liste des sigles et acronymes}{4}{section*.4}%
+\contentsline {section}{Présentation de l'entreprise}{5}{section*.5}%
+\contentsline {subsection}{L'entreprise, ses activités et ses produits}{5}{section*.6}%
+\contentsline {subsection}{L'équipe et le service de l'apprenti}{5}{section*.9}%
+\contentsline {subsection}{Le rôle de l'apprenti et son environnement informatique}{6}{section*.10}%
+\contentsline {section}{Thème de la mission : objectifs et contexte}{7}{section*.14}%
+\contentsline {section}{\numberline {1}Gouvernance et engagements globaux}{8}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Stratégie et cibles climatiques}{8}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Gouvernance et alignement stratégique}{9}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Labels et évaluations ESG}{9}{subsection.1.3}%
+\contentsline {paragraph}{Parties prenantes institutionnelles}{10}{section*.18}%
+\contentsline {subsection}{\numberline {1.4}Approvisionnement et matériaux critiques}{10}{subsection.1.4}%
+\contentsline {subsection}{\numberline {1.5}Éthique, conformité et gestion des risques}{11}{subsection.1.5}%
+\contentsline {section}{\numberline {2}La mise en \oe {}uvre sociale~: Diversité, Égalité et Inclusion}{11}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Gouvernance et ambition du DEI}{11}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Égalité de genre et rémunération}{11}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Inclusion du handicap et diversité culturelle}{12}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Santé, sécurité et bien-être au travail}{12}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}Engagement communautaire}{12}{subsection.2.5}%
+\contentsline {subsection}{\numberline {2.6}Performance et limites}{14}{subsection.2.6}%
+\contentsline {section}{\numberline {3}Numérique responsable et recommandations}{14}{section.3}%
+\contentsline {paragraph}{Contexte sectoriel}{14}{section*.21}%
+\contentsline {subsection}{\numberline {3.1}Maturation actuelle du numérique responsable chez Iveco Group}{14}{subsection.3.1}%
+\contentsline {paragraph}{Clients et concessionnaires~: parties prenantes du numérique responsable}{15}{section*.22}%
+\contentsline {subsection}{\numberline {3.2}Lien avec l'environnement informatique du site de Haute-Goulaine}{15}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Recommandations pour l'équipe IT de Haute-Goulaine}{16}{subsection.3.3}%
+\contentsline {section}{Conclusion}{18}{section*.30}%
+\contentsline {section}{Glossaire}{19}{section*.31}%

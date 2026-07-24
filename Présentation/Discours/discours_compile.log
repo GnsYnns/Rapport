@@ -1,0 +1,1222 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex.fmt)
+ restricted \write18 enabled.
+entering extended mode
+(discours.tex
+LaTeX2e <2026-06-01>
+L3 programming layer <2026-06-18>
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2025/01/22 v1.4n Standard LaTeX document class
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/fr\bab
+el-french.tex)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/babel-french\french
+.ldf
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/babel-french\french
+3.ldf)))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/carlisle\scalefnt.sty
+)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg
+))
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
+)
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-p
+dftex.def)
+No file discours.aux.
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+[1{C:/Users/y.gonos/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2]
+Overfull \hbox (67.45679pt too wide) in paragraph at lines 83--84
+[]\T1/cmr/m/n/12 Recommandation 2 --- \T1/cmr/bx/n/12 cycle de vie du ma-tÚ-rie
+l \T1/cmr/m/n/12 : pri-vi-lÚ-gier le rÚ-em-ploi/reconditionnement
+[3] [4] (discours.aux)Trying to make PK font ecbx1440 at 600 DPI...
+The METAFONT mode is: ljfour
+Creating ecbx1440.pk...
+Running miktex-mf.exe...
+This is METAFONT, Version 2.71828182 (MiKTeX 26.5)
+
+
+
+
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\ecbx14
+
+40.mf
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exbase
+
+.mf)
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\ecbx.m
+
+f
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exroma
+
+n.mf
+
+ Ok
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exacce
+
+ss.mf
+
+ Ok)
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\expseu
+
+do.mf
+
+ Ok)
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exruwe
+
+st.mf
+
+ Ok [192] [193] [194] [195] [196] [197] [198] [199] [200] [201] [202] [203]
+
+[204] [205] [206] [207] [208] [209] [210] [211] [212] [213] [214] [215]
+
+[216] [217] [218] [219] [220] [221] [222] [223])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrlwe
+
+st.mf
+
+ Ok [224] [225] [226] [227] [228] [229] [230] [231] [232] [233] [234] [235]
+
+[236] [237] [238] [239] [240] [241] [242] [243] [244] [245] [246] [247]
+
+[248] [249] [250] [251] [252] [253] [254] [255])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exruea
+
+st.mf
+
+ Ok [128] [129] [130] [131] [132] [133] [134] [135] [136] [137] [138] [139]
+
+[140] [141] [142] [143] [144] [145] [146] [147] [148] [149] [150] [151]
+
+[152] [153] [154] [155] [156] [157])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrlea
+
+st.mf
+
+ Ok [158] [160] [161] [162] [163] [164] [165] [166] [167] [168] [169] [170]
+
+[171] [172] [173] [174] [175] [176] [177] [178] [179] [180] [181] [182]
+
+[183] [184] [185] [186] [187] [188])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exbrac
+
+es.mf
+
+ Ok [94] [126] [23] [40] [41] [60] [124] [62] [91] [93] [92] [123] [125]
+
+[95] [127] [32])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\expunc
+
+t.mf
+
+ Ok [14] [15] [19] [20] [13] [18] [33] [39] [42] [43] [44] [46] [47] [58]
+
+[59] [61] [96] [189] [17] [45] [16] [21] [22])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exacce
+
+nt.mf
+
+ Ok [0] [1] [2] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exsign
+
+.mf
+
+ Ok [24] [34] [35] [36] [37] [64] [191] [159])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrlig
+
+.mf
+
+ Ok [25] [26] [28] [27] [29] [30] [31])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exromp
+
+.mf
+
+ Ok [38] [63] [190])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrule
+
+tt.mf
+
+ Ok [65] [66] [67] [68] [69] [70] [71] [72] [73] [74] [75] [76] [77] [78]
+
+[79] [80] [81] [82] [83] [84] [85] [86] [87] [88] [89] [90])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrlle
+
+tt.mf
+
+ Ok [97] [98] [99] [100] [101] [102] [103] [104] [105] [106] [107] [108]
+
+[109] [110] [111] [112] [113] [114] [115] [116] [117] [118] [119] [120]
+
+[121] [122])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrdig
+
+it.mf
+
+ Ok [48] [49] [50] [51] [52] [53] [54] [55] [56] [57])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrlig
+
+tb.mf
+
+ Ok) ) ) )
+
+(some charht values had to be adjusted by as much as 0.10997pt)
+
+Font metrics written on ecbx1440.tfm.
+
+Output written on ecbx1440.600gf (256 characters, 70764 bytes).
+
+Transcript written on ecbx1440.log.
+
+This is GFtoPK, Version 2.4 (MiKTeX 26.5)
+Running miktex-gftopk.exe...
+
+'METAFONT output 2026.07.24:1648'
+
+70764 bytes packed to 40136 bytes.
+
+Installing C:\Users\y.gonos\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk...
+miktex-makepk: major issue: So far, you have not checked for MiKTeX updates.
+ )
+(see the transcript file for additional information) <C:\Users\y.gonos\AppData\
+Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk>Trying to make PK font ecbx1200 at 600 DPI...
+This is METAFONT, Version 2.71828182 (MiKTeX 26.5)
+The METAFONT mode is: ljfour
+Creating ecbx1200.pk...
+Running miktex-mf.exe...
+
+
+
+
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\ecbx12
+
+00.mf
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exbase
+
+.mf)
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\ecbx.m
+
+f
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exroma
+
+n.mf
+
+ Ok
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exacce
+
+ss.mf
+
+ Ok)
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\expseu
+
+do.mf
+
+ Ok)
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exruwe
+
+st.mf
+
+ Ok [192] [193] [194] [195] [196] [197] [198] [199] [200] [201] [202] [203]
+
+[204] [205] [206] [207] [208] [209] [210] [211] [212] [213] [214] [215]
+
+[216] [217] [218] [219] [220] [221] [222] [223])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrlwe
+
+st.mf
+
+ Ok [224] [225] [226] [227] [228] [229] [230] [231] [232] [233] [234] [235]
+
+[236] [237] [238] [239] [240] [241] [242] [243] [244] [245] [246] [247]
+
+[248] [249] [250] [251] [252] [253] [254] [255])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exruea
+
+st.mf
+
+ Ok [128] [129] [130] [131] [132] [133] [134] [135] [136] [137] [138] [139]
+
+[140] [141] [142] [143] [144] [145] [146] [147] [148] [149] [150] [151]
+
+[152] [153] [154] [155] [156] [157])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrlea
+
+st.mf
+
+ Ok [158] [160] [161] [162] [163] [164] [165] [166] [167] [168] [169] [170]
+
+[171] [172] [173] [174] [175] [176] [177] [178] [179] [180] [181] [182]
+
+[183] [184] [185] [186] [187] [188])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exbrac
+
+es.mf
+
+ Ok [94] [126] [23] [40] [41] [60] [124] [62] [91] [93] [92] [123] [125]
+
+[95] [127] [32])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\expunc
+
+t.mf
+
+ Ok [14] [15] [19] [20] [13] [18] [33] [39] [42] [43] [44] [46] [47] [58]
+
+[59] [61] [96] [189] [17] [45] [16] [21] [22])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exacce
+
+nt.mf
+
+ Ok [0] [1] [2] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exsign
+
+.mf
+
+ Ok [24] [34] [35] [36] [37] [64] [191] [159])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrlig
+
+.mf
+
+ Ok [25] [26] [28] [27] [29] [30] [31])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exromp
+
+.mf
+
+ Ok [38] [63] [190])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrule
+
+tt.mf
+
+ Ok [65] [66] [67] [68] [69] [70] [71] [72] [73] [74] [75] [76] [77] [78]
+
+[79] [80] [81] [82] [83] [84] [85] [86] [87] [88] [89] [90])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrlle
+
+tt.mf
+
+ Ok [97] [98] [99] [100] [101] [102] [103] [104] [105] [106] [107] [108]
+
+[109] [110] [111] [112] [113] [114] [115] [116] [117] [118] [119] [120]
+
+[121] [122])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrdig
+
+it.mf
+
+ Ok [48] [49] [50] [51] [52] [53] [54] [55] [56] [57])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrlig
+
+tb.mf
+
+ Ok) ) ) )
+
+Font metrics written on ecbx1200.tfm.
+
+Output written on ecbx1200.600gf (256 characters, 59220 bytes).
+
+Transcript written on ecbx1200.log.
+
+This is GFtoPK, Version 2.4 (MiKTeX 26.5)
+Running miktex-gftopk.exe...
+
+'METAFONT output 2026.07.24:1648'
+
+59220 bytes packed to 31952 bytes.
+
+Installing C:\Users\y.gonos\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk...
+miktex-makepk: major issue: So far, you have not checked for MiKTeX updates.
+ <C:\Users\y.gonos\
+AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk>Trying to make PK font ecrm1200 at 600 DPI...
+This is METAFONT, Version 2.71828182 (MiKTeX 26.5)
+The METAFONT mode is: ljfour
+Creating ecrm1200.pk...
+
+Running miktex-mf.exe...
+
+
+
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\ecrm12
+
+00.mf
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exbase
+
+.mf)
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\ecrm.m
+
+f
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exroma
+
+n.mf
+
+ Ok
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exacce
+
+ss.mf
+
+ Ok)
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\expseu
+
+do.mf
+
+ Ok)
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exruwe
+
+st.mf
+
+ Ok [192] [193] [194] [195] [196] [197] [198] [199] [200] [201] [202] [203]
+
+[204] [205] [206] [207] [208] [209] [210] [211] [212] [213] [214] [215]
+
+[216] [217] [218] [219] [220] [221] [222] [223])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrlwe
+
+st.mf
+
+ Ok [224] [225] [226] [227] [228] [229] [230] [231] [232] [233] [234] [235]
+
+[236] [237] [238] [239] [240] [241] [242] [243] [244] [245] [246] [247]
+
+[248] [249] [250] [251] [252] [253] [254] [255])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exruea
+
+st.mf
+
+ Ok [128] [129] [130] [131] [132] [133] [134] [135] [136] [137] [138] [139]
+
+[140] [141] [142] [143] [144] [145] [146] [147] [148] [149] [150] [151]
+
+[152] [153] [154] [155] [156] [157])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrlea
+
+st.mf
+
+ Ok [158] [160] [161] [162] [163] [164] [165] [166] [167] [168] [169] [170]
+
+[171] [172] [173] [174] [175] [176] [177] [178] [179] [180] [181] [182]
+
+[183] [184] [185] [186] [187] [188])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exbrac
+
+es.mf
+
+ Ok [94] [126] [23] [40] [41] [60] [124] [62] [91] [93] [92] [123] [125]
+
+[95] [127] [32])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\expunc
+
+t.mf
+
+ Ok [14] [15] [19] [20] [13] [18] [33] [39] [42] [43] [44] [46] [47] [58]
+
+[59] [61] [96] [189] [17] [45] [16] [21] [22])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exacce
+
+nt.mf
+
+ Ok [0] [1] [2] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exsign
+
+.mf
+
+ Ok [24] [34] [35] [36] [37] [64] [191] [159])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrlig
+
+.mf
+
+ Ok [25] [26] [28] [27] [29] [30] [31])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exromp
+
+.mf
+
+ Ok [38] [63] [190])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrule
+
+tt.mf
+
+ Ok [65] [66] [67] [68] [69] [70] [71] [72] [73] [74] [75] [76] [77] [78]
+
+[79] [80] [81] [82] [83] [84] [85] [86] [87] [88] [89] [90])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrlle
+
+tt.mf
+
+ Ok [97] [98] [99] [100] [101] [102] [103] [104] [105] [106] [107] [108]
+
+[109] [110] [111] [112] [113] [114] [115] [116] [117] [118] [119] [120]
+
+[121] [122])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrdig
+
+it.mf
+
+ Ok [48] [49] [50] [51] [52] [53] [54] [55] [56] [57])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrlig
+
+tb.mf
+
+ Ok) ) ) )
+
+(some charht values had to be adjusted by as much as 0.07143pt)
+
+Font metrics written on ecrm1200.tfm.
+
+Output written on ecrm1200.600gf (256 characters, 60320 bytes).
+
+Transcript written on ecrm1200.log.
+
+This is GFtoPK, Version 2.4 (MiKTeX 26.5)
+Running miktex-gftopk.exe...
+
+'METAFONT output 2026.07.24:1648'
+
+60320 bytes packed to 28440 bytes.
+
+Installing C:\Users\y.gonos\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk...
+miktex-makepk: major issue: So far, you have not checked for MiKTeX updates.
+ <C:\Users\
+This is METAFONT, Version 2.71828182 (MiKTeX 26.5)
+y.gonos\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk>Trying to make PK font ecbx1728 at 600 DPI...
+
+The METAFONT mode is: ljfour
+
+
+
+
+Creating ecbx1728.pk...
+Running miktex-mf.exe...
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\ecbx17
+
+28.mf
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exbase
+
+.mf)
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\ecbx.m
+
+f
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exroma
+
+n.mf
+
+ Ok
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exacce
+
+ss.mf
+
+ Ok)
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\expseu
+
+do.mf
+
+ Ok)
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exruwe
+
+st.mf
+
+ Ok [192] [193] [194] [195] [196] [197] [198] [199] [200] [201] [202] [203]
+
+[204] [205] [206] [207] [208] [209] [210] [211] [212] [213] [214] [215]
+
+[216] [217] [218] [219] [220] [221] [222] [223])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrlwe
+
+st.mf
+
+ Ok [224] [225] [226] [227] [228] [229] [230] [231] [232] [233] [234] [235]
+
+[236] [237] [238] [239] [240] [241] [242] [243] [244] [245] [246] [247]
+
+[248] [249] [250] [251] [252] [253] [254] [255])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exruea
+
+st.mf
+
+ Ok [128] [129] [130] [131] [132] [133] [134] [135] [136] [137] [138] [139]
+
+[140] [141] [142] [143] [144] [145] [146] [147] [148] [149] [150] [151]
+
+[152] [153] [154] [155] [156] [157])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrlea
+
+st.mf
+
+ Ok [158] [160] [161] [162] [163] [164] [165] [166] [167] [168] [169] [170]
+
+[171] [172] [173] [174] [175] [176] [177] [178] [179] [180] [181] [182]
+
+[183] [184] [185] [186] [187] [188])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exbrac
+
+es.mf
+
+ Ok [94] [126] [23] [40] [41] [60] [124] [62] [91] [93] [92] [123] [125]
+
+[95] [127] [32])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\expunc
+
+t.mf
+
+ Ok [14] [15] [19] [20] [13] [18] [33] [39] [42] [43] [44] [46] [47] [58]
+
+[59] [61] [96] [189] [17] [45] [16] [21] [22])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exacce
+
+nt.mf
+
+ Ok [0] [1] [2] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exsign
+
+.mf
+
+ Ok [24] [34] [35] [36] [37] [64] [191] [159])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrlig
+
+.mf
+
+ Ok [25] [26] [28] [27] [29] [30] [31])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exromp
+
+.mf
+
+ Ok [38] [63] [190])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrule
+
+tt.mf
+
+ Ok [65] [66] [67] [68] [69] [70] [71] [72] [73] [74] [75] [76] [77] [78]
+
+[79] [80] [81] [82] [83] [84] [85] [86] [87] [88] [89] [90])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrlle
+
+tt.mf
+
+ Ok [97] [98] [99] [100] [101] [102] [103] [104] [105] [106] [107] [108]
+
+[109] [110] [111] [112] [113] [114] [115] [116] [117] [118] [119] [120]
+
+[121] [122])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrdig
+
+it.mf
+
+ Ok [48] [49] [50] [51] [52] [53] [54] [55] [56] [57])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrlig
+
+tb.mf
+
+ Ok) ) ) )
+
+(some charht values had to be adjusted by as much as 0.13197pt)
+
+Font metrics written on ecbx1728.tfm.
+
+Output written on ecbx1728.600gf (256 characters, 84848 bytes).
+
+Transcript written on ecbx1728.log.
+
+This is GFtoPK, Version 2.4 (MiKTeX 26.5)
+Running miktex-gftopk.exe...
+
+'METAFONT output 2026.07.24:1648'
+
+84848 bytes packed to 49100 bytes.
+
+Installing C:\Users\y.gonos\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1728.pk...
+miktex-makepk: major issue: So far, you have not checked for MiKTeX updates.
+ <C
+:\Users\y.gonos\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx172
+8.pk>Trying to make PK font ecti1200 at 600 DPI...
+This is METAFONT, Version 2.71828182 (MiKTeX 26.5)
+The METAFONT mode is: ljfour
+Creating ecti1200.pk...
+Running miktex-mf.exe...
+
+
+
+
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\ecti12
+
+00.mf
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exbase
+
+.mf)
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\ecti.m
+
+f
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\extext
+
+it.mf
+
+ Ok
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exacce
+
+ss.mf
+
+ Ok)
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\expseu
+
+do.mf
+
+ Ok)
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exilea
+
+st.mf
+
+ Ok [158] [160] [161] [162] [163] [164] [165] [166] [167] [168] [169] [170]
+
+[171] [172] [173] [174] [175] [176] [177] [178] [179] [180] [181] [182]
+
+[183] [184] [185] [186] [187] [188])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exilwe
+
+st.mf
+
+ Ok [224] [225] [226] [227] [228] [229] [230] [231] [232] [233] [234] [235]
+
+[236] [237] [238] [239] [240] [241] [242] [243] [244] [245] [246] [247]
+
+[248] [249] [250] [251] [252] [253] [254] [255])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exruwe
+
+st.mf
+
+ Ok [192] [193] [194] [195] [196] [197] [198] [199] [200] [201] [202] [203]
+
+[204] [205] [206] [207] [208] [209] [210] [211] [212] [213] [214] [215]
+
+[216] [217] [218] [219] [220] [221] [222] [223])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exruea
+
+st.mf
+
+ Ok [128] [129] [130] [131] [132] [133] [134] [135] [136] [137] [138] [139]
+
+[140] [141] [142] [143] [144] [145] [146] [147] [148] [149] [150] [151]
+
+[152] [153] [154] [155] [156] [157])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exbrac
+
+es.mf
+
+ Ok [94] [126] [23] [40] [41] [60] [124] [62] [91] [93] [92] [123] [125]
+
+[95] [127] [32])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\expunc
+
+t.mf
+
+ Ok [14] [15] [19] [20] [13] [18] [33] [39] [42] [43] [44] [46] [47] [58]
+
+[59] [61] [96] [189] [17] [45] [16] [21] [22])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exacce
+
+nt.mf
+
+ Ok [0] [1] [2] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exsign
+
+.mf
+
+ Ok [24] [34] [35] [36] [37] [64] [191] [159])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exilig
+
+.mf
+
+ Ok [25] [26] [27] [28] [29] [30] [31])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exital
+
+p.mf
+
+ Ok [38] [63] [190])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrule
+
+tt.mf
+
+ Ok [65] [66] [67] [68] [69] [70] [71] [72] [73] [74] [75] [76] [77] [78]
+
+[79] [80] [81] [82] [83] [84] [85] [86] [87] [88] [89] [90])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exille
+
+tt.mf
+
+ Ok [97] [98] [99] [100] [101] [102] [103] [104] [105] [106] [107] [108]
+
+[109] [110] [111] [112] [113] [114] [115] [116] [117] [118] [119] [120]
+
+[121] [122])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exidig
+
+it.mf
+
+ Ok [48] [49] [50] [51] [52] [53] [54] [55] [56] [57])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exilig
+
+tb.mf
+
+ Ok) ) ) )
+
+(some charht values had to be adjusted by as much as 0.07143pt)
+
+Font metrics written on ecti1200.tfm.
+
+Output written on ecti1200.600gf (256 characters, 63048 bytes).
+
+Transcript written on ecti1200.log.
+
+This is GFtoPK, Version 2.4 (MiKTeX 26.5)
+Running miktex-gftopk.exe...
+
+'METAFONT output 2026.07.24:1649'
+
+63048 bytes packed to 39120 bytes.
+
+Installing C:\Users\y.gonos\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1200.pk...
+miktex-makepk: major issue: So far, you have not checked for MiKTeX updates.
+ <C:\Users\y.gonos\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600
+\ecti1200.pk>Trying to make PK font ecrm1440 at 600 DPI...
+This is METAFONT, Version 2.71828182 (MiKTeX 26.5)
+The METAFONT mode is: ljfour
+Creating ecrm1440.pk...
+Running miktex-mf.exe...
+
+
+
+
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\ecrm14
+
+40.mf
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exbase
+
+.mf)
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\ecrm.m
+
+f
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exroma
+
+n.mf
+
+ Ok
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exacce
+
+ss.mf
+
+ Ok)
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\expseu
+
+do.mf
+
+ Ok)
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exruwe
+
+st.mf
+
+ Ok [192] [193] [194] [195] [196] [197] [198] [199] [200] [201] [202] [203]
+
+[204] [205] [206] [207] [208] [209] [210] [211] [212] [213] [214] [215]
+
+[216] [217] [218] [219] [220] [221] [222] [223])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrlwe
+
+st.mf
+
+ Ok [224] [225] [226] [227] [228] [229] [230] [231] [232] [233] [234] [235]
+
+[236] [237] [238] [239] [240] [241] [242] [243] [244] [245] [246] [247]
+
+[248] [249] [250] [251] [252] [253] [254] [255])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exruea
+
+st.mf
+
+ Ok [128] [129] [130] [131] [132] [133] [134] [135] [136] [137] [138] [139]
+
+[140] [141] [142] [143] [144] [145] [146] [147] [148] [149] [150] [151]
+
+[152] [153] [154] [155] [156] [157])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrlea
+
+st.mf
+
+ Ok [158] [160] [161] [162] [163] [164] [165] [166] [167] [168] [169] [170]
+
+[171] [172] [173] [174] [175] [176] [177] [178] [179] [180] [181] [182]
+
+[183] [184] [185] [186] [187] [188])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exbrac
+
+es.mf
+
+ Ok [94] [126] [23] [40] [41] [60] [124] [62] [91] [93] [92] [123] [125]
+
+[95] [127] [32])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\expunc
+
+t.mf
+
+ Ok [14] [15] [19] [20] [13] [18] [33] [39] [42] [43] [44] [46] [47] [58]
+
+[59] [61] [96] [189] [17] [45] [16] [21] [22])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exacce
+
+nt.mf
+
+ Ok [0] [1] [2] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exsign
+
+.mf
+
+ Ok [24] [34] [35] [36] [37] [64] [191] [159])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrlig
+
+.mf
+
+ Ok [25] [26] [28] [27] [29] [30] [31])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exromp
+
+.mf
+
+ Ok [38] [63] [190])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrule
+
+tt.mf
+
+ Ok [65] [66] [67] [68] [69] [70] [71] [72] [73] [74] [75] [76] [77] [78]
+
+[79] [80] [81] [82] [83] [84] [85] [86] [87] [88] [89] [90])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrlle
+
+tt.mf
+
+ Ok [97] [98] [99] [100] [101] [102] [103] [104] [105] [106] [107] [108]
+
+[109] [110] [111] [112] [113] [114] [115] [116] [117] [118] [119] [120]
+
+[121] [122])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrdig
+
+it.mf
+
+ Ok [48] [49] [50] [51] [52] [53] [54] [55] [56] [57])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrlig
+
+tb.mf
+
+ Ok) ) ) )
+
+(some charht values had to be adjusted by as much as 0.08084pt)
+
+Font metrics written on ecrm1440.tfm.
+
+Output written on ecrm1440.600gf (256 characters, 71064 bytes).
+
+Transcript written on ecrm1440.log.
+
+Running miktex-gftopk.exe...
+This is GFtoPK, Version 2.4 (MiKTeX 26.5)
+
+'METAFONT output 2026.07.24:1649'
+
+71064 bytes packed to 34320 bytes.
+
+Installing C:\Users\y.gonos\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1440.pk...
+miktex-makepk: major issue: So far, you have not checked for MiKTeX updates.
+ <C:\Users\y.gonos\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/e
+c/dpi600\ecrm1440.pk>Trying to make PK font ecrm2074 at 600 DPI...
+This is METAFONT, Version 2.71828182 (MiKTeX 26.5)
+The METAFONT mode is: ljfour
+
+Creating ecrm2074.pk...
+
+
+
+Running miktex-mf.exe...
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\ecrm20
+
+74.mf
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exbase
+
+.mf)
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\ecrm.m
+
+f
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exroma
+
+n.mf
+
+ Ok
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exacce
+
+ss.mf
+
+ Ok)
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\expseu
+
+do.mf
+
+ Ok)
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exruwe
+
+st.mf
+
+ Ok [192] [193] [194] [195] [196] [197] [198] [199] [200] [201] [202] [203]
+
+[204] [205] [206] [207] [208] [209] [210] [211] [212] [213] [214] [215]
+
+[216] [217] [218] [219] [220] [221] [222] [223])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrlwe
+
+st.mf
+
+ Ok [224] [225] [226] [227] [228] [229] [230] [231] [232] [233] [234] [235]
+
+[236] [237] [238] [239] [240] [241] [242] [243] [244] [245] [246] [247]
+
+[248] [249] [250] [251] [252] [253] [254] [255])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exruea
+
+st.mf
+
+ Ok [128] [129] [130] [131] [132] [133] [134] [135] [136] [137] [138] [139]
+
+[140] [141] [142] [143] [144] [145] [146] [147] [148] [149] [150] [151]
+
+[152] [153] [154] [155] [156] [157])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrlea
+
+st.mf
+
+ Ok [158] [160] [161] [162] [163] [164] [165] [166] [167] [168] [169] [170]
+
+[171] [172] [173] [174] [175] [176] [177] [178] [179] [180] [181] [182]
+
+[183] [184] [185] [186] [187] [188])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exbrac
+
+es.mf
+
+ Ok [94] [126] [23] [40] [41] [60] [124] [62] [91] [93] [92] [123] [125]
+
+[95] [127] [32])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\expunc
+
+t.mf
+
+ Ok [14] [15] [19] [20] [13] [18] [33] [39] [42] [43] [44] [46] [47] [58]
+
+[59] [61] [96] [189] [17] [45] [16] [21] [22])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exacce
+
+nt.mf
+
+ Ok [0] [1] [2] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exsign
+
+.mf
+
+ Ok [24] [34] [35] [36] [37] [64] [191] [159])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrlig
+
+.mf
+
+ Ok [25] [26] [28] [27] [29] [30] [31])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exromp
+
+.mf
+
+ Ok [38] [63] [190])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrule
+
+tt.mf
+
+ Ok [65] [66] [67] [68] [69] [70] [71] [72] [73] [74] [75] [76] [77] [78]
+
+[79] [80] [81] [82] [83] [84] [85] [86] [87] [88] [89] [90])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrlle
+
+tt.mf
+
+ Ok [97] [98] [99] [100] [101] [102] [103] [104] [105] [106] [107] [108]
+
+[109] [110] [111] [112] [113] [114] [115] [116] [117] [118] [119] [120]
+
+[121] [122])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrdig
+
+it.mf
+
+ Ok [48] [49] [50] [51] [52] [53] [54] [55] [56] [57])
+
+(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\fonts/source/jknappen/ec\exrlig
+
+tb.mf
+
+ Ok) ) ) )
+
+(some charht values had to be adjusted by as much as 0.1171pt)
+
+Font metrics written on ecrm2074.tfm.
+
+Output written on ecrm2074.600gf (256 characters, 101464 bytes).
+
+Transcript written on ecrm2074.log.
+
+This is GFtoPK, Version 2.4 (MiKTeX 26.5)
+Running miktex-gftopk.exe...
+
+'METAFONT output 2026.07.24:1649'
+
+101464 bytes packed to 53736 bytes.
+
+miktex-makepk: major issue: So far, you have not checked for MiKTeX updates.
+Installing C:\Users\y.gonos\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm2074.pk...
+ <C:\Users\y.gonos\AppData\Local\MiKTeX\fonts/pk/ljfour/jk
+nappen/ec/dpi600\ecrm2074.pk>
+pdflatex: major issue: So far, you have not checked for MiKTeX updates.
+Output written on discours.pdf (4 pages, 103861 bytes).
+Transcript written on discours.log.

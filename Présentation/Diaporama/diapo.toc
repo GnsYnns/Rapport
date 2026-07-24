@@ -1,0 +1,7 @@
+\babel@toc {french}{}\relax 
+\beamer@sectionintoc {1}{Introduction}{2}{0}{1}
+\beamer@sectionintoc {2}{Présentation entreprise}{3}{0}{2}
+\beamer@sectionintoc {3}{1. Gouvernance et climat}{4}{0}{3}
+\beamer@sectionintoc {4}{2. DEI et social}{6}{0}{4}
+\beamer@sectionintoc {5}{3. Numérique responsable}{8}{0}{5}
+\beamer@sectionintoc {6}{Conclusion}{12}{0}{6}
