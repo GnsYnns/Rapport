@@ -142,10 +142,13 @@
 \section*{Remerciements}
 \addcontentsline{toc}{section}{Remerciements}
 
-Je tiens à remercier mon tuteur entreprise, \NOMTUTEUR, pour son accompagnement et sa disponibilité tout au long de cette mission. Je remercie également l'ensemble de l'équipe du site de Haute-Goulaine pour son accueil, son enthousiasme et la qualité des échanges autour des enjeux informatiques et RSE. Enfin, je remercie Iveco Group de m'avoir donné l'opportunité de réaliser cette mission au c{\oe}ur d'un environnement technique et humain stimulant.
+Je tiens en premier lieu à remercier mon tuteur entreprise, \NOMTUTEUR, pour la qualité de son accompagnement tout au long de cette mission et, plus largement, de mon année d'alternance. Sa disponibilité, son exigence technique bienveillante et sa capacité à transmettre ont été déterminantes dans ma progression, tant sur le plan des compétences de développement que sur celui de la rigueur professionnelle.
 
-\paragraph*{Mention relative à l'intelligence artificielle}
-Les modèles d'intelligence artificielle suivants ont été utilisés comme aides à la correction orthographique, à la rédaction et à la recherche d'informations dans les documents fournis : SWE-1.7, GML 5.2, Gemini, un modèle personnel et Claude Opus 4.8.
+Je remercie également le responsable du site de Haute-Goulaine pour la confiance et l'autonomie qu'il m'a accordées dès mon arrivée, ainsi que l'ensemble de l'équipe pour son accueil, son enthousiasme et la qualité des échanges quotidiens, qu'ils portent sur les enjeux informatiques, la vie du réseau de concessionnaires ou les questions de responsabilité sociétale abordées dans ce rapport. Travailler au sein d'une structure à taille humaine, où chacun prend le temps de partager son expérience, a été une véritable chance.
+
+Cette mission marquant la fin de mon parcours au sein d'Iveco Group, je souhaite exprimer ma gratitude à l'entreprise pour l'ensemble de cette expérience formatrice~: l'exposition à un environnement technique exigeant, la découverte des réalités d'un grand groupe industriel engagé dans sa transition, et la bienveillance constante dont j'ai bénéficié. J'emporte de cette année des compétences, des méthodes et des rencontres qui m'accompagneront durablement, et je souhaite à l'équipe de Haute-Goulaine comme à Iveco Group une pleine réussite dans leurs projets.
+
+Enfin, je remercie mon encadrant pédagogique, \MONENCADRANT, ainsi que l'équipe de \MONECOLE{} pour leur suivi tout au long de cette mission.
 
 \newpage
 
@@ -156,21 +159,16 @@ Les modèles d'intelligence artificielle suivants ont été utilisés comme aide
 \newpage
 
 % ---------------------------------------------------------------------------
-% Liste des sigles et acronymes
-% ---------------------------------------------------------------------------
-\input{sections/acronymes}
-\newpage
-
-% ---------------------------------------------------------------------------
 % Présentation de l'entreprise (3 pages max)
 % ---------------------------------------------------------------------------
 \input{sections/entreprise}
+\newpage
 
 % ---------------------------------------------------------------------------
 % Thème de la mission : objectifs et contexte
 % ---------------------------------------------------------------------------
 \input{sections/introduction}
-
+\newpage
 % ---------------------------------------------------------------------------
 % Développement : 10 pages maximum
 % ---------------------------------------------------------------------------
@@ -197,5 +195,29 @@ Les modèles d'intelligence artificielle suivants ont été utilisés comme aide
 \nocite{un_global_compact,b4si_framework,ghg_protocol,volvo_green_it_2026,daimler_esg_2025,scania_it_green_2025}
 \printbibliography[keyword=interne,heading=subbibliography,title={Documents internes Iveco Group}]
 \printbibliography[keyword=externe,heading=subbibliography,title={Références normatives et cadres sectoriels}]
+
+% ---------------------------------------------------------------------------
+% Outils et ressources utilisés
+% ---------------------------------------------------------------------------
+\newpage
+\section*{Outils et ressources utilisés}
+\addcontentsline{toc}{section}{Outils et ressources utilisés}
+
+La réalisation de ce rapport a mobilisé les outils et ressources numériques suivants :
+
+\begin{itemize}
+    \item \textbf{Modèles d'intelligence artificielle générative (LLM)} : assistance à la rédaction, synthèse des documents, reformulation et relecture.
+    \item \textbf{Mention relative à l'intelligence artificielle} : les modèles suivants ont été utilisés comme aides à la correction orthographique, à la rédaction et à la recherche d'informations dans les documents fournis~: SWE-1.7, GML 5.2, Gemini, un modèle personnel et Claude Opus 4.8.
+    \item \textbf{\LaTeX{} / MiKTeX} : composition typographique, gestion des références bibliographiques et production du PDF.
+    \item \textbf{Google} : recherche et vérification de sources tierces, accès aux documents publics des entreprises du secteur.
+    \item \textbf{GitLab / Git} : gestion des versions du code source et du rapport.
+    \item \textbf{Suite bureautique classique} : traitement de texte, tableaux et préparation des données avant intégration dans \LaTeX{}.
+\end{itemize}
+
+% ---------------------------------------------------------------------------
+% Annexes
+% ---------------------------------------------------------------------------
+\newpage
+\input{sections/annexes}
 
 \end{document}

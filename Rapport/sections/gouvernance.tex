@@ -24,67 +24,17 @@ Scope 3 (indirectes, chaîne de valeur) & 50\,543\,293 \\
 \textit{Note :} les mesures \textit{location-based} et \textit{market-based} du Scope~2 sont alternatives et non cumulables. Le Scope~3 représente environ 99,5~\% des émissions totales avec le périmètre location-based (236\,092\,tCO$_2$eq de Scope~1~+~2).
 \end{table}
 
-\begin{figure}[htbp]
-\centering
-\begin{tikzpicture}
-\begin{axis}[
-    xbar,
-    width=0.85\textwidth,
-    height=0.35\textwidth,
-    xmode=log,
-    log basis x=10,
-    xmin=10000, xmax=100000000,
-    symbolic y coords={Scope 1, Scope 2, Scope 3},
-    ytick=data,
-    xlabel={Émissions 2025 (tCO$_2$éq, échelle logarithmique)},
-    bar width=14pt,
-    enlarge y limits=0.2,
-    nodes near coords,
-    point meta=explicit symbolic,
-    every node near coord/.append style={font=\tiny, anchor=west},
-]
-\addplot[fill=ivecoblue] coordinates {(134675,Scope 1) [0.27\,\%]};
-\addplot[fill=ivecogreen] coordinates {(101417,Scope 2) [0.20\,\%]};
-\addplot[fill=ivecoorange] coordinates {(50543293,Scope 3) [99.53\,\%]};
-\end{axis}
-\end{tikzpicture}
-\caption{Empreinte carbone d'Iveco Group en 2025~: répartition des émissions Scope 1, 2 et 3 en échelle logarithmique. Le Scope 3 domine avec 99,5\,\% du total, ce qui met en évidence la prédominance de la phase d'usage des véhicules vendus.}
-\label{fig:ghg}
-\end{figure}
+Une représentation graphique de cette répartition, en échelle logarithmique, est proposée en annexe (Figure~\ref{fig:ghg}).
 
-La consommation énergétique totale du groupe s'élève à \textbf{1\,125\,910\,MWh} en 2025, dont \textbf{35,2\,\%} d'énergies renouvelables (contre 64,8\,\% de sources fossiles) \cite{iveco_ghg_2025}. Cette progression traduit la montée en puissance des achats d'électricité verte et des investissements en efficacité énergétique.
+La consommation énergétique totale du groupe s'élève à \textbf{1\,125\,910\,MWh} en 2025, dont \textbf{35,2\,\%} d'énergies renouvelables (contre 64,8\,\% de sources fossiles~; voir Figure~\ref{fig:energie} en annexe) \cite{iveco_ghg_2025}. Cette progression traduit la montée en puissance des achats d'électricité verte et des investissements en efficacité énergétique.
 
 Sur le plan analytique, le rapport Scope~3 / Scope~1+2 (plus de 99\,\%) illustre que l'essentiel du défi décarbonation réside dans la phase d'usage des véhicules vendus, hors du contrôle direct d'Iveco Group. La cible Scope~3 étant exprimée en intensité (par véhicule-kilomètre) et non en valeur absolue, elle dépend fortement des volumes de production et du mix énergétique des clients, ce qui appelle un pilotage robuste et transparent.
 
-\begin{figure}[htbp]
-\centering
-\begin{tikzpicture}
-\begin{axis}[
-    xbar,
-    width=0.75\textwidth,
-    height=0.2\textwidth,
-    xmin=0, xmax=100,
-    xlabel={Part de la consommation énergétique (\%)},
-    ytick=data,
-    symbolic y coords={Renouvelable, Fossile},
-    bar width=16pt,
-    nodes near coords,
-    nodes near coords align={horizontal},
-    enlarge y limits=0.25,
-]
-\addplot[fill=ivecogreen] coordinates {(35.2,Renouvelable)};
-\addplot[fill=ivecoorange] coordinates {(64.8,Fossile)};
-\end{axis}
-\end{tikzpicture}
-\caption{Mix énergétique d'Iveco Group en 2025. Les énergies renouvelables atteignent 35,2\,\%, en hausse grâce aux achats d'électricité verte et aux investissements en efficacité.}
-\label{fig:energie}
-\end{figure}
-
 \subsection{Gouvernance et alignement stratégique}
 
-La responsabilité ultime de la stratégie de décarbonation incombe au \textbf{Conseil d'administration}, assisté par le \textbf{comité ESG}, qui en suit l'exécution, guide la gestion des risques climatiques et examine les actions d'efficacité énergétique \cite{iveco_annual_2025}. Au niveau opérationnel, la \textbf{Senior Leadership Team (SLT)} définit la stratégie de durabilité ; l'équipe \textbf{Energy} coordonne la gestion des ressources énergétiques et l'équipe \textbf{EEHS} (Energy, Environment, Health and Safety) supervise les questions de santé et sécurité.
+La responsabilité ultime de la stratégie de décarbonation incombe au \textbf{Conseil d'administration}, assisté par le \textbf{comité ESG}\footnote{Environmental, Social and Governance : environnemental, social et de gouvernance.}, qui en suit l'exécution, guide la gestion des risques climatiques et examine les actions d'efficacité énergétique \cite{iveco_annual_2025}. Au niveau opérationnel, la \textbf{Senior Leadership Team (SLT)}\footnote{Senior Leadership Team : équipe de direction exécutive.} définit la stratégie de durabilité ; l'équipe \textbf{Energy} coordonne la gestion des ressources énergétiques et l'équipe \textbf{EEHS} (Energy, Environment, Health and Safety)\footnote{Energy, Environment, Health and Safety : énergie, environnement, santé et sécurité.} supervise les questions de santé et sécurité.
 
-Par ailleurs, le processus de déclaration RSE repose sur une démarche de \textbf{double matérialité} alignée sur la directive \glos{CSRD} et les \glos{ESRS}. La plateforme \textbf{ESGeo} centralise les données de durabilité, les contrôles de processus (PLC) et les vérifications des indicateurs, afin d'en garantir la fiabilité \cite{iveco_annual_2025}.
+Par ailleurs, le processus de déclaration RSE repose sur une démarche de \textbf{double matérialité} alignée sur la directive \glos{CSRD}\footnote{Corporate Sustainability Reporting Directive : directive européenne sur la publication d'informations de durabilité par les entreprises.} et les \glos{ESRS}\footnote{European Sustainability Reporting Standards : normes européennes de publication d'informations de durabilité.}. La plateforme \textbf{ESGeo} centralise les données de durabilité, les contrôles de processus (PLC) et les vérifications des indicateurs, afin d'en garantir la fiabilité \cite{iveco_annual_2025}.
 
 \begin{figure}[htbp]
 \centering
@@ -132,7 +82,7 @@ Indices & ECPI Euro ESG Equity Index, Integrated Governance Index (IGI) \\
 Ces résultats confirment la crédibilité externe de la démarche RSE. Les excellents scores S\&P Global et EcoVadis attestent de la maturité des processus, tandis que le \glos{CDP} climat (A) et eau (A-) valident la qualité de la donnée environnementale. Le score plus faible du CDP Forêts (C) constitue un point d'attention, à mettre en regard avec la forte dépendance du groupe aux matériaux d'approvisionnement.
 
 \paragraph{Parties prenantes institutionnelles}
-Les administrations et organismes publics jouent un rôle déterminant dans la mise en œuvre de la politique RSE. Les normes internationales (ISO 45001), les mécanismes de reporting réglementaire (CSRD/ESRS) et les autorités de contrôle (RGPD, inspections du travail) fixent le cadre dans lequel Iveco Group doit démontrer la fiabilité de ses indicateurs et la conformité de ses processus. La certification externe, le scoring ESG (CDP, EcoVadis, S\&P Global) et les audits de l'assurance ISAE 3410 du \textit{GHG Statement} traduisent cette supervision institutionnelle.
+Les administrations et organismes publics jouent un rôle déterminant dans la mise en œuvre de la politique RSE. Les normes internationales (ISO\footnote{International Organization for Standardization : Organisation internationale de normalisation.} 45001), les mécanismes de reporting réglementaire (CSRD/ESRS) et les autorités de contrôle (RGPD, inspections du travail) fixent le cadre dans lequel Iveco Group doit démontrer la fiabilité de ses indicateurs et la conformité de ses processus. La certification externe, le scoring ESG (CDP, EcoVadis, S\&P Global) et les audits de l'assurance ISAE 3410 du \textit{GHG Statement} traduisent cette supervision institutionnelle.
 
 \subsection{Approvisionnement et matériaux critiques}
 

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.7.24)  24 JUL 2026 16:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.7.24)  27 JUL 2026 16:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1130,7 +1130,7 @@ Package rerunfilecheck Info: File `diapo.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  24418 strings out of 467510
- 481034 string characters out of 5407822
+ 481040 string characters out of 5407822
  862949 words of memory out of 5000000
  53135 multiletter control sequences out of 15000+600000
  636839 words of font info for 53 fonts, out of 8000000 for 9000
@@ -1146,9 +1146,9 @@ eX\fonts/pk/ljfour/jknappen/ec/dpi600\ecss0600.pk> <C:\Users\y.gonos\AppData\Lo
 cal\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecss0800.pk> <C:\Users\y.gonos\Ap
 pData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecss1200.pk> <C:\Users\y.
 gonos\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecss1728.pk>
-Output written on diapo.pdf (12 pages, 239371 bytes).
+Output written on diapo.pdf (12 pages, 243660 bytes).
 PDF statistics:
- 699 PDF objects out of 1000 (max. 8388607)
+ 712 PDF objects out of 1000 (max. 8388607)
  31 named destinations out of 1000 (max. 500000)
  683 words of extra memory for PDF output out of 10000 (max. 10000000)
 
