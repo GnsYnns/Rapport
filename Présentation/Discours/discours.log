@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2026.9.16)  9 OCT 2026 11:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2026.9.16)  9 OCT 2026 11:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -190,9 +190,9 @@ x1728.600pk> </home/yannis/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/ec/e
 cti1200.600pk> </home/yannis/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/ec
 /ecrm1440.600pk> </home/yannis/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/
 ec/ecrm2074.600pk>
-Output written on discours.pdf (4 pages, 95632 bytes).
+Output written on discours.pdf (4 pages, 102456 bytes).
 PDF statistics:
- 319 PDF objects out of 1000 (max. 8388607)
+ 334 PDF objects out of 1000 (max. 8388607)
  42 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
