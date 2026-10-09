@@ -4,6 +4,9 @@
 \usepackage{babel}
 \usepackage{graphicx}
 \usepackage{xcolor}
+\usepackage{tikz}
+\usepackage{totcount}
+\regtotcounter{section}
 
 % Couleurs Iveco
 \definecolor{ivecoblue}{RGB}{0,85,150}
@@ -21,7 +24,38 @@
 
 \setbeamertemplate{navigation symbols}{}
 
-% Fil d'Ariane = framesubtitle, pagination = footline
+% Fil d'Ariane visuel : cercles de progression selon les sections
+\newcommand{\sectionprogress}{%
+  \ifnum\value{section@totc}>-1
+    \tikz[baseline=-0.55ex]{%
+      \pgfmathsetmacro{\progressend}{(\value{section@totc}-1)*0.45}%
+      \draw[line width=0.6pt, white] (0,0) -- (\progressend cm,0);
+      \foreach \secnum in {1,...,\value{section@totc}}{%
+        \ifnum\secnum>\insertsectionnumber
+          \node[circle, draw=white, line width=0.6pt, minimum size=6pt, inner sep=0pt, fill=ivecoblue] at (\secnum*0.45cm-0.45cm,0) {};
+        \else
+          \node[circle, draw=white, line width=0.6pt, minimum size=6pt, inner sep=0pt, fill=white] at (\secnum*0.45cm-0.45cm,0) {};
+        \fi
+      }%
+    }%
+  \fi
+}
+
+\setbeamertemplate{frametitle}{%
+  \nointerlineskip%
+  \begin{beamercolorbox}[wd=\paperwidth,sep=0.35cm,left]{frametitle}%
+    \parbox[t]{0.70\linewidth}{%
+      \raggedright\usebeamerfont{frametitle}\insertframetitle%
+    }%
+    \hfill%
+    \parbox[t]{0.25\linewidth}{%
+      \raggedleft\sectionprogress%
+    }%
+  \end{beamercolorbox}%
+}
+\setbeamertemplate{framesubtitle}{}
+
+% Pagination = footline
 \setbeamertemplate{footline}{%
   \leavevmode%
   \hbox{%
@@ -85,6 +119,7 @@ Comment Iveco structure-t-il sa stratégie RSE et ses engagements carbone ?
 \begin{itemize}
   \item Priorités : empreinte carbone, cycle de vie, santé-sécurité, inclusion
   \item Gouvernance : Conseil, \textbf{SLT}, comités dédiés (EEHS, énergie, durabilité)
+  \item Éthique : formation au Code de Conduite (\textbf{12 200} salariés), Compliance Helpline (\textbf{241} signalements en 2025)
 \end{itemize}
 \end{frame}
 
@@ -127,29 +162,36 @@ Quelles sont les avancées sociales et les points de vigilance ?
 \end{frame}
 
 \begin{frame}{Performance sociale en 3 chiffres}{2. DEI et social}
-\begin{columns}[T]
-  \begin{column}{0.32\textwidth}
-    \begin{block}{Santé-sécurité}
+\noindent
+\begin{minipage}[t]{0.31\textwidth}
+  \begin{block}{Santé-sécurité\strut}
+    \parbox[t][2.5cm]{\linewidth}{%
       \centering
-      \huge \textbf{-51\,\%}\normalsize\\[0.2cm]
-      taux de blessures\\vs cible \textbf{-40\,\%}
-    \end{block}
-  \end{column}
-  \begin{column}{0.32\textwidth}
-    \begin{block}{Égalité}
+      \huge \textbf{-51\,\%}\normalsize\\[0.15cm]
+      taux de blessures\\vs cible \textbf{-40\,\%}%
+    }%
+  \end{block}
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.31\textwidth}
+  \begin{block}{Egalit\'e\strut}
+    \parbox[t][2.5cm]{\linewidth}{%
       \centering
-      \huge \textbf{30\,\%}\normalsize\\[0.2cm]
-      de femmes visé d'ici 2028
-    \end{block}
-  \end{column}
-  \begin{column}{0.32\textwidth}
-    \begin{block}{Communautés}
+      \huge \textbf{30\,\%}\normalsize\\[0.15cm]
+      de femmes dans les fonctions de bureau\\d'ici fin 2028%
+    }%
+  \end{block}
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.31\textwidth}
+  \begin{block}{Communautés\strut}
+    \parbox[t][2.5cm]{\linewidth}{%
       \centering
-      \huge \textbf{150\,000}\normalsize\\[0.2cm]
-      bénéficiaires via \textbf{B4SI}
-    \end{block}
-  \end{column}
-\end{columns}
+      \huge \textbf{149 690}\normalsize\\[0.15cm]
+      bénéficiaires directs\\impact >150 000 personnes, via \textbf{B4SI}%
+    }%
+  \end{block}
+\end{minipage}
 \end{frame}
 
 \section{3. Numérique responsable}
@@ -185,21 +227,34 @@ L'IT de Haute-Goulaine est-elle alignée sur la stratégie RSE du groupe ?
 \end{frame}
 
 \begin{frame}{Où en sont les concurrents ?}{3. Numérique responsable}
+\vspace{-0.15cm}
 \begin{columns}[T]
   \begin{column}{0.48\textwidth}
     \begin{block}{Volvo Group}
-      Programme \textit{Green by Design} : cloud, matériel circulaire, empreinte numérique des salariés
+      \parbox[c][2.3cm]{\linewidth}{\small
+        \raggedright
+        Programme \textit{Green by Design} : cloud, matériel circulaire, empreinte numérique des salariés%
+      }%
     \end{block}
     \begin{block}{Scania}
-      Mesure de l'impact applications (\textit{vCPU.h}), réemploi du matériel
+      \parbox[c][2.3cm]{\linewidth}{\small
+        \raggedright
+        Mesure de l'impact applications (\textit{vCPU.h}), réemploi du matériel%
+      }%
     \end{block}
   \end{column}
   \begin{column}{0.48\textwidth}
     \begin{block}{Daimler Truck}
-      \textbf{-43\,\%} d'émissions Scope 1 \& 2 depuis 2021
+      \parbox[c][2.3cm]{\linewidth}{\small
+        \raggedright
+        \textbf{-43\,\%} d'émissions Scope 1 \& 2 depuis 2021%
+      }%
     \end{block}
     \begin{alertblock}{Positionnement Iveco}
-      Briques solides mais pas encore de programme Green IT interne publié
+      \parbox[c][2.3cm]{\linewidth}{\small
+        \raggedright
+        Briques solides mais pas encore de programme Green IT interne publié%
+      }%
     \end{alertblock}
   \end{column}
 \end{columns}
@@ -209,7 +264,7 @@ L'IT de Haute-Goulaine est-elle alignée sur la stratégie RSE du groupe ?
 \begin{enumerate}
   \item \textbf{Éco-conception logicielle} : checklist Green IT, optimisation des requêtes, extinction automatique des environnements non productifs
   \item \textbf{Cycle de vie du matériel} : atteindre \textbf{30\,\%} de parc test/reconditionné d'ici 2028
-  \item \textbf{Achats responsables} : \textbf{100\,\%} des nouveaux postes labellisés d'ici 2026
+  \item \textbf{Achats responsables} (EPEAT, TCO Certified, rapports durabilité fournisseurs) : \textbf{100\,\%} des nouveaux postes labellisés d'ici 2026
 \end{enumerate}
 \vspace{0.3cm}
 \begin{block}{KPI transverse -- mesurable dès aujourd'hui}

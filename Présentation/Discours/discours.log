@@ -1,156 +1,95 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.7.24)  27 JUL 2026 16:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2026.9.16)  9 OCT 2026 11:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**./discours.tex
-(discours.tex
-LaTeX2e <2026-06-01>
-L3 programming layer <2026-06-18>
-(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
-Document Class: article 2025/01/22 v1.4n Standard LaTeX document class
-(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
-File: size12.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
+**discours.tex
+(./discours.tex
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2024/06/29 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2024/06/29 v1.4n Standard LaTeX file (size option)
 )
-\c@part=\count276
-\c@section=\count277
-\c@subsection=\count278
-\c@subsubsection=\count279
-\c@paragraph=\count280
-\c@subparagraph=\count281
-\c@figure=\count282
-\c@table=\count283
+\c@part=\count196
+\c@section=\count197
+\c@subsection=\count198
+\c@subsubsection=\count199
+\c@paragraph=\count266
+\c@subparagraph=\count267
+\c@figure=\count268
+\c@table=\count269
 \abovecaptionskip=\skip49
 \belowcaptionskip=\skip50
-\bibindent=\dimen150
+\bibindent=\dimen141
 )
-(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
-Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 )
-(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2024/02/08 v1.3d Input encoding file
 \inpenc@prehook=\toks17
 \inpenc@posthook=\toks18
 )
-(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
-Package: babel 2026/06/14 v26.9 The multilingual framework for LuaLaTeX, pdfLaT
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2025/02/14 v25.4 The multilingual framework for pdfLaTeX, LuaLaT
 eX and XeLaTeX
-\babel@savecnt=\count284
-LaTeX Encoding Info:    Redeclaring text command \ij (encoding OT1) on input li
-ne 2084.
-LaTeX Encoding Info:    Redeclaring text command \IJ (encoding OT1) on input li
-ne 2086.
-LaTeX Encoding Info:    Redeclaring text command \ij (encoding T1) on input lin
-e 2088.
-LaTeX Encoding Info:    Redeclaring text command \IJ (encoding T1) on input lin
-e 2089.
-LaTeX Encoding Info:    Ignoring declaration for text command \ij (encoding ?) 
-on input line 2090.
-LaTeX Encoding Info:    Ignoring declaration for text command \IJ (encoding ?) 
-on input line 2092.
-LaTeX Encoding Info:    Ignoring declaration for text command \SS (encoding ?) 
-on input line 2117.
-\U@D=\dimen151
-\l@unhyphenated=\language79
+\babel@savecnt=\count270
+\U@D=\dimen142
+\l@unhyphenated=\language3
 
-(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+(/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
 \bbl@readstream=\read2
-\bbl@dirlevel=\count285
-Package babel Info: Configuration files are deprecated, as
-(babel)             they can break document portability.
-(babel)             Reported on input line 4252.
-*************************************
-* Local config file bblopts.cfg used
-*
-(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
-File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
- babel
-)
-(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/fr\bab
-el-french.tex)
-Package babel Info: Importing font and identification data for 'french'
-(babel)             from babel-fr.ini. Reported on input line 4380.
+\bbl@dirlevel=\count271
 
-(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/babel-french\french
-.ldf
-Language: french 2026-06-06 v4.1a French support from the babel system
+(/usr/share/texlive/texmf-dist/tex/generic/babel/locale/fr/babel-french.tex)
+Package babel Info: Importing data for french
+(babel)             from babel-fr.ini. Reported on input line 4167.
+Package babel Info: Hyphen rules for 'french' set to \l@english
+(babel)             (\language0). Reported on input line 4167.
 
-(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/babel-french\french
-3.ldf
-Language: french 2026-06-06 v3.7f French support from the babel system
-\FB@stdchar=\count286
-Package babel Info: Making : an active character on input line 266.
-Package babel Info: Making ; an active character on input line 267.
-Package babel Info: Making ! an active character on input line 268.
-Package babel Info: Making ? an active character on input line 269.
-\FBguill@level=\count287
-\FBold@everypar=\toks19
-\FB@Mht=\dimen152
-\mc@charclass=\count288
-\mc@charfam=\count289
-\mc@charslot=\count290
-\std@mcc=\count291
-\dec@mcc=\count292
-\listindentFB=\dimen153
-\descindentFB=\dimen154
-\labelwidthFB=\dimen155
-\labelfullwidthFB=\dimen156
-\FB@pardim=\dimen157
-\parindentFFN=\dimen158
-\FBfnindent=\dimen159
-)))
-(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/carlisle\scalefnt.sty
+(/usr/share/texlive/texmf-dist/tex/generic/babel/locale/fr/babel-french.tex))
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
 )
-(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
-Package: geometry 2026/03/07 v6.0 Page Geometry
-(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
-Package: keyval 2026-05-17 v1.15 key=value parser (DPC)
-\KV@toks@=\toks20
-)
-(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 
-(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2024/12/12 v1.0g TeX engine tests
 ))
-\Gm@cnth=\count293
-\Gm@cntv=\count294
-\c@Gm@tempcnt=\count295
-\Gm@bindingoffset=\dimen160
-\Gm@wd@mp=\dimen161
-\Gm@odd@mp=\dimen162
-\Gm@even@mp=\dimen163
-\Gm@layoutwidth=\dimen164
-\Gm@layoutheight=\dimen165
-\Gm@layouthoffset=\dimen166
-\Gm@layoutvoffset=\dimen167
-\Gm@dimlist=\toks21
-
-(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg
-))
-(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
+\Gm@cnth=\count272
+\Gm@cntv=\count273
+\c@Gm@tempcnt=\count274
+\Gm@bindingoffset=\dimen143
+\Gm@wd@mp=\dimen144
+\Gm@odd@mp=\dimen145
+\Gm@even@mp=\dimen146
+\Gm@layoutwidth=\dimen147
+\Gm@layoutheight=\dimen148
+\Gm@layouthoffset=\dimen149
+\Gm@layoutvoffset=\dimen150
+\Gm@dimlist=\toks20
+)
+(/home/yannis/texmf/tex/latex/enumitem/enumitem.sty
 Package: enumitem 2025/02/06 v3.11 Customized lists
 \labelindent=\skip51
-\enit@outerparindent=\dimen168
-\enit@toks=\toks22
-\enit@inbox=\box53
-\enit@count@id=\count296
-\enitdp@description=\count297
+\enit@outerparindent=\dimen151
+\enit@toks=\toks21
+\enit@inbox=\box52
+\enit@count@id=\count275
+\enitdp@description=\count276
 )
-Package french3.ldf Info: Setting StandardItemizeEnv=true for
-(french3.ldf)             compatibility with enumitem package,
-(french3.ldf)             reported on input line 13.
-Package french3.ldf Info: Setting StandardEnumerateEnv=true for
-(french3.ldf)             compatibility with enumitem package,
-(french3.ldf)             reported on input line 13.
-
-(C:\Users\y.gonos\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-p
-dftex.def
-File: l3backend-pdftex.def 2026-02-18 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count298
-) (discours.aux
-Package babel Info: 'french' activates 'french' shorthands.
-(babel)             Reported on input line 8.
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count277
+\l__pdf_internal_box=\box53
 )
+(./discours.aux)
 \openout1 = `discours.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
@@ -167,7 +106,6 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
 LaTeX Font Info:    ... okay on input line 13.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
 LaTeX Font Info:    ... okay on input line 13.
-LaTeX Info: Redefining \degres on input line 13.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -203,40 +141,59 @@ LaTeX Info: Redefining \degres on input line 13.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package babel Info: Main language set to 'french'.
-[1
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 14.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 14.
 
-{C:/Users/y.gonos/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2]
-Overfull \hbox (67.45679pt too wide) in paragraph at lines 85--86
-[]\T1/cmr/m/n/12 Recommandation 2 --- \T1/cmr/bx/n/12 cycle de vie du ma-té-rie
-l \T1/cmr/m/n/12 : pri-vi-lé-gier le ré-em-ploi/reconditionnement
+Overfull \hbox (56.07198pt too wide) in paragraph at lines 31--32
+[]\T1/cmr/m/n/12 Environnement : postes Win-dows 11 / WSL2, stack PHP/Symfony, 
+bases MySQL/Informix,
  []
 
-[3] [4] (discours.aux)
+
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+
+[2]
+Overfull \hbox (61.58322pt too wide) in paragraph at lines 88--89
+[]\T1/cmr/m/n/12 Recommandation 2 --- \T1/cmr/bx/n/12 cy-cle de vie du matériel
+ \T1/cmr/m/n/12 : priv-ilégier le réem-ploi/reconditionnement
+ []
+
+
+
+[3]
+
+[4] (./discours.aux)
  ***********
-LaTeX2e <2026-06-01>
-L3 programming layer <2026-06-18>
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 3526 strings out of 467510
- 62935 string characters out of 5407822
- 494251 words of memory out of 5000000
- 32782 multiletter control sequences out of 15000+600000
- 634103 words of font info for 49 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 57i,5n,65p,583b,385s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\y.gonos\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ec
-bx1440.pk> <C:\Users\y.gonos\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/d
-pi600\ecbx1200.pk> <C:\Users\y.gonos\AppData\Local\MiKTeX\fonts/pk/ljfour/jknap
-pen/ec/dpi600\ecrm1200.pk> <C:\Users\y.gonos\AppData\Local\MiKTeX\fonts/pk/ljfo
-ur/jknappen/ec/dpi600\ecbx1728.pk> <C:\Users\y.gonos\AppData\Local\MiKTeX\fonts
-/pk/ljfour/jknappen/ec/dpi600\ecti1200.pk> <C:\Users\y.gonos\AppData\Local\MiKT
-eX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1440.pk> <C:\Users\y.gonos\AppData\Lo
-cal\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm2074.pk>
-Output written on discours.pdf (4 pages, 106682 bytes).
+ 2833 strings out of 475178
+ 49431 string characters out of 5766539
+ 462325 words of memory out of 5000000
+ 25860 multiletter control sequences out of 15000+600000
+ 566469 words of font info for 49 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 57i,6n,65p,421b,484s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ </home/yannis/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1440.60
+0pk> </home/yannis/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1200.
+600pk> </home/yannis/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm120
+0.600pk> </home/yannis/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1
+200.600pk> </home/yannis/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/ec/ecb
+x1728.600pk> </home/yannis/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/ec/e
+cti1200.600pk> </home/yannis/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/ec
+/ecrm1440.600pk> </home/yannis/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/
+ec/ecrm2074.600pk>
+Output written on discours.pdf (4 pages, 95632 bytes).
 PDF statistics:
- 304 PDF objects out of 1000 (max. 8388607)
+ 319 PDF objects out of 1000 (max. 8388607)
+ 42 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
